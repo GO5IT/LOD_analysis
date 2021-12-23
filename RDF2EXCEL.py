@@ -33,7 +33,7 @@ fileprefix = 'Places_'
 # 9  Europeana
 
 # Include all access URLs and URLs automatically from EXCEL file
-xl_file = pd.ExcelFile('ListOfAllURLs_nohttps_for_URIs_and_URLs_GettyWebURIs_BabelNameSpaces_GettyNameSpaces_wikidataNameSpaces_euroURLsURIs_GeoHttpURIs.xlsx')
+xl_file = pd.ExcelFile('URLsandURIs.xlsx')
 # Put 2 sheets in DataFrame with the sheetnames
 data = {sheet_name: xl_file.parse(sheet_name)
            for sheet_name in xl_file.sheet_names}
