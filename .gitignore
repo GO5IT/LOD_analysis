@@ -1,3 +1,12 @@
+##### All experimental CSV files
+*.csv
+##### All experimental RDF files to be imported
+*.rdf
+*.ttl
+##### Folders
+archive/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
