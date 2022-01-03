@@ -15,10 +15,10 @@ import module_save_excel as save_excel
 # Specify the start and end number of entities to be process in this module
 # To shorten testing time, use only a few entities (e.g. start 0, end 2). To set all entities in a category, see the range below. Best to batch per category, so errors can be found too
 # Person 0:19, 0:22, Places 23-42, 23:52, Dates 53:72, Events 73:92, 73:95, Objects 96:115, 96:121
-start_batch = 96
-end_batch = 97
+start_batch = 118
+end_batch = 121
 # Specify the prefix of each file to be produced (Dates_, Events, Places_, Objects_)
-fileprefix = 'Places_'
+fileprefix = 'Objects_'
 
 # Reference to sources in this code
 # 0   Worldcat
@@ -33,7 +33,8 @@ fileprefix = 'Places_'
 # 9  Europeana
 
 # Include all access URLs and URLs automatically from EXCEL file
-xl_file = pd.ExcelFile('URLsandURIs.xlsx')
+#xl_file = pd.ExcelFile('URLsandURIs.xlsx')
+xl_file = pd.ExcelFile('ListOfAllURLs_nohttps_for_URIs_and_URLs_GettyWebURIs_BabelNameSpaces_GettyNameSpaces_wikidataNameSpaces_euroURLsURIs_GeoHttpURIs_YagoURIs_2.xlsx')
 # Put 2 sheets in DataFrame with the sheetnames
 data = {sheet_name: xl_file.parse(sheet_name)
            for sheet_name in xl_file.sheet_names}
@@ -74,7 +75,7 @@ for n in range(len(data['ListOfURLs'].index)):
     else:
         break
 
-    print(allagg[-1])
+    #print(allagg[-1])
     print('COUNTS+++++++++++++++++++')
     # Generate percentage of coverage for each entity
     count = create_counts.count(allagg)

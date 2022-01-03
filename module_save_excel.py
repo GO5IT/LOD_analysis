@@ -9,9 +9,9 @@ def save_excel(allagg, coverage_df, fileprefix, entityname):
     # Access the default sheet and rename it
     ws = wb.active
     ws.title = 'comparison'
-    # Convert dataframe to rows in EXCEL and add them to the sheet
+    #Convert dataframe to rows in EXCEL and add them to the sheet
     for r in dataframe_to_rows(allagg[-1], index=True, header=True):
-        ws.append(r)
+       ws.append(r)
     # Alternative way to save as EXCEL or CSV
     #allagg[-1].to_excel(r'allagg[1].xlsx', sheet_name='comparison', index = False)
     #allagg_csv = allagg[-1].to_csv('allagg[1].csv', index=True, index_label='@id')
@@ -21,7 +21,7 @@ def save_excel(allagg, coverage_df, fileprefix, entityname):
     # Convert dataframe to rows in EXCEL and add them to the sheet
     #allagg_csv = coverage_df.to_csv('000.csv', index=True, index_label='@id')
     #for r in dataframe_to_rows(coverage_df, index=False, header=False):
-    #    ws1.append(r)
+    #   ws1.append(r)
 
     # Create sheet from dataframe (iterate each rows in EXCEL)
     for r in dataframe_to_rows(coverage_df, index=False, header=True):

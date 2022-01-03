@@ -1,5 +1,6 @@
 ##### All experimental CSV files
 *.csv
+*.doc
 ##### All experimental RDF files to be imported
 *.rdf
 *.ttl

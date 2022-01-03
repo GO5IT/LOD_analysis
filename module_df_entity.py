@@ -1,4 +1,5 @@
 import pandas as pd
+import urllib.parse
 import rdflib
 import rdfpandas
 from rdfpandas.graph import to_dataframe
@@ -6,7 +7,8 @@ from rdfpandas.graph import to_dataframe
 # Option A: Check each entity manually
 # Set which row to analyse by providing row number in [] as entities to compare (to find the most important data in an entity)
 def manual_entity_check(rownumber, entities):
-    target = entities.loc[rownumber, 'url']
+    # URL percent coding
+    target = urllib.parse.quote(entities.loc[rownumber, 'url'])
     target2 = entities.loc[rownumber, 'uri']
     name = entities.loc[rownumber, 'source']
     # If dataframe is not empty ('')
@@ -45,9 +47,9 @@ def create_dataframe_entity(entities):
             df['entity'] = df.index
             print(df.head)
             # Just testing purpose to check YAGO data (delete after all XSLX created)
-            if entities.loc[i, 'source'] == 'GeoNames':
-                csvnumber = entities.loc[i, 'source'] + str(i) + '.csv'
-                df_csv = df.to_csv(csvnumber, index=True, index_label='@id')
+            #if entities.loc[i, 'source'] == 'YAGO':
+                #csvnumber = entities.loc[i, 'source'] + str(i) + '.csv'
+                #df_csv = df.to_csv(csvnumber, index=True, index_label='@id')
             # Check matching rows in the dafafame which includes the entity URI
             print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
             print(df['entity'])
@@ -68,8 +70,22 @@ def create_dataframe_entity(entities):
                 x = df[df['entity'] == category_uri]
                 x_transposed = x.T
                 x_transposed['full_coverage'] = x_transposed[category_uri]
+                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
                 print(x)
                 print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+
+            uncle_uri = r" http://yago-knowledge.org/resource/Uncle_Tom's_Cabin"
+            uncle_uri2 = r"http://dbpedia.org/resource/Uncle_Tom's_Cabin"
+            uncle_uri3 = r"http://dbpedia.org/resource/Uncle_Tom"
+            if df['entity'].str.contains(uncle_uri2).any() and entities.loc[i, 'source'] == 'YAGO':
+                entities.loc[i, 'uri'].replace(uncle_uri2, uncle_uri3)
+                df['entity'].replace(uncle_uri2, uncle_uri3)
+                x = df[df['entity'] == entities.loc[i, 'uri']]
+                print(x)
+                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+                x_transposed = x.T
+                x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+
             else:
                 x = df[df['entity'] == entities.loc[i, 'uri']]
                 print(x)
@@ -79,7 +95,7 @@ def create_dataframe_entity(entities):
             x_transposed.dropna(subset=['full_coverage'], inplace=True)
             print(x_transposed)
             aggregate.append(x_transposed)
-            #print(aggregate)
+            print(aggregate)
             # Save dataframe of each entity as CSV (file name is index number (i) in the dataframe)
             #csvnumber = entities.loc[i, 'source'] + str(i) + '.csv'
             #df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
@@ -91,22 +107,4 @@ def create_dataframe_entity(entities):
             y2 = pd.DataFrame(data2, index = ['dc:identifier'])
             print(y2)
             aggregate.append(y2)
-            # print('----------------')
-            # # Create an empty dataframe
-            # data = {'dc:identifier{Literal}': [''], 'entity': [entities.loc[i, 'source']]}
-            # #data = {str(entities.loc[i, 'uri']): [''], 'full_coverage': ['']}
-            # y = pd.DataFrame(data)
-            # print('----------------')
-            # print(y)
-            # print('----------------')
-            # print(entities.loc[i, 'source'])
-            # y['entity'] = y.index
-            # print('----------------')
-            # print(y)
-            # y_transposed = y.T
-            # #y_transposed['full_coverage'] = y_transposed[entities.loc[i, 'source']]
-            # #y_transposed['full_coverage'] = y_transposed['dc:identifier{Literal}']
-            # #y_transposed.dropna(subset=['full_coverage'], inplace=True)
-            # print(y_transposed)
-            # aggregate.append(y)
     return(aggregate)

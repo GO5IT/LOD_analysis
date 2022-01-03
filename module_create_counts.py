@@ -8,7 +8,7 @@ def count(allagg):
     count2 = allagg[-1].count().to_frame()
     # Replace 1 (i.e. resource with no entity was temporarily assigned 1) with 0
     for iii in range(len(count2)):
-        print(count2.iloc[iii, 0])
+        #print(count2.iloc[iii, 0])
         if count2.iloc[iii, 0] == 1:
             count2.iloc[iii, 0] = 0
         else:
@@ -22,23 +22,23 @@ def count(allagg):
 def create_coverage_stats(count,entities):
     coverage = {'uri': [], 'count': [], 'gap': [], 'percentage': []}
     coverage_df = pd.DataFrame(coverage)
-    print(coverage_df)
-    print(count)
-    print(count.loc['full_coverage', 0])
+    # print(coverage_df)
+    # print(count)
+    # print(count.loc['full_coverage', 0])
     # Iterate over count
     for n in range(len(count)):
         gap = count.loc['full_coverage',0] - count.iloc[n,0]
-        print(gap)
+        #print(gap)
         rate = str(count.iloc[n,0] / count.loc['full_coverage',0] * 100) + '%'
-        print(rate)
-        print(count.index[n])
+        #print(rate)
+        #print(count.index[n])
         #coverage_df.loc[n,:] = [count.index[n], count[n], gap, rate]
         coverage_df.loc[n,['uri','count','gap','percentage']] = [count.index[n],count.iloc[n,0], gap, rate]
     # Insert 'full_coverage' in coverage_df dataframe
     # if entities.loc[entities['uri'] == '']:
     #     coverage_df.loc[0.5] = str(entities.loc['source']), '','',''
     #     coverage_df = coverage_df.sort_index().reset_index(drop=True)
-    print(coverage_df)
+    #print(coverage_df)
 
     # Insert count column at the end of entities dataframe, and if uri is empty, put 0
     entities.insert(3, 'count', '')
@@ -47,13 +47,13 @@ def create_coverage_stats(count,entities):
     #entities.loc[entities['uri'] == '', 'count'] = 0
     entities.loc[entities['uri'] == '', 'gap'] = 0
     entities.loc[entities['uri'] == '', 'percentage'] = 0
-    print(entities)
+    #print(entities)
 
     # Insert 'full_coverage' in entities dataframe
     entities.loc[0.5] = 'full_coverage', '','','','',''
     entities = entities.sort_index().reset_index(drop=True)
-    print('//////////////////////////')
-    print(entities)
+    #print('//////////////////////////')
+    #print(entities)
     # Combine 2 dataframes and reorder columns
     merge_coverage = coverage_df.combine_first(entities)
     merge_coverage = merge_coverage[['source', 'uri', 'url','count','gap','percentage']]
