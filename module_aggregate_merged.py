@@ -19,10 +19,10 @@ def create_dataframe_agg(aggregate):
     #print('+++++++++++++++++++')
     # If there are 0 or 1 dataframe (no merge)
     if len(aggregate) == 1 | 0:
-        print('Only 1 dataframe: no merge+++++++++++++++++++')
-    # If there are only 2 dataframes to merge
+        print('\n****** Only 1 dataframe: no merge is possible ******\n')
+    # If there are only 2 dataframes to merge, simple merging
     elif len(aggregate) == 2:
-        print('Only 2 dataframes+++++++++++++++++++')
+        print('\n****** Only 2 dataframes ******\n')
         # Indicator causes duplicate column problem from 2nd merge, thus deactivated
         # merged = aggregate[0].merge(aggregate[1].drop_duplicates(), on='full_coverage', how='outer', indicator=True, validate='many_to_many')
         merged = aggregate[0].merge(aggregate[1].drop_duplicates(), on='full_coverage', how='outer', validate='many_to_many')
@@ -33,7 +33,7 @@ def create_dataframe_agg(aggregate):
     else:
         for ii in range(len(aggregate)):
             if ii == 0:
-                print(str(ii) + 'st merge/n+++++++++++++++++++')
+                print('\n****** Working on ' + str(ii) + 'st merge ' + '******')
                 # Indicator causes duplicate column problem from 2nd merge, thus deactivated
                 #merged = aggregate[0].merge(aggregate[1].drop_duplicates(), on='full_coverage', how='outer', indicator=True, validate='many_to_many')
                 merged = aggregate[ii].merge(aggregate[ii+1].drop_duplicates(), on='full_coverage', how='outer', validate='many_to_many')
@@ -41,7 +41,7 @@ def create_dataframe_agg(aggregate):
                 allagg.append(merged)
                 #print(allagg)
             elif ii <= len(aggregate)-2:
-                print(str(ii) + 'th merge/n+++++++++++++++++++')
+                print('\n****** Working on ' + str(ii) + 'th merge ' + '******')
                 # print(len(allagg))
                 merged = allagg[ii-1].merge(aggregate[ii+1].drop_duplicates(), on='full_coverage', how='outer', validate='many_to_many')
                 allagg.append(merged)

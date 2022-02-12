@@ -44,35 +44,37 @@ def create_dataframe_entity(entities):
             else:
                 g.parse(entities.loc[i, 'url'], format = 'xml')
             df = to_dataframe(g)
+            print("\n****** original df ******\n")
+            print(df)
             df['entity'] = df.index
+            print("\n****** HEAD of df.index ******\n")
             print(df.head)
             # Just testing purpose to check YAGO data (delete after all XSLX created)
             #if entities.loc[i, 'source'] == 'YAGO':
                 #csvnumber = entities.loc[i, 'source'] + str(i) + '.csv'
                 #df_csv = df.to_csv(csvnumber, index=True, index_label='@id')
             # Check matching rows in the dafafame which includes the entity URI
-            print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+            print("\n****** df['entity'] ******\n")
             print(df['entity'])
-            print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+            print("\n****** entities.loc[i, 'uri'] ******\n")
             print(entities.loc[i, 'uri'])
-            print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+            print("\n****** Selecting ******\n")
             # If Mary,_Mother (not Mary,_mother) exist, do the following (in case of YAGO's problem with URI with 'M' or 'm')
             mary = 'http://dbpedia.org/resource/Mary,_Mother_of_Jesus'
             if df['entity'].str.contains(mary).any() and entities.loc[i, 'source'] == 'YAGO':
                 x = df[df['entity'] == mary]
                 x_transposed = x.T
                 x_transposed['full_coverage'] = x_transposed[mary]
+                print(r"****** Checking the case of Mary ******")
                 print(x)
-                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
             # Dates category has wierd URIs for YAGO, so adjust
             category_uri = entities.loc[i, 'uri'].replace('http://dbpedia.org/resource/', 'http://dbpedia.org/resource/Category:')
             if df['entity'].str.contains(category_uri).any() and entities.loc[i, 'source'] == 'YAGO':
                 x = df[df['entity'] == category_uri]
                 x_transposed = x.T
                 x_transposed['full_coverage'] = x_transposed[category_uri]
-                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+                print(r"****** Checking the case of YAGO ******")
                 print(x)
-                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
 
             uncle_uri = r" http://yago-knowledge.org/resource/Uncle_Tom's_Cabin"
             uncle_uri2 = r"http://dbpedia.org/resource/Uncle_Tom's_Cabin"
@@ -81,30 +83,38 @@ def create_dataframe_entity(entities):
                 entities.loc[i, 'uri'].replace(uncle_uri2, uncle_uri3)
                 df['entity'].replace(uncle_uri2, uncle_uri3)
                 x = df[df['entity'] == entities.loc[i, 'uri']]
+                print(r"****** Checking the case of Uncle Toms ******")
                 print(x)
-                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
                 x_transposed = x.T
                 x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
 
             else:
+                #x = df[df['entity'] == entities.loc[i, 'uri']]
+                # Extract all property names 2022-02-12. x is OK, but should extract index row too
                 x = df[df['entity'] == entities.loc[i, 'uri']]
+                print("\n****** x = df[df['entity'] == entities.loc[i, 'uri']] ******\n")
                 print(x)
-                print('kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk')
+                print("\n****** x.columns.T ******\n")
+                print(x.columns.T)
                 x_transposed = x.T
-                x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                #x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                # Extract all property names 2022-02-12
+                x_transposed['full_coverage'] = x.columns.T
             x_transposed.dropna(subset=['full_coverage'], inplace=True)
+            print("\n****** x_transposed ******\n")
             print(x_transposed)
             aggregate.append(x_transposed)
+            print("\n****** aggregate ******\n")
             print(aggregate)
             # Save dataframe of each entity as CSV (file name is index number (i) in the dataframe)
-            #csvnumber = entities.loc[i, 'source'] + str(i) + '.csv'
-            #df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
+            csvnumber = '00000_' + entities.loc[i, 'source'] + str(i) + '.csv'
+            df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
         else:
-            print('\n\n   ***\n   ' + entities.loc[i, 'source'] + ' does not have entity. Try another entity!!\n   ***\n\n')
-            print('----------------')
+            print('\n****** ' + entities.loc[i, 'source'] + ' does not have entity. Try another entity. ******\n')
             #data2 = {'NAME': '', 'full_coverage': ''}
             data2 = {entities.loc[i, 'source'] : '', 'full_coverage': ''}
             y2 = pd.DataFrame(data2, index = ['dc:identifier'])
+            print("****** Check if y2 dataframe is empty ******")
             print(y2)
             aggregate.append(y2)
     return(aggregate)
