@@ -1,0 +1,819 @@
+@id,http://viaf.org/viaf/96994048,full_coverage
+rdf:type{URIRef}[0],schema:Person,schema:Person
+skos:prefLabel{Literal}@ar-EG,شكسبير، وليم،,شكسبير، وليم،
+skos:prefLabel{Literal}[0]@ar-LB,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}[1]@ar-LB,شكسبير، وليم،,شكسبير، وليم،
+skos:prefLabel{Literal}@ca-ES,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@cs-CZ,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@da-DK,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@de-DE,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@en-AU,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@en-KR,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@en-US,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@es-CL,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@es-ES,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@fr-CH,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@fr-FR,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@hr-HR,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@it-IT,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@it-VA,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@ja-JP,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@lv-LV,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@nl-NL,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@no-NO,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@pt-PT,William Shakespeare,William Shakespeare
+skos:prefLabel{Literal}@sv-SE,William Shakespeare,William Shakespeare
+dbo:notableWork{URIRef}[0],http://viaf.org/viaf/174770715,http://viaf.org/viaf/174770715
+dbo:notableWork{URIRef}[1],http://viaf.org/viaf/176993890,http://viaf.org/viaf/176993890
+dbo:notableWork{URIRef}[2],http://viaf.org/viaf/177421072,http://viaf.org/viaf/177421072
+dbo:notableWork{URIRef}[3],http://viaf.org/viaf/181845272,http://viaf.org/viaf/181845272
+dbo:notableWork{URIRef}[4],http://viaf.org/viaf/182253235,http://viaf.org/viaf/182253235
+dbo:notableWork{URIRef}[5],http://viaf.org/viaf/182695202,http://viaf.org/viaf/182695202
+dbo:notableWork{URIRef}[6],http://viaf.org/viaf/186305801,http://viaf.org/viaf/186305801
+dbo:notableWork{URIRef}[7],http://viaf.org/viaf/192632325,http://viaf.org/viaf/192632325
+dbo:notableWork{URIRef}[8],http://viaf.org/viaf/296512157,http://viaf.org/viaf/296512157
+dbo:notableWork{URIRef}[9],http://viaf.org/viaf/310216967,http://viaf.org/viaf/310216967
+dcterms:identifier{Literal},96994048,96994048
+schema:alternateName{Literal}[0],.. Saixpēros,.. Saixpēros
+schema:alternateName{Literal}[1],.. Schakespear,.. Schakespear
+schema:alternateName{Literal}[2],.. Shakespear,.. Shakespear
+schema:alternateName{Literal}[3],.. Shakespeare,.. Shakespeare
+schema:alternateName{Literal}[4],.. Shakspear,.. Shakspear
+schema:alternateName{Literal}[5],.. Shakspeare,.. Shakspeare
+schema:alternateName{Literal}[6],.. Shakspere,.. Shakspere
+schema:alternateName{Literal}[7],... Saixperos,... Saixperos
+schema:alternateName{Literal}[8],... Shakespear,... Shakespear
+schema:alternateName{Literal}[9],... Shakespeare,... Shakespeare
+schema:alternateName{Literal}[10],... Shakspear,... Shakspear
+schema:alternateName{Literal}[11],... Shakspeare,... Shakspeare
+schema:alternateName{Literal}[12],.uiliam. cekspir,.uiliam. cekspir
+schema:alternateName{Literal}[13],Bard of Avon,Bard of Avon
+schema:alternateName{Literal}[14],Francis Bacon-Shakespeare,Francis Bacon-Shakespeare
+schema:alternateName{Literal}[15],G. Shakespeare,G. Shakespeare
+schema:alternateName{Literal}[16],Gouilliam Saixpēr,Gouilliam Saixpēr
+schema:alternateName{Literal}[17],Guglielmo Shakespeare,Guglielmo Shakespeare
+schema:alternateName{Literal}[18],Guglielmo Shakspeare,Guglielmo Shakspeare
+schema:alternateName{Literal}[19],Guillaume Shakspeare,Guillaume Shakspeare
+schema:alternateName{Literal}[20],Guillem Shakespeare,Guillem Shakespeare
+schema:alternateName{Literal}[21],Guillermo Shakespeare,Guillermo Shakespeare
+schema:alternateName{Literal}[22],Gulielmus Shakespeare,Gulielmus Shakespeare
+schema:alternateName{Literal}[23],Gulielmus Shakesperius,Gulielmus Shakesperius
+schema:alternateName{Literal}[24],Gwilherm Shakespeare,Gwilherm Shakespeare
+schema:alternateName{Literal}[25],Ouilliam Saixpēr,Ouilliam Saixpēr
+schema:alternateName{Literal}[26],Pseudo-Shakespeare,Pseudo-Shakespeare
+schema:alternateName{Literal}[27],Saixper,Saixper
+schema:alternateName{Literal}[28],Saixpēr,Saixpēr
+schema:alternateName{Literal}[29],Saixpēros,Saixpēros
+schema:alternateName{Literal}[30],Sakespeiros,Sakespeiros
+schema:alternateName{Literal}[31],Schakespear,Schakespear
+schema:alternateName{Literal}[32],Schakespeare,Schakespeare
+schema:alternateName{Literal}[33],Schekspir,Schekspir
+schema:alternateName{Literal}[34],Sekhspír,Sekhspír
+schema:alternateName{Literal}[35],Sexpir,Sexpir
+schema:alternateName{Literal}[36],Sha-shih-pi-ya,Sha-shih-pi-ya
+schema:alternateName{Literal}[37],Sha-ō,Sha-ō
+schema:alternateName{Literal}[38],Shackespear,Shackespear
+schema:alternateName{Literal}[39],Shaikspīr,Shaikspīr
+schema:alternateName{Literal}[40],Shakespear,Shakespear
+schema:alternateName{Literal}[41],Shakespeare,Shakespeare
+schema:alternateName{Literal}[42],Shakespeare (William),Shakespeare (William)
+schema:alternateName{Literal}[43],Shakespeare W,Shakespeare W
+schema:alternateName{Literal}[44],Shakespeare'as,Shakespeare'as
+schema:alternateName{Literal}[45],Shakespeare'i William,Shakespeare'i William
+schema:alternateName{Literal}[46],Shakspear,Shakspear
+schema:alternateName{Literal}[47],Shakspeare,Shakspeare
+schema:alternateName{Literal}[48],Shakspere,Shakspere
+schema:alternateName{Literal}[49],Shakspir,Shakspir
+schema:alternateName{Literal}[50],Shashibi,Shashibi
+schema:alternateName{Literal}[51],Shashibiya,Shashibiya
+schema:alternateName{Literal}[52],Sheg-si-phi-yar,Sheg-si-phi-yar
+schema:alternateName{Literal}[53],Sheikusupia,Sheikusupia
+schema:alternateName{Literal}[54],Shekspir,Shekspir
+schema:alternateName{Literal}[55],Shekspīr,Shekspīr
+schema:alternateName{Literal}[56],Sheḳsper,Sheḳsper
+schema:alternateName{Literal}[57],Shig-si-phi-ya,Shig-si-phi-ya
+schema:alternateName{Literal}[58],Shikspiyar,Shikspiyar
+schema:alternateName{Literal}[59],Shikspīr,Shikspīr
+schema:alternateName{Literal}[60],Shēkʻspir,Shēkʻspir
+schema:alternateName{Literal}[61],Shīkspīr,Shīkspīr
+schema:alternateName{Literal}[62],Swan of Avon,Swan of Avon
+schema:alternateName{Literal}[63],Syeiksŭpʻio,Syeiksŭpʻio
+schema:alternateName{Literal}[64],Syeiksǔp‘io,Syeiksǔp‘io
+schema:alternateName{Literal}[65],Syeokseupieo,Syeokseupieo
+schema:alternateName{Literal}[66],Szekspir,Szekspir
+schema:alternateName{Literal}[67],Tsikinya-chaka,Tsikinya-chaka
+schema:alternateName{Literal}[68],U Shekspir,U Shekspir
+schema:alternateName{Literal}[69],U. Sekspir,U. Sekspir
+schema:alternateName{Literal}[70],U. Shekspir,U. Shekspir
+schema:alternateName{Literal}[71],U. èekspir,U. èekspir
+schema:alternateName{Literal}[72],U. Šekspir,U. Šekspir
+schema:alternateName{Literal}[73],Uil'jam Šekspir,Uil'jam Šekspir
+schema:alternateName{Literal}[74],Uil'âm Šekspir,Uil'âm Šekspir
+schema:alternateName{Literal}[75],Uiliam Shekspir,Uiliam Shekspir
+schema:alternateName{Literal}[76],Uiliam Šek'spiri,Uiliam Šek'spiri
+schema:alternateName{Literal}[77],Uiliam Šekʻspiri,Uiliam Šekʻspiri
+schema:alternateName{Literal}[78],Uiliem Shekspir,Uiliem Shekspir
+schema:alternateName{Literal}[79],Uiljam Sjekspir,Uiljam Sjekspir
+schema:alternateName{Literal}[80],Uiljam Šekspir,Uiljam Šekspir
+schema:alternateName{Literal}[81],Uiljjam Shekspir,Uiljjam Shekspir
+schema:alternateName{Literal}[82],Uilliam Saixpēr,Uilliam Saixpēr
+schema:alternateName{Literal}[83],Uilyam Shekʻspir,Uilyam Shekʻspir
+schema:alternateName{Literal}[84],Uilyam Şekspir,Uilyam Şekspir
+schema:alternateName{Literal}[85],Uilyam Šekʹspir,Uilyam Šekʹspir
+schema:alternateName{Literal}[86],Uilʹi︠a︡m Shekspir,Uilʹi︠a︡m Shekspir
+schema:alternateName{Literal}[87],Uilʹjam Šekspir,Uilʹjam Šekspir
+schema:alternateName{Literal}[88],Uil‘jam Šekspir,Uil‘jam Šekspir
+schema:alternateName{Literal}[89],Uiriamu Sheikusupia,Uiriamu Sheikusupia
+schema:alternateName{Literal}[90],Uílliam Saíxpēr,Uílliam Saíxpēr
+schema:alternateName{Literal}[91],Uíïlliam Sakespeĩros,Uíïlliam Sakespeĩros
+schema:alternateName{Literal}[92],Uïlliam Saixper,Uïlliam Saixper
+schema:alternateName{Literal}[93],Uĭlii︠a︡m Shekspir,Uĭlii︠a︡m Shekspir
+schema:alternateName{Literal}[94],V Shekspir,V Shekspir
+schema:alternateName{Literal}[95],V. Shakespeare,V. Shakespeare
+schema:alternateName{Literal}[96],V. Shekspir,V. Shekspir
+schema:alternateName{Literal}[97],V. Šekspir,V. Šekspir
+schema:alternateName{Literal}[98],V. Šekspira,V. Šekspira
+schema:alternateName{Literal}[99],V. Šekspirs,V. Šekspirs
+schema:alternateName{Literal}[100],V. Šekspyras,V. Šekspyras
+schema:alternateName{Literal}[101],V. Šekspīrs,V. Šekspīrs
+schema:alternateName{Literal}[102],V. Šekʹspir,V. Šekʹspir
+schema:alternateName{Literal}[103],V.(Vil’i︠a︡m) Shekspir,V.(Vil’i︠a︡m) Shekspir
+schema:alternateName{Literal}[104],Veilliyam Šaḳisper,Veilliyam Šaḳisper
+schema:alternateName{Literal}[105],Veilliyem Šaḳisper,Veilliyem Šaḳisper
+schema:alternateName{Literal}[106],Velyam Şekspir,Velyam Şekspir
+schema:alternateName{Literal}[107],Vil' jam Šèkspir,Vil' jam Šèkspir
+schema:alternateName{Literal}[108],Vil'jam èekspir,Vil'jam èekspir
+schema:alternateName{Literal}[109],Vil'jam Šekspir,Vil'jam Šekspir
+schema:alternateName{Literal}[110],Vil'âm Šekspir,Vil'âm Šekspir
+schema:alternateName{Literal}[111],Viliam Sekspiri,Viliam Sekspiri
+schema:alternateName{Literal}[112],Viliam Šhekspir,Viliam Šhekspir
+schema:alternateName{Literal}[113],Viliem Shekspir,Viliem Shekspir
+schema:alternateName{Literal}[114],Vilijam Sekspir,Vilijam Sekspir
+schema:alternateName{Literal}[115],Vilijam èekspir,Vilijam èekspir
+schema:alternateName{Literal}[116],Vilijam Šekspir,Vilijam Šekspir
+schema:alternateName{Literal}[117],Vilijem Šekspir,Vilijem Šekspir
+schema:alternateName{Literal}[118],Viliyam Shekspīʼar,Viliyam Shekspīʼar
+schema:alternateName{Literal}[119],Viliyam Ṣēkspiyar,Viliyam Ṣēkspiyar
+schema:alternateName{Literal}[120],Viljam Sekspir,Viljam Sekspir
+schema:alternateName{Literal}[121],Viljamas S̆ekspyras,Viljamas S̆ekspyras
+schema:alternateName{Literal}[122],Viljamas Šekspiras,Viljamas Šekspiras
+schema:alternateName{Literal}[123],Viljamas Šekspyras,Viljamas Šekspyras
+schema:alternateName{Literal}[124],Viljams S̆ekspīrs,Viljams S̆ekspīrs
+schema:alternateName{Literal}[125],Viljams Šekspīrs,Viljams Šekspīrs
+schema:alternateName{Literal}[126],Viljem Sekspir,Viljem Sekspir
+schema:alternateName{Literal}[127],Viljem S̆ekspir,Viljem S̆ekspir
+schema:alternateName{Literal}[128],Viljem èekspir,Viljem èekspir
+schema:alternateName{Literal}[129],Viljem Šekspir,Viljem Šekspir
+schema:alternateName{Literal}[130],Villiam Shakespeare,Villiam Shakespeare
+schema:alternateName{Literal}[131],Villiam Shekspir,Villiam Shekspir
+schema:alternateName{Literal}[132],Villiam Šekspir,Villiam Šekspir
+schema:alternateName{Literal}[133],Villiyam Ṣēkspiyar,Villiyam Ṣēkspiyar
+schema:alternateName{Literal}[134],Vilmos Shakespere,Vilmos Shakespere
+schema:alternateName{Literal}[135],Vilyam Šek'spir,Vilyam Šek'spir
+schema:alternateName{Literal}[136],Vilém Šekspir,Vilém Šekspir
+schema:alternateName{Literal}[137],Vilʹi︠a︡m Shekspir,Vilʹi︠a︡m Shekspir
+schema:alternateName{Literal}[138],Vilʹjam S̆ekspir,Vilʹjam S̆ekspir
+schema:alternateName{Literal}[139],Vilʹjam Šekspir,Vilʹjam Šekspir
+schema:alternateName{Literal}[140],Vil’i︠a︡m Shekspir,Vil’i︠a︡m Shekspir
+schema:alternateName{Literal}[141],Vlilliam Shēkʻspʻiyr,Vlilliam Shēkʻspʻiyr
+schema:alternateName{Literal}[142],Vylem Šekspyr,Vylem Šekspyr
+schema:alternateName{Literal}[143],Vyli︠e︡m Shekspyr,Vyli︠e︡m Shekspyr
+schema:alternateName{Literal}[144],Vî-lièn Sâ-sṳ-pí-â,Vî-lièn Sâ-sṳ-pí-â
+schema:alternateName{Literal}[145],Vėljams Šekspīrs,Vėljams Šekspīrs
+schema:alternateName{Literal}[146],Vīlyām Shikspīr,Vīlyām Shikspīr
+schema:alternateName{Literal}[147],W. S,W. S
+schema:alternateName{Literal}[148],W. S.,W. S.
+schema:alternateName{Literal}[149],W. Shakespear,W. Shakespear
+schema:alternateName{Literal}[150],W. Shakespeare,W. Shakespeare
+schema:alternateName{Literal}[151],W. Shakespearowy,W. Shakespearowy
+schema:alternateName{Literal}[152],W. Shakespere,W. Shakespere
+schema:alternateName{Literal}[153],W. Shakspeare,W. Shakspeare
+schema:alternateName{Literal}[154],W. Shakspere,W. Shakspere
+schema:alternateName{Literal}[155],W. Szekspir,W. Szekspir
+schema:alternateName{Literal}[156],W. 세익스피어,W. 세익스피어
+schema:alternateName{Literal}[157],W. 섹스피어,W. 섹스피어
+schema:alternateName{Literal}[158],W. 셰익스피어,W. 셰익스피어
+schema:alternateName{Literal}[159],Wi Shakespeare,Wi Shakespeare
+schema:alternateName{Literal}[160],Wi-li-am S'egsi-pe-yar,Wi-li-am S'egsi-pe-yar
+schema:alternateName{Literal}[161],Wi. Shakespeare,Wi. Shakespeare
+schema:alternateName{Literal}[162],Wil'yam Shex'pir,Wil'yam Shex'pir
+schema:alternateName{Literal}[163],Wilhelm Shakespear,Wilhelm Shakespear
+schema:alternateName{Literal}[164],Wilhelm Shakespeare,Wilhelm Shakespeare
+schema:alternateName{Literal}[165],Wilhelm Shakspear,Wilhelm Shakspear
+schema:alternateName{Literal}[166],Wilhelm Shakspeare,Wilhelm Shakspeare
+schema:alternateName{Literal}[167],Wiliam Sekspir,Wiliam Sekspir
+schema:alternateName{Literal}[168],Wiliam Siksbir,Wiliam Siksbir
+schema:alternateName{Literal}[169],Wiliam Sikspir,Wiliam Sikspir
+schema:alternateName{Literal}[170],Wiliam Szekspir,Wiliam Szekspir
+schema:alternateName{Literal}[171],Wiliam Szekspjr,Wiliam Szekspjr
+schema:alternateName{Literal}[172],Wiliam S̆ekhspiri,Wiliam S̆ekhspiri
+schema:alternateName{Literal}[173],Wiliam èekspir,Wiliam èekspir
+schema:alternateName{Literal}[174],Wiliam èiksbir,Wiliam èiksbir
+schema:alternateName{Literal}[175],Wiliam èikspir,Wiliam èikspir
+schema:alternateName{Literal}[176],Wiliam Šekspir,Wiliam Šekspir
+schema:alternateName{Literal}[177],Wiliyam Šaksbīr,Wiliyam Šaksbīr
+schema:alternateName{Literal}[178],Wiljam Shakespeare,Wiljam Shakespeare
+schema:alternateName{Literal}[179],Wiljam Szekspir,Wiljam Szekspir
+schema:alternateName{Literal}[180],Wiljams Schekspirs,Wiljams Schekspirs
+schema:alternateName{Literal}[181],Wiljem Šekspir,Wiljem Šekspir
+schema:alternateName{Literal}[182],Wiljām Šekspir,Wiljām Šekspir
+schema:alternateName{Literal}[183],Will Shakespeare,Will Shakespeare
+schema:alternateName{Literal}[184],Will Shakspere,Will Shakspere
+schema:alternateName{Literal}[185],Willelm Scacaspere,Willelm Scacaspere
+schema:alternateName{Literal}[186],Willem Shakspeare,Willem Shakspeare
+schema:alternateName{Literal}[187],Willhelm Shakespear,Willhelm Shakespear
+schema:alternateName{Literal}[188],Willhelm Shakespeare,Willhelm Shakespeare
+schema:alternateName{Literal}[189],William Chakespear,William Chakespear
+schema:alternateName{Literal}[190],William Chekchapiyera,William Chekchapiyera
+schema:alternateName{Literal}[191],William G. Shakespeare,William G. Shakespeare
+schema:alternateName{Literal}[192],William Sakespear,William Sakespear
+schema:alternateName{Literal}[193],William Schakespear,William Schakespear
+schema:alternateName{Literal}[194],William Schakespeare,William Schakespeare
+schema:alternateName{Literal}[195],William Sekspir,William Sekspir
+schema:alternateName{Literal}[196],William Shaekespeare,William Shaekespeare
+schema:alternateName{Literal}[197],William Shak-Speare,William Shak-Speare
+schema:alternateName{Literal}[198],William Shak-speare,William Shak-speare
+schema:alternateName{Literal}[199],William Shake-Spear,William Shake-Spear
+schema:alternateName{Literal}[200],William Shake-Speare,William Shake-Speare
+schema:alternateName{Literal}[201],William Shake-speare,William Shake-speare
+schema:alternateName{Literal}[202],William Shakespear,William Shakespear
+schema:alternateName{Literal}[203],William Shakespeare,William Shakespeare
+schema:alternateName{Literal}[204],William Shakesperae,William Shakesperae
+schema:alternateName{Literal}[205],William Shakespere,William Shakespere
+schema:alternateName{Literal}[206],William Shakspear,William Shakspear
+schema:alternateName{Literal}[207],William Shakspeare,William Shakspeare
+schema:alternateName{Literal}[208],William Shaksper,William Shaksper
+schema:alternateName{Literal}[209],William Shakspere,William Shakspere
+schema:alternateName{Literal}[210],William Shashibiya,William Shashibiya
+schema:alternateName{Literal}[211],William Szekspir,William Szekspir
+schema:alternateName{Literal}[212],William èekspir,William èekspir
+schema:alternateName{Literal}[213],William Šekspir,William Šekspir
+schema:alternateName{Literal}[214],William(1564-1616) -- ハムレット Shakespeare,William(1564-1616) -- ハムレット Shakespeare
+schema:alternateName{Literal}[215],Williyam Sakisbir,Williyam Sakisbir
+schema:alternateName{Literal}[216],Williyam èakisb¯ir,Williyam èakisb¯ir
+schema:alternateName{Literal}[217],Williyam Šakisbīr,Williyam Šakisbīr
+schema:alternateName{Literal}[218],Willm Shakspere,Willm Shakspere
+schema:alternateName{Literal}[219],Willyam Siksbir,Willyam Siksbir
+schema:alternateName{Literal}[220],Willyam èiksbir,Willyam èiksbir
+schema:alternateName{Literal}[221],Willyam Šiksbīr,Willyam Šiksbīr
+schema:alternateName{Literal}[222],Willŏm Sweksŭp'iŏ,Willŏm Sweksŭp'iŏ
+schema:alternateName{Literal}[223],Willŏm Syeiksŭpiŏ,Willŏm Syeiksŭpiŏ
+schema:alternateName{Literal}[224],Wilyam Shikisbir,Wilyam Shikisbir
+schema:alternateName{Literal}[225],Wilyam Shikisbīr,Wilyam Shikisbīr
+schema:alternateName{Literal}[226],Wilyam Šakasbīr,Wilyam Šakasbīr
+schema:alternateName{Literal}[227],Wilyam Šaksbīr,Wilyam Šaksbīr
+schema:alternateName{Literal}[228],Wilyam Šakspīr,Wilyam Šakspīr
+schema:alternateName{Literal}[229],Wilyam Šekesper,Wilyam Šekesper
+schema:alternateName{Literal}[230],Wilyam Šikisbīr,Wilyam Šikisbīr
+schema:alternateName{Literal}[231],Wilyam Šiksbīr,Wilyam Šiksbīr
+schema:alternateName{Literal}[232],Wilyam Šikspīr,Wilyam Šikspīr
+schema:alternateName{Literal}[233],Wilýam Şekspir,Wilýam Şekspir
+schema:alternateName{Literal}[234],Wiremu Hākipia,Wiremu Hākipia
+schema:alternateName{Literal}[235],Ww Šeqspiyr,Ww Šeqspiyr
+schema:alternateName{Literal}[236],Wīlyam Shiksbīr,Wīlyam Shiksbīr
+schema:alternateName{Literal}[237],Wīlyām Šeqspīr,Wīlyām Šeqspīr
+schema:alternateName{Literal}[238],Wīlīam Šiksbīr,Wīlīam Šiksbīr
+schema:alternateName{Literal}[239],Wīlīam Šikspīr,Wīlīam Šikspīr
+schema:alternateName{Literal}[240],Wīlīyām Šakaspīr,Wīlīyām Šakaspīr
+schema:alternateName{Literal}[241],Wиллиам Шакеспеаре,Wиллиам Шакеспеаре
+schema:alternateName{Literal}[242],Śeksapiyara,Śeksapiyara
+schema:alternateName{Literal}[243],Śeksper,Śeksper
+schema:alternateName{Literal}[244],Śekspiyar,Śekspiyar
+schema:alternateName{Literal}[245],Ŝekspiro,Ŝekspiro
+schema:alternateName{Literal}[246],Şekspir,Şekspir
+schema:alternateName{Literal}[247],Šaḳisper,Šaḳisper
+schema:alternateName{Literal}[248],Šeikspir Uil'jam,Šeikspir Uil'jam
+schema:alternateName{Literal}[249],Šeiqspir,Šeiqspir
+schema:alternateName{Literal}[250],Šekesper,Šekesper
+schema:alternateName{Literal}[251],Šekspir,Šekspir
+schema:alternateName{Literal}[252],Šekspiras,Šekspiras
+schema:alternateName{Literal}[253],Šekspire,Šekspire
+schema:alternateName{Literal}[254],Šekspirs,Šekspirs
+schema:alternateName{Literal}[255],Šekspirʺ,Šekspirʺ
+schema:alternateName{Literal}[256],Šekspyras,Šekspyras
+schema:alternateName{Literal}[257],Šekspīrs,Šekspīrs
+schema:alternateName{Literal}[258],Šeqsper,Šeqsper
+schema:alternateName{Literal}[259],Šeḳisper,Šeḳisper
+schema:alternateName{Literal}[260],Ŭi-lièng Să-sê̤ṳ-bī-ā,Ŭi-lièng Să-sê̤ṳ-bī-ā
+schema:alternateName{Literal}[261],Γουίλιαμ Σαίξπηρ,Γουίλιαμ Σαίξπηρ
+schema:alternateName{Literal}[262],Γουίλλιαμ Σαίξπηρ,Γουίλλιαμ Σαίξπηρ
+schema:alternateName{Literal}[263],Ουίλιαμ Σαίξπηρ,Ουίλιαμ Σαίξπηρ
+schema:alternateName{Literal}[264],Ουίλλιαμ Σαίξπηρ,Ουίλλιαμ Σαίξπηρ
+schema:alternateName{Literal}[265],Σέξπιρ,Σέξπιρ
+schema:alternateName{Literal}[266],Σαίκσπηρ,Σαίκσπηρ
+schema:alternateName{Literal}[267],Σαίξπηρ,Σαίξπηρ
+schema:alternateName{Literal}[268],Σαικσπείρος,Σαικσπείρος
+schema:alternateName{Literal}[269],Σεξπήρος,Σεξπήρος
+schema:alternateName{Literal}[270],Ўільям Шэксьпір,Ўільям Шэксьпір
+schema:alternateName{Literal}[271],В Шекспир,В Шекспир
+schema:alternateName{Literal}[272],В. Шекспир,В. Шекспир
+schema:alternateName{Literal}[273],В. Шекспиръ,В. Шекспиръ
+schema:alternateName{Literal}[274],Вилиам Шекспир,Вилиам Шекспир
+schema:alternateName{Literal}[275],Вилијам Шекспир,Вилијам Шекспир
+schema:alternateName{Literal}[276],Вильям Шекспир,Вильям Шекспир
+schema:alternateName{Literal}[277],Вилям Шекспир,Вилям Шекспир
+schema:alternateName{Literal}[278],Вільям Шекспір,Вільям Шекспір
+schema:alternateName{Literal}[279],У Шекспир,У Шекспир
+schema:alternateName{Literal}[280],У. Шекспир,У. Шекспир
+schema:alternateName{Literal}[281],У. Шэкспір,У. Шэкспір
+schema:alternateName{Literal}[282],Уилиям Шекспир,Уилиям Шекспир
+schema:alternateName{Literal}[283],Уиллиам Шэкспир,Уиллиам Шэкспир
+schema:alternateName{Literal}[284],Уильям Шекспир,Уильям Шекспир
+schema:alternateName{Literal}[285],Уильям Шэкспир,Уильям Шэкспир
+schema:alternateName{Literal}[286],Уилям Шекспир,Уилям Шекспир
+schema:alternateName{Literal}[287],Уйлям Шекспир,Уйлям Шекспир
+schema:alternateName{Literal}[288],Уільям Шэкспір,Уільям Шэкспір
+schema:alternateName{Literal}[289],Шакеспер,Шакеспер
+schema:alternateName{Literal}[290],Шакеспир,Шакеспир
+schema:alternateName{Literal}[291],Шекеспир,Шекеспир
+schema:alternateName{Literal}[292],Шекспiр,Шекспiр
+schema:alternateName{Literal}[293],Шекспир,Шекспир
+schema:alternateName{Literal}[294],Шэкспiр,Шэкспiр
+schema:alternateName{Literal}[295],Շէքսպիր,Շէքսպիր
+schema:alternateName{Literal}[296],Ուիլիըմ Շէյքսփիր,Ուիլիըմ Շէյքսփիր
+schema:alternateName{Literal}[297],Ուիլյամ Շեքսպիր,Ուիլյամ Շեքսպիր
+schema:alternateName{Literal}[298],וו שייקספיר,וו שייקספיר
+schema:alternateName{Literal}[299],וו שעקספיער,וו שעקספיער
+schema:alternateName{Literal}[300],וו שעקספיר,וו שעקספיר
+schema:alternateName{Literal}[301],וו שקספיר,וו שקספיר
+schema:alternateName{Literal}[302],וו. שייקספיר,וו. שייקספיר
+schema:alternateName{Literal}[303],וויליאם שייקספיר,וויליאם שייקספיר
+schema:alternateName{Literal}[304],וויליאם שיקספיר,וויליאם שיקספיר
+schema:alternateName{Literal}[305],וויליאם שעפקספיר,וויליאם שעפקספיר
+schema:alternateName{Literal}[306],וויליאם שעקספיער,וויליאם שעקספיער
+schema:alternateName{Literal}[307],וויליאם שעקספיר,וויליאם שעקספיר
+schema:alternateName{Literal}[308],וויליאם שקספיר,וויליאם שקספיר
+schema:alternateName{Literal}[309],וויליאם ‏שקספיר,וויליאם ‏שקספיר
+schema:alternateName{Literal}[310],וויליאמ שעקספיר,וויליאמ שעקספיר
+schema:alternateName{Literal}[311],וויליאמ שעקספער,וויליאמ שעקספער
+schema:alternateName{Literal}[312],ווילים שקספיר,ווילים שקספיר
+schema:alternateName{Literal}[313],ווילליאם שעקספיער,ווילליאם שעקספיער
+schema:alternateName{Literal}[314],ווילליאם שעקספיר,ווילליאם שעקספיר
+schema:alternateName{Literal}[315],וילאם שקספיר,וילאם שקספיר
+schema:alternateName{Literal}[316],ויליאם שייקספיר,ויליאם שייקספיר
+schema:alternateName{Literal}[317],ויליאם שיקספיר,ויליאם שיקספיר
+schema:alternateName{Literal}[318],ויליאם שכספיר,ויליאם שכספיר
+schema:alternateName{Literal}[319],ויליאם שקספיר,ויליאם שקספיר
+schema:alternateName{Literal}[320],ויליאם ‏שיקספיר,ויליאם ‏שיקספיר
+schema:alternateName{Literal}[321],ויליאם ‏שקספיר,ויליאם ‏שקספיר
+schema:alternateName{Literal}[322],ויליים שקספיר,ויליים שקספיר
+schema:alternateName{Literal}[323],וילים שייקספיר,וילים שייקספיר
+schema:alternateName{Literal}[324],וילים שכספיר,וילים שכספיר
+schema:alternateName{Literal}[325],וילים שעקספיר,וילים שעקספיר
+schema:alternateName{Literal}[326],וילים שקספיר,וילים שקספיר
+schema:alternateName{Literal}[327],ו׳ שכספיר,ו׳ שכספיר
+schema:alternateName{Literal}[328],ייליאם שקספיר,ייליאם שקספיר
+schema:alternateName{Literal}[329],שעקספיר,שעקספיר
+schema:alternateName{Literal}[330],שעקספער,שעקספער
+schema:alternateName{Literal}[331],שקספיר,שקספיר
+schema:alternateName{Literal}[332],שקספער,שקספער
+schema:alternateName{Literal}[333],װ שעקספיר,װ שעקספיר
+schema:alternateName{Literal}[334],װיליאם שעקספיר,װיליאם שעקספיר
+schema:alternateName{Literal}[335],װילליאם שעקספיר,װילליאם שעקספיר
+schema:alternateName{Literal}[336],شاكسبير، وليام,شاكسبير، وليام
+schema:alternateName{Literal}[337],شاكسبير، وليم,شاكسبير، وليم
+schema:alternateName{Literal}[338],شاكسپير، وليم,شاكسپير، وليم
+schema:alternateName{Literal}[339],شقسفير، ويليام,شقسفير، ويليام
+schema:alternateName{Literal}[340],شكسبير، و,شكسبير، و
+schema:alternateName{Literal}[341],شكسبير، و.,شكسبير، و.
+schema:alternateName{Literal}[342],شكسبير، وليام,شكسبير، وليام
+schema:alternateName{Literal}[343],شكسبير، وليام،,شكسبير، وليام،
+schema:alternateName{Literal}[344],شكسبير، وليم,شكسبير، وليم
+schema:alternateName{Literal}[345],شكسبير، وليم،,شكسبير، وليم،
+schema:alternateName{Literal}[346],شكسبير، ويليام،,شكسبير، ويليام،
+schema:alternateName{Literal}[347],شكسپير، وليم,شكسپير، وليم
+schema:alternateName{Literal}[348],شكسپير، ويليام,شكسپير، ويليام
+schema:alternateName{Literal}[349],شيكسبير، وليام,شيكسبير، وليام
+schema:alternateName{Literal}[350],شيكسبير، وليام.،,شيكسبير، وليام.،
+schema:alternateName{Literal}[351],"شيكسبير، وليام.،,","شيكسبير، وليام.،,"
+schema:alternateName{Literal}[352],شيكسبير، وليم,شيكسبير، وليم
+schema:alternateName{Literal}[353],شيكسبير، وليم،,شيكسبير، وليم،
+schema:alternateName{Literal}[354],شيکسپيئر، وليم,شيکسپيئر، وليم
+schema:alternateName{Literal}[355],شکسبير، وليم,شکسبير، وليم
+schema:alternateName{Literal}[356],شکسپير,شکسپير
+schema:alternateName{Literal}[357],وليم شكسبير,وليم شكسبير
+schema:alternateName{Literal}[358],وليم شكسبير،,وليم شكسبير،
+schema:alternateName{Literal}[359],وليم شيکسپيئر,وليم شيکسپيئر
+schema:alternateName{Literal}[360],وليم شکسبير,وليم شکسبير
+schema:alternateName{Literal}[361],ولیم شیکسپیئر,ولیم شیکسپیئر
+schema:alternateName{Literal}[362],ولیم شیکسپیر,ولیم شیکسپیر
+schema:alternateName{Literal}[363],ولیم شیڪسپیئر,ولیم شیڪسپیئر
+schema:alternateName{Literal}[364],ويليام شكسبير,ويليام شكسبير
+schema:alternateName{Literal}[365],ويليام شكسپير,ويليام شكسپير
+schema:alternateName{Literal}[366],ويليام شيكسبير,ويليام شيكسبير
+schema:alternateName{Literal}[367],ويليام شيكسپير,ويليام شيكسپير
+schema:alternateName{Literal}[368],ویلیام شكسپير,ویلیام شكسپير
+schema:alternateName{Literal}[369],ویلیام شکسپیر,ویلیام شکسپیر
+schema:alternateName{Literal}[370],ویلیام شێکسپیر,ویلیام شێکسپیر
+schema:alternateName{Literal}[371],وېليم شېکسپيير,وېليم شېکسپيير
+schema:alternateName{Literal}[372],ۋىليام شېكېسپېر,ۋىليام شېكېسپېر
+schema:alternateName{Literal}[373],विलियम शेक्सपीयर,विलियम शेक्सपीयर
+schema:alternateName{Literal}[374],विलियम सेक्सपियर,विलियम सेक्सपियर
+schema:alternateName{Literal}[375],विल्यम शेक्सपियर,विल्यम शेक्सपियर
+schema:alternateName{Literal}[376],शेक्सपियर,शेक्सपियर
+schema:alternateName{Literal}[377],शेक्सपीयर,शेक्सपीयर
+schema:alternateName{Literal}[378],উইলিয়াম শেকসপিয়র,উইলিয়াম শেকসপিয়র
+schema:alternateName{Literal}[379],উইলিয়াম শ্বেইকছপীয়েৰ,উইলিয়াম শ্বেইকছপীয়েৰ
+schema:alternateName{Literal}[380],ਵਿਲੀਅਮ ਸ਼ੇਕਸਪੀਅਰ,ਵਿਲੀਅਮ ਸ਼ੇਕਸਪੀਅਰ
+schema:alternateName{Literal}[381],ਵਿਲੀਅਮ ਸ਼ੈਕਸਪੀਅਰ,ਵਿਲੀਅਮ ਸ਼ੈਕਸਪੀਅਰ
+schema:alternateName{Literal}[382],વિલિયમ શેક્સપીયર,વિલિયમ શેક્સપીયર
+schema:alternateName{Literal}[383],ୱିଲିଅମ ସେକ୍ସପିଅର,ୱିଲିଅମ ସେକ୍ସପିଅର
+schema:alternateName{Literal}[384],வில்லியம் சேக்சுபியர்,வில்லியம் சேக்சுபியர்
+schema:alternateName{Literal}[385],విలియం షేక్ స్పియర్,విలియం షేక్ స్పియర్
+schema:alternateName{Literal}[386],ವಿಲಿಯಂ ಷೇಕ್ಸ್ ಪಿಯರ್,ವಿಲಿಯಂ ಷೇಕ್ಸ್ ಪಿಯರ್
+schema:alternateName{Literal}[387],ಷೇಕ್ಸ್ ಪಿಯರ್,ಷೇಕ್ಸ್ ಪಿಯರ್
+schema:alternateName{Literal}[388],വില്യം ഷെയ്ക്സ്പിയർ,വില്യം ഷെയ്ക്സ്പിയർ
+schema:alternateName{Literal}[389],විලියම් ෂේක්ස්පියර්,විලියම් ෂේක්ස්පියර්
+schema:alternateName{Literal}[390],วิลเลียม เชกสเปียร์,วิลเลียม เชกสเปียร์
+schema:alternateName{Literal}[391],เชกสเปียร์,เชกสเปียร์
+schema:alternateName{Literal}[392],ཞེ་ཁུ་སི་པེར །,ཞེ་ཁུ་སི་པེར །
+schema:alternateName{Literal}[393],ཤེག་སི་པེ་ཡར།,ཤེག་སི་པེ་ཡར།
+schema:alternateName{Literal}[394],ရှိတ်စပီးယား,ရှိတ်စပီးယား
+schema:alternateName{Literal}[395],သျဵၵ်ႉၸပီးယႃး,သျဵၵ်ႉၸပီးယႃး
+schema:alternateName{Literal}[396],უილიამ შექსპირი,უილიამ შექსპირი
+schema:alternateName{Literal}[397],უილიამ შექსფირი,უილიამ შექსფირი
+schema:alternateName{Literal}[398],ሼክስፒር,ሼክስፒር
+schema:alternateName{Literal}[399],វីលីម ហ្សេកស្ពែរ,វីលីម ហ្សេកស្ពែរ
+schema:alternateName{Literal}[400],វីល្លៀម ស៊េកស្ពៀរ,វីល្លៀម ស៊េកស្ពៀរ
+schema:alternateName{Literal}[401],ᱣᱤᱞᱤᱭᱚᱢ ᱥᱮᱠᱥᱯᱤᱭᱚᱨ,ᱣᱤᱞᱤᱭᱚᱢ ᱥᱮᱠᱥᱯᱤᱭᱚᱨ
+schema:alternateName{Literal}[402],Ṣēkspiyar,Ṣēkspiyar
+schema:alternateName{Literal}[403],Ṣēkspiyar Mahākavi,Ṣēkspiyar Mahākavi
+schema:alternateName{Literal}[404],Ṣēkspiyar Mahākaviya,Ṣēkspiyar Mahākaviya
+schema:alternateName{Literal}[405],Ṿ. Sheḳspir,Ṿ. Sheḳspir
+schema:alternateName{Literal}[406],Ṿiliam Sheḳspir,Ṿiliam Sheḳspir
+schema:alternateName{Literal}[407],Ṿiliyam Sheḳspir,Ṿiliyam Sheḳspir
+schema:alternateName{Literal}[408],Ṿilyam Shaḳspir,Ṿilyam Shaḳspir
+schema:alternateName{Literal}[409],Ṿilyam Sheḳspier,Ṿilyam Sheḳspier
+schema:alternateName{Literal}[410],Ṿilyam Sheḳspir,Ṿilyam Sheḳspir
+schema:alternateName{Literal}[411],‏שקספיר,‏שקספיר
+schema:alternateName{Literal}[412],ウィリアム シェイクスピア,ウィリアム シェイクスピア
+schema:alternateName{Literal}[413],ウィリアム シェークスピア,ウィリアム シェークスピア
+schema:alternateName{Literal}[414],ウィリアム・シェイクスピア,ウィリアム・シェイクスピア
+schema:alternateName{Literal}[415],シェイクスピア,シェイクスピア
+schema:alternateName{Literal}[416],シェクスピア,シェクスピア
+schema:alternateName{Literal}[417],シェークスピア,シェークスピア
+schema:alternateName{Literal}[418],シェークスピヤ,シェークスピヤ
+schema:alternateName{Literal}[419],シエィクスピア,シエィクスピア
+schema:alternateName{Literal}[420],シエクスピア,シエクスピア
+schema:alternateName{Literal}[421],シエクスピヤ,シエクスピヤ
+schema:alternateName{Literal}[422],セキスピア,セキスピア
+schema:alternateName{Literal}[423],セーキスピーア,セーキスピーア
+schema:alternateName{Literal}[424],塞格斯比亜,塞格斯比亜
+schema:alternateName{Literal}[425],威廉·莎士比亚,威廉·莎士比亚
+schema:alternateName{Literal}[426],寒格斯比亜,寒格斯比亜
+schema:alternateName{Literal}[427],沙士北亞威廉姆,沙士北亞威廉姆
+schema:alternateName{Literal}[428],沙士比亞威廉姆,沙士比亞威廉姆
+schema:alternateName{Literal}[429],沙士比阿,沙士比阿
+schema:alternateName{Literal}[430],沙翁,沙翁
+schema:alternateName{Literal}[431],莎士比,莎士比
+schema:alternateName{Literal}[432],莎士比亚,莎士比亚
+schema:alternateName{Literal}[433],莎士比亞,莎士比亞
+schema:alternateName{Literal}[434],莎士比亞威廉,莎士比亞威廉
+schema:alternateName{Literal}[435],莎士比亞威廉姆,莎士比亞威廉姆
+schema:alternateName{Literal}[436],西基斯比亜,西基斯比亜
+schema:alternateName{Literal}[437],ꯋꯤꯜꯂꯤꯌꯝ ꯁꯦꯛꯁ꯭ꯄꯤꯌꯔ,ꯋꯤꯜꯂꯤꯌꯝ ꯁꯦꯛꯁ꯭ꯄꯤꯌꯔ
+schema:alternateName{Literal}[438],세익스피어,세익스피어
+schema:alternateName{Literal}[439],섹스피어,섹스피어
+schema:alternateName{Literal}[440],셰익스피어,셰익스피어
+schema:alternateName{Literal}[441],쉑쓰피어,쉑쓰피어
+schema:alternateName{Literal}[442],쎄익쓰피어,쎄익쓰피어
+schema:alternateName{Literal}[443],쒝쓰피어,쒝쓰피어
+schema:alternateName{Literal}[444],윌리암 세익스피어,윌리암 세익스피어
+schema:alternateName{Literal}[445],윌리암 셰익스피어,윌리암 셰익스피어
+schema:alternateName{Literal}[446],윌리암 쉐익스피어,윌리암 쉐익스피어
+schema:alternateName{Literal}[447],윌리암 쉑스피어,윌리암 쉑스피어
+schema:alternateName{Literal}[448],윌리엄 세익스피어,윌리엄 세익스피어
+schema:alternateName{Literal}[449],윌리엄 섹스피어,윌리엄 섹스피어
+schema:alternateName{Literal}[450],윌리엄 셰익스피어,윌리엄 셰익스피어
+schema:alternateName{Literal}[451],윌리엄 쉐익스피어,윌리엄 쉐익스피어
+schema:alternateName{Literal}[452],윌리엄 쉑스피어,윌리엄 쉑스피어
+schema:birthDate{Literal},1564-04-00,1564-04-00
+schema:deathDate{Literal},1616-04-23,1616-04-23
+schema:description{Literal}[0],"English playwright and poet, 1564-1616","English playwright and poet, 1564-1616"
+schema:description{Literal}[1],William,William
+schema:description{Literal}[2],Уильям,Уильям
+schema:familyName{Literal}[0],Bacon-Shakespeare,Bacon-Shakespeare
+schema:familyName{Literal}[1],Chakespear,Chakespear
+schema:familyName{Literal}[2],Chekchapiyera,Chekchapiyera
+schema:familyName{Literal}[3],Hākipia,Hākipia
+schema:familyName{Literal}[4],S,S
+schema:familyName{Literal}[5],S'egsi-pe-yar,S'egsi-pe-yar
+schema:familyName{Literal}[6],S.,S.
+schema:familyName{Literal}[7],SHAKESPEARE,SHAKESPEARE
+schema:familyName{Literal}[8],Saixper,Saixper
+schema:familyName{Literal}[9],Saixperos,Saixperos
+schema:familyName{Literal}[10],Saixpēr,Saixpēr
+schema:familyName{Literal}[11],Saixpēros,Saixpēros
+schema:familyName{Literal}[12],Sakespear,Sakespear
+schema:familyName{Literal}[13],Sakespeĩros,Sakespeĩros
+schema:familyName{Literal}[14],Sakisbir,Sakisbir
+schema:familyName{Literal}[15],Saíxpēr,Saíxpēr
+schema:familyName{Literal}[16],Schakespear,Schakespear
+schema:familyName{Literal}[17],Schakespeare,Schakespeare
+schema:familyName{Literal}[18],Schekspirs,Schekspirs
+schema:familyName{Literal}[19],Sekspir,Sekspir
+schema:familyName{Literal}[20],Sekspiri,Sekspiri
+schema:familyName{Literal}[21],Shaekespeare,Shaekespeare
+schema:familyName{Literal}[22],Shak-Speare,Shak-Speare
+schema:familyName{Literal}[23],Shak-speare,Shak-speare
+schema:familyName{Literal}[24],Shake-Spear,Shake-Spear
+schema:familyName{Literal}[25],Shake-Speare,Shake-Speare
+schema:familyName{Literal}[26],Shake-speare,Shake-speare
+schema:familyName{Literal}[27],Shakespear,Shakespear
+schema:familyName{Literal}[28],Shakespeare,Shakespeare
+schema:familyName{Literal}[29],Shakespearowy,Shakespearowy
+schema:familyName{Literal}[30],Shakesperae,Shakesperae
+schema:familyName{Literal}[31],Shakespere,Shakespere
+schema:familyName{Literal}[32],Shakspear,Shakspear
+schema:familyName{Literal}[33],Shakspeare,Shakspeare
+schema:familyName{Literal}[34],Shaksper,Shaksper
+schema:familyName{Literal}[35],Shakspere,Shakspere
+schema:familyName{Literal}[36],Shashibiya,Shashibiya
+schema:familyName{Literal}[37],Shaḳspir,Shaḳspir
+schema:familyName{Literal}[38],Sheikusupia,Sheikusupia
+schema:familyName{Literal}[39],Shekspir,Shekspir
+schema:familyName{Literal}[40],Shekspyr,Shekspyr
+schema:familyName{Literal}[41],Shekspīʼar,Shekspīʼar
+schema:familyName{Literal}[42],Shekʻspir,Shekʻspir
+schema:familyName{Literal}[43],Shex'pir,Shex'pir
+schema:familyName{Literal}[44],Sheḳspier,Sheḳspier
+schema:familyName{Literal}[45],Sheḳspir,Sheḳspir
+schema:familyName{Literal}[46],Shikisbir,Shikisbir
+schema:familyName{Literal}[47],Shikisbīr,Shikisbīr
+schema:familyName{Literal}[48],Shiksbīr,Shiksbīr
+schema:familyName{Literal}[49],Shikspīr,Shikspīr
+schema:familyName{Literal}[50],Shēkʻspʻiyr,Shēkʻspʻiyr
+schema:familyName{Literal}[51],Siksbir,Siksbir
+schema:familyName{Literal}[52],Sikspir,Sikspir
+schema:familyName{Literal}[53],Sjekspir,Sjekspir
+schema:familyName{Literal}[54],Sweksŭp'iŏ,Sweksŭp'iŏ
+schema:familyName{Literal}[55],Syeiksŭpiŏ,Syeiksŭpiŏ
+schema:familyName{Literal}[56],Szekspir,Szekspir
+schema:familyName{Literal}[57],Szekspjr,Szekspjr
+schema:familyName{Literal}[58],S̆ekhspiri,S̆ekhspiri
+schema:familyName{Literal}[59],S̆ekspir,S̆ekspir
+schema:familyName{Literal}[60],S̆ekspyras,S̆ekspyras
+schema:familyName{Literal}[61],S̆ekspīrs,S̆ekspīrs
+schema:familyName{Literal}[62],èakisb¯ir,èakisb¯ir
+schema:familyName{Literal}[63],èekspir,èekspir
+schema:familyName{Literal}[64],èiksbir,èiksbir
+schema:familyName{Literal}[65],èikspir,èikspir
+schema:familyName{Literal}[66],Şekspir,Şekspir
+schema:familyName{Literal}[67],Šakasbīr,Šakasbīr
+schema:familyName{Literal}[68],Šakaspīr,Šakaspīr
+schema:familyName{Literal}[69],Šakisbīr,Šakisbīr
+schema:familyName{Literal}[70],Šaksbīr,Šaksbīr
+schema:familyName{Literal}[71],Šakspīr,Šakspīr
+schema:familyName{Literal}[72],Šaḳisper,Šaḳisper
+schema:familyName{Literal}[73],Šek'spir,Šek'spir
+schema:familyName{Literal}[74],Šek'spiri,Šek'spiri
+schema:familyName{Literal}[75],Šekesper,Šekesper
+schema:familyName{Literal}[76],Šekspir,Šekspir
+schema:familyName{Literal}[77],Šekspira,Šekspira
+schema:familyName{Literal}[78],Šekspiras,Šekspiras
+schema:familyName{Literal}[79],Šekspirs,Šekspirs
+schema:familyName{Literal}[80],Šekspyr,Šekspyr
+schema:familyName{Literal}[81],Šekspyras,Šekspyras
+schema:familyName{Literal}[82],Šekspīrs,Šekspīrs
+schema:familyName{Literal}[83],Šekʹspir,Šekʹspir
+schema:familyName{Literal}[84],Šekʻspiri,Šekʻspiri
+schema:familyName{Literal}[85],Šeqspiyr,Šeqspiyr
+schema:familyName{Literal}[86],Šeqspīr,Šeqspīr
+schema:familyName{Literal}[87],Šhekspir,Šhekspir
+schema:familyName{Literal}[88],Šikisbīr,Šikisbīr
+schema:familyName{Literal}[89],Šiksbīr,Šiksbīr
+schema:familyName{Literal}[90],Šikspīr,Šikspīr
+schema:familyName{Literal}[91],Šèkspir,Šèkspir
+schema:familyName{Literal}[92],Σαίξπηρ,Σαίξπηρ
+schema:familyName{Literal}[93],Шакеспеаре,Шакеспеаре
+schema:familyName{Literal}[94],Шекспир,Шекспир
+schema:familyName{Literal}[95],Шекспиръ,Шекспиръ
+schema:familyName{Literal}[96],Шэкспир,Шэкспир
+schema:familyName{Literal}[97],Шэкспір,Шэкспір
+schema:familyName{Literal}[98],Շեքսպիր,Շեքսպիր
+schema:familyName{Literal}[99],שייקספיר,שייקספיר
+schema:familyName{Literal}[100],שיקספיר,שיקספיר
+schema:familyName{Literal}[101],שכספיר,שכספיר
+schema:familyName{Literal}[102],שעפקספיר,שעפקספיר
+schema:familyName{Literal}[103],שעקספיער,שעקספיער
+schema:familyName{Literal}[104],שעקספיר,שעקספיר
+schema:familyName{Literal}[105],שעקספער,שעקספער
+schema:familyName{Literal}[106],שקספיר,שקספיר
+schema:familyName{Literal}[107],شكسپير,شكسپير
+schema:familyName{Literal}[108],شېكېسپېر,شېكېسپېر
+schema:familyName{Literal}[109],Ṣēkspiyar,Ṣēkspiyar
+schema:familyName{Literal}[110],‏שיקספיר,‏שיקספיר
+schema:familyName{Literal}[111],‏שקספיר,‏שקספיר
+schema:familyName{Literal}[112],シェイクスピア,シェイクスピア
+schema:familyName{Literal}[113],シェークスピア,シェークスピア
+schema:familyName{Literal}[114],세익스피어,세익스피어
+schema:familyName{Literal}[115],섹스피어,섹스피어
+schema:familyName{Literal}[116],셰익스피어,셰익스피어
+schema:familyName{Literal}[117],쉐익스피어,쉐익스피어
+schema:familyName{Literal}[118],쉑스피어,쉑스피어
+schema:gender{URIRef},http://www.wikidata.org/entity/Q6581097,http://www.wikidata.org/entity/Q6581097
+schema:givenName{Literal}[0],..,..
+schema:givenName{Literal}[1],...,...
+schema:givenName{Literal}[2],Francis,Francis
+schema:givenName{Literal}[3],G.,G.
+schema:givenName{Literal}[4],Gouilliam,Gouilliam
+schema:givenName{Literal}[5],Guglielmo,Guglielmo
+schema:givenName{Literal}[6],Guillaume,Guillaume
+schema:givenName{Literal}[7],Guillem,Guillem
+schema:givenName{Literal}[8],Guillermo,Guillermo
+schema:givenName{Literal}[9],Gulielmus,Gulielmus
+schema:givenName{Literal}[10],Gwilherm,Gwilherm
+schema:givenName{Literal}[11],Ouilliam,Ouilliam
+schema:givenName{Literal}[12],U,U
+schema:givenName{Literal}[13],U.,U.
+schema:givenName{Literal}[14],Uil'jam,Uil'jam
+schema:givenName{Literal}[15],Uil'âm,Uil'âm
+schema:givenName{Literal}[16],Uiliam,Uiliam
+schema:givenName{Literal}[17],Uiliem,Uiliem
+schema:givenName{Literal}[18],Uiljam,Uiljam
+schema:givenName{Literal}[19],Uiljjam,Uiljjam
+schema:givenName{Literal}[20],Uilliam,Uilliam
+schema:givenName{Literal}[21],Uilyam,Uilyam
+schema:givenName{Literal}[22],Uilʹi︠a︡m,Uilʹi︠a︡m
+schema:givenName{Literal}[23],Uilʹjam,Uilʹjam
+schema:givenName{Literal}[24],Uil‘jam,Uil‘jam
+schema:givenName{Literal}[25],Uiriamu,Uiriamu
+schema:givenName{Literal}[26],Uílliam,Uílliam
+schema:givenName{Literal}[27],Uíïlliam,Uíïlliam
+schema:givenName{Literal}[28],Uïlliam,Uïlliam
+schema:givenName{Literal}[29],Uĭlii︠a︡m,Uĭlii︠a︡m
+schema:givenName{Literal}[30],V,V
+schema:givenName{Literal}[31],V.,V.
+schema:givenName{Literal}[32],V.(Vil’i︠a︡m),V.(Vil’i︠a︡m)
+schema:givenName{Literal}[33],Veilliyam,Veilliyam
+schema:givenName{Literal}[34],Veilliyem,Veilliyem
+schema:givenName{Literal}[35],Velyam,Velyam
+schema:givenName{Literal}[36],Vil' jam,Vil' jam
+schema:givenName{Literal}[37],Vil'jam,Vil'jam
+schema:givenName{Literal}[38],Vil'âm,Vil'âm
+schema:givenName{Literal}[39],Viliam,Viliam
+schema:givenName{Literal}[40],Viliem,Viliem
+schema:givenName{Literal}[41],Vilijam,Vilijam
+schema:givenName{Literal}[42],Vilijem,Vilijem
+schema:givenName{Literal}[43],Viliyam,Viliyam
+schema:givenName{Literal}[44],Viljam,Viljam
+schema:givenName{Literal}[45],Viljamas,Viljamas
+schema:givenName{Literal}[46],Viljams,Viljams
+schema:givenName{Literal}[47],Viljem,Viljem
+schema:givenName{Literal}[48],Villiam,Villiam
+schema:givenName{Literal}[49],Villiyam,Villiyam
+schema:givenName{Literal}[50],Vilmos,Vilmos
+schema:givenName{Literal}[51],Vilyam,Vilyam
+schema:givenName{Literal}[52],Vilém,Vilém
+schema:givenName{Literal}[53],Vilʹi︠a︡m,Vilʹi︠a︡m
+schema:givenName{Literal}[54],Vilʹjam,Vilʹjam
+schema:givenName{Literal}[55],Vil’i︠a︡m,Vil’i︠a︡m
+schema:givenName{Literal}[56],Vlilliam,Vlilliam
+schema:givenName{Literal}[57],Vylem,Vylem
+schema:givenName{Literal}[58],Vyli︠e︡m,Vyli︠e︡m
+schema:givenName{Literal}[59],Vīlyām,Vīlyām
+schema:givenName{Literal}[60],W.,W.
+schema:givenName{Literal}[61],Wi,Wi
+schema:givenName{Literal}[62],Wi-li-am,Wi-li-am
+schema:givenName{Literal}[63],Wi.,Wi.
+schema:givenName{Literal}[64],Wil'yam,Wil'yam
+schema:givenName{Literal}[65],Wilhelm,Wilhelm
+schema:givenName{Literal}[66],Wiliam,Wiliam
+schema:givenName{Literal}[67],Wiliyam,Wiliyam
+schema:givenName{Literal}[68],Wiljam,Wiljam
+schema:givenName{Literal}[69],Wiljams,Wiljams
+schema:givenName{Literal}[70],Wiljem,Wiljem
+schema:givenName{Literal}[71],Wiljām,Wiljām
+schema:givenName{Literal}[72],Will,Will
+schema:givenName{Literal}[73],Willem,Willem
+schema:givenName{Literal}[74],Willhelm,Willhelm
+schema:givenName{Literal}[75],William,William
+schema:givenName{Literal}[76],William G.,William G.
+schema:givenName{Literal}[77],William(1564-1616) -- ハムレット,William(1564-1616) -- ハムレット
+schema:givenName{Literal}[78],"William,","William,"
+schema:givenName{Literal}[79],Williyam,Williyam
+schema:givenName{Literal}[80],Willm,Willm
+schema:givenName{Literal}[81],Willyam,Willyam
+schema:givenName{Literal}[82],Willŏm,Willŏm
+schema:givenName{Literal}[83],Wilyam,Wilyam
+schema:givenName{Literal}[84],Wiremu,Wiremu
+schema:givenName{Literal}[85],Ww,Ww
+schema:givenName{Literal}[86],Wīlyam,Wīlyam
+schema:givenName{Literal}[87],Wīlyām,Wīlyām
+schema:givenName{Literal}[88],Wīlīam,Wīlīam
+schema:givenName{Literal}[89],Wīlīyām,Wīlīyām
+schema:givenName{Literal}[90],Wиллиам,Wиллиам
+schema:givenName{Literal}[91],Γουίλιαμ,Γουίλιαμ
+schema:givenName{Literal}[92],Ουίλιαμ,Ουίλιαμ
+schema:givenName{Literal}[93],В,В
+schema:givenName{Literal}[94],В.,В.
+schema:givenName{Literal}[95],Вилијам,Вилијам
+schema:givenName{Literal}[96],Вильям,Вильям
+schema:givenName{Literal}[97],У,У
+schema:givenName{Literal}[98],У.,У.
+schema:givenName{Literal}[99],Уильям,Уильям
+schema:givenName{Literal}[100],"Уильям,","Уильям,"
+schema:givenName{Literal}[101],Уйлям,Уйлям
+schema:givenName{Literal}[102],Уільям,Уільям
+schema:givenName{Literal}[103],Ուիլյամ,Ուիլյամ
+schema:givenName{Literal}[104],וו,וו
+schema:givenName{Literal}[105],וו.,וו.
+schema:givenName{Literal}[106],וויליאם,וויליאם
+schema:givenName{Literal}[107],וויליאמ,וויליאמ
+schema:givenName{Literal}[108],ווילים,ווילים
+schema:givenName{Literal}[109],ווילליאם,ווילליאם
+schema:givenName{Literal}[110],וילאם,וילאם
+schema:givenName{Literal}[111],ויליאם,ויליאם
+schema:givenName{Literal}[112],"ויליאם,","ויליאם,"
+schema:givenName{Literal}[113],ויליים,ויליים
+schema:givenName{Literal}[114],וילים,וילים
+schema:givenName{Literal}[115],ו׳,ו׳
+schema:givenName{Literal}[116],ייליאם,ייליאם
+schema:givenName{Literal}[117],װ,װ
+schema:givenName{Literal}[118],װיליאם,װיליאם
+schema:givenName{Literal}[119],װילליאם,װילליאם
+schema:givenName{Literal}[120],ويليام,ويليام
+schema:givenName{Literal}[121],ویلیام,ویلیام
+schema:givenName{Literal}[122],ۋىليام,ۋىليام
+schema:givenName{Literal}[123],Ṿ.,Ṿ.
+schema:givenName{Literal}[124],Ṿiliam,Ṿiliam
+schema:givenName{Literal}[125],Ṿiliyam,Ṿiliyam
+schema:givenName{Literal}[126],Ṿilyam,Ṿilyam
+schema:givenName{Literal}[127],ウィリアム,ウィリアム
+schema:givenName{Literal}[128],윌리암,윌리암
+schema:givenName{Literal}[129],윌리엄,윌리엄
+schema:name{Literal}[0],William Shakespeare,William Shakespeare
+schema:name{Literal}[1],Уильям Шекспир,Уильям Шекспир
+schema:name{Literal}[2],ויליאם שיקספיר,ויליאם שיקספיר
+schema:name{Literal}[3],شكسبير، وليام،,شكسبير، وليام،
+schema:name{Literal}@ar-EG,شكسبير، وليم،,شكسبير، وليم،
+schema:name{Literal}[0]@ar-LB,William Shakespeare,William Shakespeare
+schema:name{Literal}[1]@ar-LB,شكسبير، وليم،,شكسبير، وليم،
+schema:name{Literal}@ca-ES,William Shakespeare,William Shakespeare
+schema:name{Literal}@cs-CZ,William Shakespeare,William Shakespeare
+schema:name{Literal}@da-DK,William Shakespeare,William Shakespeare
+schema:name{Literal}@de-DE,William Shakespeare,William Shakespeare
+schema:name{Literal}@en,William SHAKESPEARE,William SHAKESPEARE
+schema:name{Literal}@en-AU,William Shakespeare,William Shakespeare
+schema:name{Literal}@en-KR,William Shakespeare,William Shakespeare
+schema:name{Literal}@en-US,William Shakespeare,William Shakespeare
+schema:name{Literal}@es-AR,William Shakespeare,William Shakespeare
+schema:name{Literal}@es-CL,William Shakespeare,William Shakespeare
+schema:name{Literal}@es-ES,William Shakespeare,William Shakespeare
+schema:name{Literal}@et-EE,William Shakespeare,William Shakespeare
+schema:name{Literal}@fr-CA,William Shakespeare,William Shakespeare
+schema:name{Literal}@fr-CH,William Shakespeare,William Shakespeare
+schema:name{Literal}@fr-FR,William Shakespeare,William Shakespeare
+schema:name{Literal}@hr-HR,William Shakespeare,William Shakespeare
+schema:name{Literal}@it-IT,William Shakespeare,William Shakespeare
+schema:name{Literal}@it-VA,William Shakespeare,William Shakespeare
+schema:name{Literal}@ja-JP,William Shakespeare,William Shakespeare
+schema:name{Literal}@lt-LT,William Shakespeare,William Shakespeare
+schema:name{Literal}@lv-LV,William Shakespeare,William Shakespeare
+schema:name{Literal}@nl-NL,William Shakespeare,William Shakespeare
+schema:name{Literal}@no-NO,William Shakespeare,William Shakespeare
+schema:name{Literal}@pl-PL,William Shakespeare,William Shakespeare
+schema:name{Literal}@pt-BR,William Shakespeare,William Shakespeare
+schema:name{Literal}@pt-PT,William Shakespeare,William Shakespeare
+schema:name{Literal}[0]@ru-RU,W. Shakespeare,W. Shakespeare
+schema:name{Literal}[1]@ru-RU,У. Шекспир,У. Шекспир
+schema:name{Literal}@sk-SK,William Shakespeare,William Shakespeare
+schema:name{Literal}@sl-SL,William Shakespeare,William Shakespeare
+schema:name{Literal}@sv-SE,William Shakespeare,William Shakespeare
+schema:sameAs{URIRef}[0],http://d-nb.info/gnd/118613723,http://d-nb.info/gnd/118613723
+schema:sameAs{URIRef}[1],http://data.bibsys.no/data/notrbib/authorityentry/x90052737,http://data.bibsys.no/data/notrbib/authorityentry/x90052737
+schema:sameAs{URIRef}[2],http://data.bnf.fr/#foaf:Person,http://data.bnf.fr/#foaf:Person
+schema:sameAs{URIRef}[3],http://datos.bne.es/resource/XX1020842,http://datos.bne.es/resource/XX1020842
+schema:sameAs{URIRef}[4],http://dbpedia.org/resource/William_Shakespeare,http://dbpedia.org/resource/William_Shakespeare
+schema:sameAs{URIRef}[5],http://id.loc.gov/authorities/names/n78095332,http://id.loc.gov/authorities/names/n78095332
+schema:sameAs{URIRef}[6],http://id.ndl.go.jp/auth/entity/00456207,http://id.ndl.go.jp/auth/entity/00456207
+schema:sameAs{URIRef}[7],http://isni.org/isni/0000000121032683,http://isni.org/isni/0000000121032683
+schema:sameAs{URIRef}[8],http://libris.kb.se/resource/auth/198702,http://libris.kb.se/resource/auth/198702
+schema:sameAs{URIRef}[9],http://vocab.getty.edu/ulan/500272240-agent,http://vocab.getty.edu/ulan/500272240-agent
+schema:sameAs{URIRef}[10],http://www.idref.fr/027136086/id,http://www.idref.fr/027136086/id
+schema:sameAs{URIRef}[11],http://www.wikidata.org/entity/Q692,http://www.wikidata.org/entity/Q692
+rdf:value{Literal}[0](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""000565894"">BLBNB|000565894</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""000565894"">BLBNB|000565894</ns1:source>"
+rdf:value{Literal}[1](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""1071459"">SIMACOB|1071459</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""1071459"">SIMACOB|1071459</ns1:source>"
+rdf:value{Literal}[2](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""9810578162205606"">PLWABN|9810578162205606</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""9810578162205606"">PLWABN|9810578162205606</ns1:source>"
+rdf:value{Literal}[3](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""987007267964505171"">J9U|987007267964505171</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""987007267964505171"">J9U|987007267964505171</ns1:source>"
+rdf:value{Literal}[4](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""LNB:V*6914;=BG"">LIH|LNB:V-6914;=BG</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""LNB:V*6914;=BG"">LIH|LNB:V-6914;=BG</ns1:source>"
+rdf:value{Literal}[5](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""a11141761"">ERRR|a11141761</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""a11141761"">ERRR|a11141761</ns1:source>"
+rdf:value{Literal}[6](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""ncf10142390"">CAOONL|ncf10142390</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""ncf10142390"">CAOONL|ncf10142390</ns1:source>"
+rdf:value{Literal}[7](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""pe381951"">DE663|pe381951</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""pe381951"">DE663|pe381951</ns1:source>"
+rdf:value{Literal}[8](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""vtls004543583"">SKMASNL|vtls004543583</ns1:source>","<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""vtls004543583"">SKMASNL|vtls004543583</ns1:source>"
+rdfs:comment{Literal}[0],BCP47 tag for 'GRATEVE' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'GRATEVE' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[1],BCP47 tag for 'GRATEVE|60570' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'GRATEVE|60570' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[2],BCP47 tag for 'J9U' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'J9U' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[3],BCP47 tag for 'J9U' is undetermined. Name is 'Уильям Шекспир'.,BCP47 tag for 'J9U' is undetermined. Name is 'Уильям Шекспир'.
+rdfs:comment{Literal}[4],BCP47 tag for 'J9U' is undetermined. Name is 'ויליאם שיקספיר'.,BCP47 tag for 'J9U' is undetermined. Name is 'ויליאם שיקספיר'.
+rdfs:comment{Literal}[5],BCP47 tag for 'J9U' is undetermined. Name is 'شكسبير، وليام،'.,BCP47 tag for 'J9U' is undetermined. Name is 'شكسبير، وليام،'.
+rdfs:comment{Literal}[6],BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[7],BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'Уильям Шекспир'.,BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'Уильям Шекспир'.
+rdfs:comment{Literal}[8],BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'ויליאם שיקספיר'.,BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'ויליאם שיקספיר'.
+rdfs:comment{Literal}[9],BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'شكسبير، وليام،'.,BCP47 tag for 'J9U|987007267964505171' is undetermined. Name is 'شكسبير، وليام،'.
+rdfs:comment{Literal}[10],BCP47 tag for 'NYNYRILM' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'NYNYRILM' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[11],BCP47 tag for 'NYNYRILM|16666' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'NYNYRILM|16666' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[12],BCP47 tag for 'WKP' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'WKP' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}[13],BCP47 tag for 'WKP|Q692' is undetermined. Name is 'William Shakespeare'.,BCP47 tag for 'WKP|Q692' is undetermined. Name is 'William Shakespeare'.
+rdfs:comment{Literal}@en,Warning: skos:prefLabels are not ensured against change!,Warning: skos:prefLabels are not ensured against change!
+entity,http://viaf.org/viaf/96994048,http://viaf.org/viaf/96994048

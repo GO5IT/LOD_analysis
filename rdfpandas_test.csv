@@ -1,0 +1,6 @@
+@id,bn-lemon:synsetID{Literal},bn-lemon:synsetType{Literal},bn-lemon:wiktionaryPageLink{URIRef}[0],bn-lemon:wiktionaryPageLink{URIRef}[1],bn-lemon:wiktionaryPageLink{URIRef}[2],dcterms:license{URIRef},lexinfo:derivedForm{URIRef},rdf:type{URIRef},skos:broader{URIRef}[0],skos:broader{URIRef}[1],skos:broader{URIRef}[2],skos:broader{URIRef}[3],skos:exactMatch{URIRef}[0],skos:exactMatch{URIRef}[1],skos:exactMatch{URIRef}[2],skos:exactMatch{URIRef}[3],skos:exactMatch{URIRef}[4],skos:exactMatch{URIRef}[5],lexinfo:pertainsTo{URIRef},rdfs:label{Literal},foaf:primaryTopic{URIRef},skos:narrower{URIRef}
+bn:s00008556n,bn:00008556n,NE,wiktionary:Shakespeare,wiktionary:Shakespeareana,wiktionary:Sweet_Swan_of_Avon,http://creativecommons.org/licenses/by-nc-sa/3.0/,bn:s00110499a,skos:Concept,bn:s00028616n,bn:s00044576n,bn:s00063196n,bn:s02788516n,http://dbpedia.org/resource/Spelling_of_Shakespeare's_name,dbpedia:William_Shakespeare,freebase:m.081k8,lemon-WordNet31:111315186-n,http://yago-knowledge.org/resource/Spelling_of_Shakespeare's_name,yago:William_Shakespeare,,,,
+bn:s00028616n,,,,,,,,,,,,,,,,,,,,,,bn:s00008556n
+bn:s00063196n,,,,,,,,,,,,,,,,,,,,,,bn:s00008556n
+bn:s00110499a,,,,,,,bn:s00008556n,,,,,,,,,,,,bn:s00008556n,,,
+http://babelnet.org/rdf/data/s00008556n?output=xml,,,,,,,,,,,,,,,,,,,,RDF description of S00008556n,bn:s00008556n,

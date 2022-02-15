@@ -1,0 +1,67 @@
+@id,http://id.loc.gov/authorities/subjects/sh97003090
+bflc:subjectOf{URIRef}[0],http://id.loc.gov/resources/works/14013797
+bflc:subjectOf{URIRef}[1],http://id.loc.gov/resources/works/15678111
+bflc:subjectOf{URIRef}[2],http://id.loc.gov/resources/works/19285669
+bflc:subjectOf{URIRef}[3],http://id.loc.gov/resources/works/19398396
+bflc:subjectOf{URIRef}[4],http://id.loc.gov/resources/works/19582948
+bflc:subjectOf{URIRef}[5],http://id.loc.gov/resources/works/19584451
+bflc:subjectOf{URIRef}[6],http://id.loc.gov/resources/works/19756144
+bflc:subjectOf{URIRef}[7],http://id.loc.gov/resources/works/20383981
+bflc:subjectOf{URIRef}[8],http://id.loc.gov/resources/works/20981456
+bflc:subjectOf{URIRef}[9],http://id.loc.gov/resources/works/719908
+identifiers:lccn{Literal},sh 97003090
+madsrdf:adminMetadata{BNode}[0],Nfa00c3781b8f40a3862e2ce41b60fd42
+madsrdf:adminMetadata{BNode}[1],Nfd83a95a8c0f456f9cc30d7ed0b98d24
+madsrdf:authoritativeLabel{Literal}@en,"Nineteen sixty-seven, A.D."
+madsrdf:authoritativeLabel{Literal},
+madsrdf:authoritativeLabel{Literal}@fr,
+madsrdf:elementList{BNode},Nad0c8857d9d2419991b3df243a51198d
+madsrdf:hasBroaderAuthority{URIRef},http://id.loc.gov/authorities/subjects/sh96005475
+madsrdf:hasCloseExternalAuthority{URIRef}[0],http://data.bnf.fr/ark:/12148/cb131884682
+madsrdf:hasCloseExternalAuthority{URIRef}[1],http://id.worldcat.org/fast/1037825
+madsrdf:hasCloseExternalAuthority{URIRef}[2],http://www.wikidata.org/entity/Q2648
+madsrdf:hasSource{BNode},N0c078bd584214ae38072c959bd35be00
+madsrdf:hasVariant{BNode}[0],N21ac2fb248a94ddf96ed8e140506d083
+madsrdf:hasVariant{BNode}[1],Nc4ac963ad6774714a7eca37429fe517b
+madsrdf:hasVariant{BNode}[2],Ndb71f22ddfdc4e009cb36bacdaaaa312
+madsrdf:isMemberOfMADSCollection{URIRef}[0],http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings
+madsrdf:isMemberOfMADSCollection{URIRef}[1],http://id.loc.gov/authorities/subjects/collection_LCSH_General
+madsrdf:isMemberOfMADSScheme{URIRef},http://id.loc.gov/authorities/subjects
+rdf:type{URIRef}[0],madsrdf:Authority
+rdf:type{URIRef}[1],madsrdf:Topic
+rdf:type{URIRef}[2],skos:Concept
+owl:sameAs{URIRef}[0],http://id.loc.gov/authorities/sh97003090#concept
+owl:sameAs{URIRef}[1],info:lc/authorities/sh97003090
+skos:altLabel{Literal}[0]@en,1967 A.D.
+skos:altLabel{Literal}[1]@en,"Nineteen hundred sixty seven, A.D."
+skos:altLabel{Literal}[2]@en,"Year nineteen sixty-seven, A.D."
+skos:broader{URIRef},http://id.loc.gov/authorities/subjects/sh96005475
+skos:changeNote{BNode}[0],N259d88def6ed42a5aff83cddd658488e
+skos:changeNote{BNode}[1],N55b8dc9dc0084f40b6de294dc2666a75
+skos:closeMatch{URIRef}[0],http://data.bnf.fr/ark:/12148/cb131884682
+skos:closeMatch{URIRef}[1],http://id.worldcat.org/fast/1037825
+skos:closeMatch{URIRef}[2],http://www.wikidata.org/entity/Q2648
+skos:inScheme{URIRef},http://id.loc.gov/authorities/subjects
+skos:prefLabel{Literal}@en,"Nineteen sixty-seven, A.D."
+skos:prefLabel{Literal},
+skos:prefLabel{Literal}@fr,
+skosxl:altLabel{BNode}[0],N222ea94073c4468989372a6ae1135e34
+skosxl:altLabel{BNode}[1],N9c36243e32e840d7808a8e46aa853890
+skosxl:altLabel{BNode}[2],Nd54471515c7849b68640fff6c01a863f
+madsrdf:citationNote{Literal}@en,
+madsrdf:citationSource{Literal},
+madsrdf:citationStatus{Literal},
+madsrdf:variantLabel{Literal}@en,
+cs:changeReason{Literal}(xsd:string),
+cs:createdDate{Literal}(xsd:dateTime),
+cs:creatorName{URIRef},
+cs:subjectOfChange{URIRef},
+ri:recordChangeDate{Literal}(xsd:dateTime),
+ri:recordContentSource{URIRef},
+ri:recordStatus{Literal}(xsd:string),
+bflc:aap{Literal},
+skosxl:literalForm{Literal}@en,
+rdf:first{BNode},
+rdf:rest{URIRef},
+madsrdf:elementValue{Literal}@en,
+entity,http://id.loc.gov/authorities/subjects/sh97003090

@@ -1,0 +1,30 @@
+@id,http://id.worldcat.org/fast/1037825
+dct:identifier{Literal},1037825
+schema:name{Literal}[0],1967 A.D.
+schema:name{Literal}[1],"Nineteen hundred sixty seven, A.D."
+schema:name{Literal}[2],"Nineteen sixty-seven, A.D."
+schema:name{Literal}[3],"Year nineteen sixty-seven, A.D."
+schema:sameAs{URIRef},http://id.loc.gov/authorities/subjects/sh97003090
+rdf:type{URIRef},schema:Intangible
+skos:altLabel{Literal}[0],1967 A.D.
+skos:altLabel{Literal}[1],"Nineteen hundred sixty seven, A.D."
+skos:altLabel{Literal}[2],"Year nineteen sixty-seven, A.D."
+skos:broader{URIRef},http://id.worldcat.org/fast/1037817
+skos:inScheme{URIRef}[0],http://id.worldcat.org/fast/ontology/1.0/#facet-Topical
+skos:inScheme{URIRef}[1],http://id.worldcat.org/fast/ontology/1.0/#fast
+skos:prefLabel{Literal},"Nineteen sixty-seven, A.D."
+dc:format{Literal},
+dct:created{Literal}(xsd:dateTime),
+dct:language{URIRef},
+dct:modified{Literal}(xsd:dateTime),
+void:inDataset{URIRef},
+skos:changeNote{Literal}[0]@en,
+skos:changeNote{Literal}[1]@en,
+foaf:primaryTopic{URIRef},
+dct:license{URIRef},
+dct:title{Literal},
+rdfs:comment{Literal},
+rdfs:seeAlso{URIRef},
+owl:sameAs{URIRef},
+rdfs:label{Literal},
+entity,http://id.worldcat.org/fast/1037825

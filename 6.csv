@@ -1,0 +1,22 @@
+@id,http://babelnet.org/rdf/data/s02830721n?output=xml
+bn-lemon:synsetID{Literal},
+bn-lemon:synsetType{Literal},
+dcterms:license{URIRef},
+rdf:type{URIRef},
+skos:broader{URIRef}[0],
+skos:broader{URIRef}[1],
+skos:broader{URIRef}[2],
+skos:broader{URIRef}[3],
+skos:broader{URIRef}[4],
+skos:broader{URIRef}[5],
+skos:broader{URIRef}[6],
+skos:broader{URIRef}[7],
+skos:exactMatch{URIRef},
+skos:narrower{URIRef}[0],
+skos:narrower{URIRef}[1],
+skos:narrower{URIRef}[2],
+skos:narrower{URIRef}[3],
+skos:narrower{URIRef}[4],
+rdfs:label{Literal},RDF description of S02830721n
+foaf:primaryTopic{URIRef},bn:s02830721n
+entity,http://babelnet.org/rdf/data/s02830721n?output=xml
