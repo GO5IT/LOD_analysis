@@ -1,4 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON, XML
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 # Define Prefix for SPARQL query
@@ -35,26 +37,53 @@ prefix = """
 # """
 query_content = """
     SELECT *
-       WHERE { dbpedia:Charles_Darwin dbo:birthDate ?o }
+       WHERE { dbpedia:Charles_Darwin rdfs:label ?name; dbo:birthDate ?b_date; dbo:deathDate ?d_date 
+       }
 """
 
 query = prefix + query_content
 sparql.setQuery(query)
 
 # Define outcomes 1 (in JSON)
-# sparql.setReturnFormat(JSON)
-# results = sparql.query().convert()
-#
-# for result in results["results"]["bindings"]:
-#     print(result["label"]["value"])
-#
-# print('---------------------------')
-#
-# for result in results["results"]["bindings"]:
-#     print('%s: %s' % (result["label"]["xml:lang"], result["label"]["value"]))
-#
+sparql.setReturnFormat(JSON)
+results = sparql.query().convert()
+
+for result in results["results"]["bindings"]:
+    print(result)
+    person_name = result["name"]["value"]
+    birthdate = result["b_date"]["value"]
+    deathdate = result["d_date"]["value"]
+    birthdate_convert = datetime.strptime(birthdate, "%Y-%m-%d")
+    deathdate_convert = datetime.strptime(deathdate, "%Y-%m-%d")
+    targetdate = "1809-01-11"
+    targetdate_convert = datetime.strptime(targetdate, "%Y-%m-%d")
+
+    if targetdate_convert < deathdate_convert:
+        # Calculate years and months from birth date
+        age_y = relativedelta(targetdate_convert, birthdate_convert).years
+        age_m = relativedelta(targetdate_convert, birthdate_convert).months
+        if targetdate_convert >= birthdate_convert:
+            print("On "+ targetdate + " " + person_name + " was " + str(age_y) + " years and " + str(age_m) + " months old")
+        else:
+            # Convert positive value to negative
+            age_y = abs(age_y)
+            age_m = abs(age_m)
+            print(targetdate + " is " + str(age_y) + " years and " + str(age_m) + " months before " + person_name + " was born")
+    else:
+        # Calculate years and months from death date
+        age_y = relativedelta(targetdate_convert, deathdate_convert).years
+        age_m = relativedelta(targetdate_convert, deathdate_convert).months
+        print(targetdate + " is " + str(age_y) + " years and " + str(age_m) + " months after " + person_name + " was dead")
+    #print(result["label"]["value"])
+
+print('---------------------------')
+
+for result in results["results"]["bindings"]:
+    print(result)
+    #print('%s: %s' % (result["label"]["xml:lang"], result["label"]["value"]))
+
 
 # Define outcomes 2 (in XML)
-sparql.setReturnFormat(XML)
-results = sparql.query().convert()
-print(results.toxml())
+# sparql.setReturnFormat(XML)
+# results = sparql.query().convert()
+# print(results.toxml())
