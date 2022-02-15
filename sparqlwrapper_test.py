@@ -3,8 +3,28 @@ from SPARQLWrapper import SPARQLWrapper, JSON, XML
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 # Define Prefix for SPARQL query
 prefix = """
+    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX owl: <http://www.w3.org/2002/07/owl#>
+    PREFIX schema: <http://schema.org/>
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    PREFIX dbpedia: <http://dbpedia.org/resource/>
     PREFIX dbo: <http://dbpedia.org/resource/>
+    PREFIX dbp: <http://dbpedia.org/property/>
+    PREFIX dbc: <http://dbpedia.org/resource/Category:>
+    PREFIX dbo: <http://dbpedia.org/ontology/>
+    PREFIX dbt: <http://dbpedia.org/resource/Template:>
+    PREFIX wd: <http://www.wikidata.org/entity/>
+    PREFIX dbyago: <http://dbpedia.org/class/yago/>
+    PREFIX dct: <http://purl.org/dc/terms/>
+    PREFIX dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#>
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX gnd: <http://d-nb.info/gnd/>
+    PREFIX gold: <http://purl.org/linguistics/gold/>
+    PREFIX prov: <http://www.w3.org/ns/prov#>
+    PREFIX umbelrc: <http://umbel.org/umbel/rc/>
+    PREFIX viaf: <http://viaf.org/viaf/>
 """
 # Sample SPARQL queries
 # query_content = """
@@ -14,8 +34,8 @@ prefix = """
 #     LIMIT 100
 # """
 query_content = """
-    SELECT ?label
-       WHERE { <http://dbpedia.org/resource/Asturias> rdfs:label ?label }
+    SELECT *
+       WHERE { dbpedia:Charles_Darwin dbo:birthDate ?o }
 """
 
 query = prefix + query_content
