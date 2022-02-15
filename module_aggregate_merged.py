@@ -27,7 +27,7 @@ def create_dataframe_agg(aggregate):
         # merged = aggregate[0].merge(aggregate[1].drop_duplicates(), on='full_coverage', how='outer', indicator=True, validate='many_to_many')
         merged = aggregate[0].merge(aggregate[1].drop_duplicates(), on='full_coverage', how='outer', validate='many_to_many')
         allagg.append(merged)
-        #print(allagg)
+        print(allagg)
     # If there are more than 3 dataframes to merge, loop over dataframes in the aggregate array (created above) until it there is no more dataframes to merge
     # Put all dataframes in a new allagg array
     else:

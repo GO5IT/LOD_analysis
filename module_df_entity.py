@@ -89,17 +89,24 @@ def create_dataframe_entity(entities):
                 x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
 
             else:
-                #x = df[df['entity'] == entities.loc[i, 'uri']]
-                # Extract all property names 2022-02-12. x is OK, but should extract index row too
                 x = df[df['entity'] == entities.loc[i, 'uri']]
                 print("\n****** x = df[df['entity'] == entities.loc[i, 'uri']] ******\n")
                 print(x)
                 print("\n****** x.columns.T ******\n")
                 print(x.columns.T)
                 x_transposed = x.T
+                print("\n****** x_transposed BEFORE dropna ******\n")
+                print(x_transposed)
+
+                # Newly added 2 line below will compare property names by string matching. The corresponding literals are still preserved in EXCEL, but as references only
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed = x_transposed.dropna()
+                print("\n****** x_transposed AFTER dropna ******\n")
+                print(x_transposed)
+                # Next 1 line used before "Extract all property names 2022-02-14"
                 #x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
-                # Extract all property names 2022-02-12
-                x_transposed['full_coverage'] = x.columns.T
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed['full_coverage'] = x_transposed.index
             x_transposed.dropna(subset=['full_coverage'], inplace=True)
             print("\n****** x_transposed ******\n")
             print(x_transposed)

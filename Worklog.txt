@@ -7,10 +7,9 @@
 Currently "full Coverage" column for all files contains full coverage of properties (i.e. all properties)It is not only the main entity Shakspare but also all nodes available in the lookup.
 There are two ways to proceed:
 
-1) Continue as it is to display the properties in full coverage, while all other data (string matching) is unchanged. It is useful for a new view of the data. But this cannot be used for a totally new analysis about the properties. 1) is just an experiment to improve the current literal analysis, 2) is the way to go for property analysis.
+1) Continue as it is to display the properties in full coverage, while all other data (string matching) is unchanged. It is useful for a new view of the same data (ie analysis for literals). But this cannot be used for a totally new analysis about the properties. 1) is just an experiment to improve the current literal analysis, 2) is the way to go for property analysis. After some thought, 1) is not very useful because the same literal can appear in different properties, so some property names will be lost, when matching only by literals.
 
-2) Change the code to check the overlap of properties only (not literal's string matching, but properties' string matching). How to extract only the main entities (i.e. excluding full coverage of properties?
-
+2) Change the code to check the overlap of properties only (not literal's string matching, but properties' string matching). How to extract only the main entities (i.e. excluding full coverage of properties? The main entity alone was extracted successfully, by using dropna for literal's column and copy the index column for properties to full_coverage column.
 
 * Consider {} as the type of relation: "BNode" (blank note), "literals", "anyURI" etc
 
