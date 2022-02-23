@@ -114,8 +114,8 @@ def create_dataframe_entity(entities):
             print("\n****** aggregate ******\n")
             print(aggregate)
             # Save dataframe of each entity as CSV (file name is index number (i) in the dataframe)
-            csvnumber = '00000_' + entities.loc[i, 'source'] + str(i) + '.csv'
-            df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
+            #csvnumber = '00000_' + entities.loc[i, 'source'] + str(i) + '.csv'
+            #df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
         else:
             print('\n****** ' + entities.loc[i, 'source'] + ' does not have entity. Try another entity. ******\n')
             #data2 = {'NAME': '', 'full_coverage': ''}

@@ -13,4 +13,5 @@ There are two ways to proceed:
 
 * Consider {} as the type of relation: "BNode" (blank note), "literals", "anyURI" etc
 
-
+Propery analysis:
+New data should be generated (hours to finish)
