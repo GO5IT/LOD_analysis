@@ -1,0 +1,14 @@
+@id,bn:s02831086n,full_coverage
+skos:narrower{URIRef},bn:s03599424n,skos:narrower{URIRef}
+bn-lemon:dbpediaCategory{URIRef}[0],http://dbpedia.org/resource/Category:1979,bn-lemon:dbpediaCategory{URIRef}[0]
+bn-lemon:dbpediaCategory{URIRef}[1],http://dbpedia.org/resource/Category:Articles_with_short_description,bn-lemon:dbpediaCategory{URIRef}[1]
+bn-lemon:dbpediaCategory{URIRef}[2],http://dbpedia.org/resource/Category:M_w,bn-lemon:dbpediaCategory{URIRef}[2]
+bn-lemon:synsetID{Literal},bn:02831086n,bn-lemon:synsetID{Literal}
+bn-lemon:synsetType{Literal},NE,bn-lemon:synsetType{Literal}
+dcterms:license{URIRef},https://babelnet.org/license,dcterms:license{URIRef}
+rdf:type{URIRef},skos:Concept,rdf:type{URIRef}
+skos:broader{URIRef}[0],bn:s00000106n,skos:broader{URIRef}[0]
+skos:broader{URIRef}[1],bn:s00081857n,skos:broader{URIRef}[1]
+skos:broader{URIRef}[2],bn:s14186547n,skos:broader{URIRef}[2]
+skos:exactMatch{URIRef},dbpedia:1979,skos:exactMatch{URIRef}
+entity,bn:s02831086n,entity

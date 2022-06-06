@@ -67,6 +67,18 @@ def create_dataframe_entity(entities):
                 x_transposed['full_coverage'] = x_transposed[mary]
                 print(r"****** Checking the case of Mary ******")
                 print(x)
+                print("\n****** x_transposed BEFORE dropna ******\n")
+                print(x_transposed)
+
+                # Newly added 2 line below will compare property names by string matching. The corresponding literals are still preserved in EXCEL, but as references only
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed = x_transposed.dropna()
+                print("\n****** x_transposed AFTER dropna ******\n")
+                print(x_transposed)
+                # Next 1 line used before "Extract all property names 2022-02-14"
+                #x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed['full_coverage'] = x_transposed.index
             # Dates category has wierd URIs for YAGO, so adjust
             category_uri = entities.loc[i, 'uri'].replace('http://dbpedia.org/resource/', 'http://dbpedia.org/resource/Category:')
             if df['entity'].str.contains(category_uri).any() and entities.loc[i, 'source'] == 'YAGO':
@@ -75,6 +87,18 @@ def create_dataframe_entity(entities):
                 x_transposed['full_coverage'] = x_transposed[category_uri]
                 print(r"****** Checking the case of YAGO ******")
                 print(x)
+                print("\n****** x_transposed BEFORE dropna ******\n")
+                print(x_transposed)
+
+                # Newly added 2 line below will compare property names by string matching. The corresponding literals are still preserved in EXCEL, but as references only
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed = x_transposed.dropna()
+                print("\n****** x_transposed AFTER dropna ******\n")
+                print(x_transposed)
+                # Next 1 line used before "Extract all property names 2022-02-14"
+                #x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed['full_coverage'] = x_transposed.index
 
             uncle_uri = r" http://yago-knowledge.org/resource/Uncle_Tom's_Cabin"
             uncle_uri2 = r"http://dbpedia.org/resource/Uncle_Tom's_Cabin"
@@ -87,6 +111,18 @@ def create_dataframe_entity(entities):
                 print(x)
                 x_transposed = x.T
                 x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                print("\n****** x_transposed BEFORE dropna ******\n")
+                print(x_transposed)
+
+                # Newly added 2 line below will compare property names by string matching. The corresponding literals are still preserved in EXCEL, but as references only
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed = x_transposed.dropna()
+                print("\n****** x_transposed AFTER dropna ******\n")
+                print(x_transposed)
+                # Next 1 line used before "Extract all property names 2022-02-14"
+                #x_transposed['full_coverage'] = x_transposed[entities.loc[i, 'uri']]
+                # Next 1 line added for "Extract all property names 2022-02-14"
+                x_transposed['full_coverage'] = x_transposed.index
 
             else:
                 x = df[df['entity'] == entities.loc[i, 'uri']]
@@ -114,8 +150,8 @@ def create_dataframe_entity(entities):
             print("\n****** aggregate ******\n")
             print(aggregate)
             # Save dataframe of each entity as CSV (file name is index number (i) in the dataframe)
-            #csvnumber = '00000_' + entities.loc[i, 'source'] + str(i) + '.csv'
-            #df_csv = x_transposed.to_csv(csvnumber, index=True, index_label='@id')
+            csvnumber = '222_' + entities.loc[i, 'source'] + str(i) + '.csv'
+            df_csv = df.to_csv(csvnumber, index=True, index_label='@id')
         else:
             print('\n****** ' + entities.loc[i, 'source'] + ' does not have entity. Try another entity. ******\n')
             #data2 = {'NAME': '', 'full_coverage': ''}

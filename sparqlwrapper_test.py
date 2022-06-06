@@ -1,3 +1,6 @@
+# Specify date and calculate the age of a person from DBpedia URI
+# SPARQLWrapper returns SPARQL query results in JSON format 
+
 from SPARQLWrapper import SPARQLWrapper, JSON, XML
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
@@ -38,9 +41,19 @@ prefix = """
 query_content = """
     SELECT *
        WHERE { dbpedia:Charles_Darwin rdfs:label ?name; dbo:birthDate ?b_date; dbo:deathDate ?d_date 
+       FILTER(lang(?name)='en')
        }
 """
+# Age calculation is set inside SPARQL (but so far no target year can be posted together)
+# """
+#     SELECT *
+#        WHERE { dbr:Charles_Darwin rdfs:label ?name; dbo:birthDate ?b_date; dbo:deathDate ?d_date
+#          BIND(?d_date - ?b_date AS ?ageInDays)
+#          BIND(?ageInDays / 365 AS ?ageInYears)
+#          BIND(FLOOR(?ageInYears) AS ?age)
+# }
 
+targetdate = "1809-01-11"
 query = prefix + query_content
 sparql.setQuery(query)
 
@@ -55,7 +68,6 @@ for result in results["results"]["bindings"]:
     deathdate = result["d_date"]["value"]
     birthdate_convert = datetime.strptime(birthdate, "%Y-%m-%d")
     deathdate_convert = datetime.strptime(deathdate, "%Y-%m-%d")
-    targetdate = "1809-01-11"
     targetdate_convert = datetime.strptime(targetdate, "%Y-%m-%d")
 
     if targetdate_convert < deathdate_convert:
@@ -78,9 +90,10 @@ for result in results["results"]["bindings"]:
 
 print('---------------------------')
 
-for result in results["results"]["bindings"]:
-    print(result)
-    #print('%s: %s' % (result["label"]["xml:lang"], result["label"]["value"]))
+# Display all SPARQL results
+#for result in results["results"]["bindings"]:
+#    print(result)
+#    #print('%s: %s' % (result["label"]["xml:lang"], result["label"]["value"]))
 
 
 # Define outcomes 2 (in XML)

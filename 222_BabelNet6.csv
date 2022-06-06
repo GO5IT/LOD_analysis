@@ -1,0 +1,5 @@
+@id,skos:narrower{URIRef},bn-lemon:dbpediaCategory{URIRef}[0],bn-lemon:dbpediaCategory{URIRef}[1],bn-lemon:dbpediaCategory{URIRef}[2],bn-lemon:synsetID{Literal},bn-lemon:synsetType{Literal},dcterms:license{URIRef},rdf:type{URIRef},skos:broader{URIRef}[0],skos:broader{URIRef}[1],skos:broader{URIRef}[2],skos:exactMatch{URIRef},rdfs:label{Literal},foaf:primaryTopic{URIRef},entity
+bn:s00081857n,bn:s02831086n,,,,,,,,,,,,,,bn:s00081857n
+bn:s02831086n,bn:s03599424n,http://dbpedia.org/resource/Category:1979,http://dbpedia.org/resource/Category:Articles_with_short_description,http://dbpedia.org/resource/Category:M_w,bn:02831086n,NE,https://babelnet.org/license,skos:Concept,bn:s00000106n,bn:s00081857n,bn:s14186547n,dbpedia:1979,,,bn:s02831086n
+bn:s14186547n,bn:s02831086n,,,,,,,,,,,,,,bn:s14186547n
+http://babelnet.org/rdf/data/s02831086n?output=xml,,,,,,,,,,,,,RDF description of S02831086n,bn:s02831086n,http://babelnet.org/rdf/data/s02831086n?output=xml

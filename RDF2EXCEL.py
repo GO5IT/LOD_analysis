@@ -15,10 +15,10 @@ import module_save_excel as save_excel
 # Specify the start and end number of entities to be process in this module
 # To shorten testing time, use only a few entities (e.g. start 0, end 2). To set all entities in a category, see the range below. Best to batch per category, so errors can be found too
 # Person 0:19, 0:22, Places 23-42, 23:52, Dates 53:72, Events 73:92, 73:95, Objects 96:115, 96:121
-start_batch = 73
-end_batch = 95
+start_batch = 53
+end_batch = 55
 # Specify the prefix of each file to be produced (Dates_, Events, Places_, Objects_)
-fileprefix = 'prop_events_'
+fileprefix = 'prop_dates_'
 
 
 print(r'********* Script Started *********')
