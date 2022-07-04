@@ -53,7 +53,7 @@ query_content = """
 #          BIND(FLOOR(?ageInYears) AS ?age)
 # }
 
-targetdate = "1809-01-11"
+targetdate = "1822-01-11"
 query = prefix + query_content
 sparql.setQuery(query)
 
