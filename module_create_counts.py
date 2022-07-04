@@ -3,6 +3,7 @@ import pandas as pd
 def count(allagg):
     # Count the number of data
     count = allagg[-1].count(0)
+    print("\n****** count ******\n")
     print(count)
     #Change series into dataframe
     count2 = allagg[-1].count().to_frame()
@@ -15,6 +16,7 @@ def count(allagg):
             continue
     # full_coverage contains an empty data that overlaps across all entities, so 1 should be deducted
     count2.loc['full_coverage', 0] = count2.loc['full_coverage', 0] - 1
+    print("\n****** count2 ******\n")
     print(count2)
     return(count2)
 
@@ -52,7 +54,6 @@ def create_coverage_stats(count,entities):
     # Insert 'full_coverage' in entities dataframe
     entities.loc[0.5] = 'full_coverage', '','','','',''
     entities = entities.sort_index().reset_index(drop=True)
-    #print('//////////////////////////')
     #print(entities)
     # Combine 2 dataframes and reorder columns
     merge_coverage = coverage_df.combine_first(entities)
@@ -68,6 +69,7 @@ def create_coverage_stats(count,entities):
     #merge_coverage.drop(merge_coverage.columns[0:1], axis=1)
 
     #print(coverage_df)
+    print("\n****** merge_coverage ******\n")
     print(merge_coverage)
     #return(coverage_df)
     return(merge_coverage)

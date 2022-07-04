@@ -1,0 +1,15 @@
+@id,http://id.worldcat.org/fast/31183,full_coverage
+rdf:type{URIRef},schema1:Person,rdf:type{URIRef}
+dcterms:identifier{Literal},31183,dcterms:identifier{Literal}
+schema1:name{Literal}[0],"Alexandrina Victoria, Queen of Great Britain, 1819-1901",schema1:name{Literal}[0]
+schema1:name{Literal}[1],"Bhikṭoriẏā, Queen of Great Britain, 1819-1901",schema1:name{Literal}[1]
+schema1:name{Literal}[2],"Victoria, Queen of Great Britain, 1819-1901",schema1:name{Literal}[2]
+schema1:sameAs{URIRef}[0],http://id.loc.gov/authorities/names/n79017983,schema1:sameAs{URIRef}[0]
+schema1:sameAs{URIRef}[1],https://viaf.org/viaf/95738652,schema1:sameAs{URIRef}[1]
+rdfs:seeAlso{Literal}(xsd:anyURI),http://en.wikipedia.org/wiki/Queen_Victoria,rdfs:seeAlso{Literal}(xsd:anyURI)
+skos:altLabel{Literal}[0],"Alexandrina Victoria, Queen of Great Britain, 1819-1901",skos:altLabel{Literal}[0]
+skos:altLabel{Literal}[1],"Bhikṭoriẏā, Queen of Great Britain, 1819-1901",skos:altLabel{Literal}[1]
+skos:inScheme{URIRef}[0],http://id.worldcat.org/fast/ontology/1.0/#facet-Personal,skos:inScheme{URIRef}[0]
+skos:inScheme{URIRef}[1],http://id.worldcat.org/fast/ontology/1.0/#fast,skos:inScheme{URIRef}[1]
+skos:prefLabel{Literal},"Victoria, Queen of Great Britain, 1819-1901",skos:prefLabel{Literal}
+entity,http://id.worldcat.org/fast/31183,entity

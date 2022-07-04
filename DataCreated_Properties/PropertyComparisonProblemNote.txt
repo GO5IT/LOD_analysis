@@ -1,0 +1,85 @@
+Property Comparison
+
+--Overall--
+entity row should be removed from statistics
+1 empty row exist (nothing is filled), which should be removed from statistics
+One problem is schema:name becomes schema1:name somehow. There could be other wierd change.
+
+--Dates--
+YAGO is excluded....BIG PROBLEM! RUN THE SCRIPT AGAIN
+Almost all consistent.
+Another problem is that last 4 rows are strange without string values in any sources (properties from Wikidata, when excluding prefix (i.e. wikiPageID). 'ns' seems to stand for name space). Problem of rdfpandas? or Python coce?
+ns5:wikiPageID{Literal}(xsd:integer)
+ns5:wikiPageRevisionID{Literal}(xsd:integer)
+ns6:hasRank{BNode}
+ns6:rankValue{Literal}(xsd:float)
+
+--Events--
+YAGO is excluded....BIG PROBLEM! RUN THE SCRIPT AGAIN
+Almost all consistent. Similar problem like Dates, but much more rows without values (Wikidata)
+They either do not exist when looked up , or exist, but it is duplicate (listed in the early rows).
+ns6:abstract{Literal}@ar
+ns6:abstract{Literal}@de
+ns6:abstract{Literal}@en
+ns6:abstract{Literal}@es
+ns6:abstract{Literal}@fr
+ns6:abstract{Literal}@it
+ns6:abstract{Literal}@ja
+ns6:abstract{Literal}@nl
+ns6:abstract{Literal}@pl
+ns6:abstract{Literal}@pt
+ns6:abstract{Literal}@ru
+ns6:abstract{Literal}@zh
+ns6:country{URIRef}
+ns6:presenter{URIRef}
+ns6:wikiPageExternalLink{URIRef}[0]
+ns6:wikiPageExternalLink{URIRef}[1]
+...
+ns6:wikiPageWikiLink{URIRef}[199]
+dbpprop:country{Literal}(rdf:langString)
+dbpprop:description{Literal}(rdf:langString)
+dbpprop:next{Literal}(xsd:integer)
+ns8:hypernym{URIRef}
+ns10:hasRank{BNode}
+ns11:entityType{URIRef}
+ns11:providedBy{URIRef}
+ns12:link{URIRef}
+ns12:percentageOfSecondRank{Literal}[0]
+ns12:percentageOfSecondRank{Literal}[1]
+ns12:percentageOfSecondRank{Literal}[2]
+ns12:percentageOfSecondRank{Literal}[3]
+ns12:percentageOfSecondRank{Literal}[4]
+ns12:similarityScore{Literal}[0]
+ns12:similarityScore{Literal}[1]
+ns12:similarityScore{Literal}[2]
+rdfs:label{Literal}[0]
+rdfs:label{Literal}[1]
+rdfs:label{Literal}[2]
+rdfs:label{Literal}[3]
+rdfs:seeAlso{URIRef}
+skos:prefLabel{Literal}[0]
+skos:prefLabel{Literal}[1]
+skos:prefLabel{Literal}[2]
+skos:prefLabel{Literal}[3]
+prov:wasDerivedFrom{Literal}
+foaf:homepage{Literal}
+ns10:rankValue{Literal}(xsd:float)
+
+--Object--
+It seems last rows are filled and no rows without string (Wikidata). However,
+in the middle of DBpedia etc, there are property name but empty values
+dbp:screenplay{URIRef}[1]
+dbp:screenplay{Literal}@en
+dbp:studio{URIRef}[0]
+dbp:studio{URIRef}[1]
+
+--Persons--
+YAGO is excluded....BIG PROBLEM! RUN THE SCRIPT AGAIN
+
+--Places--
+OK!
+
+YAGO.csv does not show literal values (all DBpedia duplicates are removed), so it is not possible to compare it with aggreagete EXCEL file (e.g. prop_dates_1969.xslx to investigate what is the problem in EXCEL. > Check Phyhon code why YAGO is the only problem. >> Run the script for Dates and Events again.
+
+
+

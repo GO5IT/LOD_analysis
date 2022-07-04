@@ -1,0 +1,290 @@
+@id,http://viaf.org/viaf/95738652,full_coverage
+rdf:type{URIRef}[0],schema1:Person,rdf:type{URIRef}[0]
+skos:prefLabel{Literal}@ar-EG,فكتوريا،,skos:prefLabel{Literal}@ar-EG
+skos:prefLabel{Literal}@ca-ES,Victòria,skos:prefLabel{Literal}@ca-ES
+skos:prefLabel{Literal}@cs-CZ,Viktorie,skos:prefLabel{Literal}@cs-CZ
+skos:prefLabel{Literal}@de-DE,Viktoria,skos:prefLabel{Literal}@de-DE
+skos:prefLabel{Literal}@en-AU,Victoria,skos:prefLabel{Literal}@en-AU
+skos:prefLabel{Literal}@en-KR,Victoria,skos:prefLabel{Literal}@en-KR
+skos:prefLabel{Literal}@en-US,Victoria,skos:prefLabel{Literal}@en-US
+skos:prefLabel{Literal}@es-CL,Victoria I,skos:prefLabel{Literal}@es-CL
+skos:prefLabel{Literal}@es-ES,Victoria,skos:prefLabel{Literal}@es-ES
+skos:prefLabel{Literal}@fr-CH,Viktoria,skos:prefLabel{Literal}@fr-CH
+skos:prefLabel{Literal}@fr-FR,Victoria,skos:prefLabel{Literal}@fr-FR
+skos:prefLabel{Literal}@hr-HR,Victoria,skos:prefLabel{Literal}@hr-HR
+skos:prefLabel{Literal}@it-IT,Victoria,skos:prefLabel{Literal}@it-IT
+skos:prefLabel{Literal}@ja-JP,Queen of Great Britain Victoria,skos:prefLabel{Literal}@ja-JP
+skos:prefLabel{Literal}@lv-LV,Victoria,skos:prefLabel{Literal}@lv-LV
+skos:prefLabel{Literal}@nl-NL,Victoria,skos:prefLabel{Literal}@nl-NL
+skos:prefLabel{Literal}@no-NO,Viktoria,skos:prefLabel{Literal}@no-NO
+skos:prefLabel{Literal}@sv-SE,Viktoria,skos:prefLabel{Literal}@sv-SE
+dbo:notableWork{URIRef}[0],http://viaf.org/viaf/174586245,dbo:notableWork{URIRef}[0]
+dbo:notableWork{URIRef}[1],http://viaf.org/viaf/176206659,dbo:notableWork{URIRef}[1]
+dbo:notableWork{URIRef}[2],http://viaf.org/viaf/2984162723655961290001,dbo:notableWork{URIRef}[2]
+dcterms:identifier{Literal},95738652,dcterms:identifier{Literal}
+schema1:alternateName{Literal}[0],Alexandrina Victoria,schema1:alternateName{Literal}[0]
+schema1:alternateName{Literal}[1],Ban-rìgh Bhictoria,schema1:alternateName{Literal}[1]
+schema1:alternateName{Literal}[2],Bhikṭoriẏā,schema1:alternateName{Literal}[2]
+schema1:alternateName{Literal}[3],Chenigi vu Großbritannien un Irland Victoria,schema1:alternateName{Literal}[3]
+schema1:alternateName{Literal}[4],I Viktoriya,schema1:alternateName{Literal}[4]
+schema1:alternateName{Literal}[5],Keybanû Victoria,schema1:alternateName{Literal}[5]
+schema1:alternateName{Literal}[6],Koningin Victoria,schema1:alternateName{Literal}[6]
+schema1:alternateName{Literal}[7],Kuninganna Victoria,schema1:alternateName{Literal}[7]
+schema1:alternateName{Literal}[8],Königin Viktoria Großbritannien,schema1:alternateName{Literal}[8]
+schema1:alternateName{Literal}[9],Majesté la Reine Victoria,schema1:alternateName{Literal}[9]
+schema1:alternateName{Literal}[10],Masiofo Vitoria,schema1:alternateName{Literal}[10]
+schema1:alternateName{Literal}[11],Mbretëresha Victoria,schema1:alternateName{Literal}[11]
+schema1:alternateName{Literal}[12],Queen Victoria,schema1:alternateName{Literal}[12]
+schema1:alternateName{Literal}[13],Queen of Great Britain,schema1:alternateName{Literal}[13]
+schema1:alternateName{Literal}[14],Queen of Great Britain and Empress of India Victoria,schema1:alternateName{Literal}[14]
+schema1:alternateName{Literal}[15],Queen of Great Britain and Ireland Hannover,schema1:alternateName{Literal}[15]
+schema1:alternateName{Literal}[16],Queen of Great Britain and Ireland Kaiserin von Indien,schema1:alternateName{Literal}[16]
+schema1:alternateName{Literal}[17],Queen of Great Britain and Ireland Königin von Großbritannien und Irland,schema1:alternateName{Literal}[17]
+schema1:alternateName{Literal}[18],Queen of Great Britain and Ireland Queen of Great Britain and Ireland,schema1:alternateName{Literal}[18]
+schema1:alternateName{Literal}[19],Queen of the United Kingdom of Great Britain and Ireland Victoria,schema1:alternateName{Literal}[19]
+schema1:alternateName{Literal}[20],Rea Victoria,schema1:alternateName{Literal}[20]
+schema1:alternateName{Literal}[21],Reina Victòria del Regne Unit,schema1:alternateName{Literal}[21]
+schema1:alternateName{Literal}[22],Reina de Gran Bretaña Victoria I,schema1:alternateName{Literal}[22]
+schema1:alternateName{Literal}[23],Reine Victoria,schema1:alternateName{Literal}[23]
+schema1:alternateName{Literal}[24],Tagellit Victoria,schema1:alternateName{Literal}[24]
+schema1:alternateName{Literal}[25],Victoria,schema1:alternateName{Literal}[25]
+schema1:alternateName{Literal}[26],Victoria (Ferianigt Köningrik),schema1:alternateName{Literal}[26]
+schema1:alternateName{Literal}[27],Victoria (Liân-ha̍p Ông-kok),schema1:alternateName{Literal}[27]
+schema1:alternateName{Literal}[28],Victoria Alexandrine,schema1:alternateName{Literal}[28]
+schema1:alternateName{Literal}[29],Victoria I,schema1:alternateName{Literal}[29]
+schema1:alternateName{Literal}[30],Victoria Nṳ̄-uòng,schema1:alternateName{Literal}[30]
+schema1:alternateName{Literal}[31],Victoria a Regatului Unit,schema1:alternateName{Literal}[31]
+schema1:alternateName{Literal}[32],Victoria af Storbritannien,schema1:alternateName{Literal}[32]
+schema1:alternateName{Literal}[33],Victoria av Storbritannia,schema1:alternateName{Literal}[33]
+schema1:alternateName{Literal}[34],Victoria của Anh,schema1:alternateName{Literal}[34]
+schema1:alternateName{Literal}[35],Victoria dari Britania Raya,schema1:alternateName{Literal}[35]
+schema1:alternateName{Literal}[36],Victoria dari United Kingdom,schema1:alternateName{Literal}[36]
+schema1:alternateName{Literal}[37],Victoria del Regno Unite,schema1:alternateName{Literal}[37]
+schema1:alternateName{Literal}[38],Victoria del Reino Unido,schema1:alternateName{Literal}[38]
+schema1:alternateName{Literal}[39],Victoria del Reinu Xuníu,schema1:alternateName{Literal}[39]
+schema1:alternateName{Literal}[40],Victoria drotning,schema1:alternateName{Literal}[40]
+schema1:alternateName{Literal}[41],Victoria du Rouoyaume Unni,schema1:alternateName{Literal}[41]
+schema1:alternateName{Literal}[42],Victoria du Royaume-Uni,schema1:alternateName{Literal}[42]
+schema1:alternateName{Literal}[43],Victoria fan it Feriene Keninkryk,schema1:alternateName{Literal}[43]
+schema1:alternateName{Literal}[44],Victoria han Reino Unido,schema1:alternateName{Literal}[44]
+schema1:alternateName{Literal}[45],Victoria na Ríochta Aontaithe,schema1:alternateName{Literal}[45]
+schema1:alternateName{Literal}[46],Victoria ng Nagkakaisang Kaharian,schema1:alternateName{Literal}[46]
+schema1:alternateName{Literal}[47],Victoria saking Britania Raya,schema1:alternateName{Literal}[47]
+schema1:alternateName{Literal}[48],Victoria van die Verenigde Koninkryk,schema1:alternateName{Literal}[48]
+schema1:alternateName{Literal}[49],Victoria van het Verenigd Koninkrijk,schema1:alternateName{Literal}[49]
+schema1:alternateName{Literal}[50],Victoria vum Vereengte Kinnekräich,schema1:alternateName{Literal}[50]
+schema1:alternateName{Literal}[51],Victoria vun Grootbritannien,schema1:alternateName{Literal}[51]
+schema1:alternateName{Literal}[52],Victòria,schema1:alternateName{Literal}[52]
+schema1:alternateName{Literal}[53],Victòria I dau Reiaume Unit,schema1:alternateName{Literal}[53]
+schema1:alternateName{Literal}[54],Viktoria,schema1:alternateName{Literal}[54]
+schema1:alternateName{Literal}[55],Viktoria Alexandrina,schema1:alternateName{Literal}[55]
+schema1:alternateName{Literal}[56],Viktoria Erresuma Batukoa,schema1:alternateName{Literal}[56]
+schema1:alternateName{Literal}[57],Viktoria av Storbritannien,schema1:alternateName{Literal}[57]
+schema1:alternateName{Literal}[58],Viktoria de Britio,schema1:alternateName{Literal}[58]
+schema1:alternateName{Literal}[59],Viktoria wa Uingereza,schema1:alternateName{Literal}[59]
+schema1:alternateName{Literal}[60],Viktorie,schema1:alternateName{Literal}[60]
+schema1:alternateName{Literal}[61],Viktorie Britská,schema1:alternateName{Literal}[61]
+schema1:alternateName{Literal}[62],Viktorija,schema1:alternateName{Literal}[62]
+schema1:alternateName{Literal}[63],Viktorija Britanska,schema1:alternateName{Literal}[63]
+schema1:alternateName{Literal}[64],Viktoriya,schema1:alternateName{Literal}[64]
+schema1:alternateName{Literal}[65],Viktorya,schema1:alternateName{Literal}[65]
+schema1:alternateName{Literal}[66],Viktoría Bretadrottning,schema1:alternateName{Literal}[66]
+schema1:alternateName{Literal}[67],Viktória,schema1:alternateName{Literal}[67]
+schema1:alternateName{Literal}[68],Viktória brit királynő,schema1:alternateName{Literal}[68]
+schema1:alternateName{Literal}[69],Vikutoria Joou,schema1:alternateName{Literal}[69]
+schema1:alternateName{Literal}[70],Vitoria d'o Reino Unito,schema1:alternateName{Literal}[70]
+schema1:alternateName{Literal}[71],Vitoria del Regn Unii,schema1:alternateName{Literal}[71]
+schema1:alternateName{Literal}[72],Vittoria,schema1:alternateName{Literal}[72]
+schema1:alternateName{Literal}[73],Vittoria del Regno Unito,schema1:alternateName{Literal}[73]
+schema1:alternateName{Literal}[74],Vittoria dû Regnu Unitu,schema1:alternateName{Literal}[74]
+schema1:alternateName{Literal}[75],Vitòria,schema1:alternateName{Literal}[75]
+schema1:alternateName{Literal}[76],Vitória do Reino Unido,schema1:alternateName{Literal}[76]
+schema1:alternateName{Literal}[77],Vitöia d'Inghiltæra,schema1:alternateName{Literal}[77]
+schema1:alternateName{Literal}[78],Vì-tô-li-â Ńg-vòng,schema1:alternateName{Literal}[78]
+schema1:alternateName{Literal}[79],Vėktuorėjė,schema1:alternateName{Literal}[79]
+schema1:alternateName{Literal}[80],Vėktuorėjė (karalienė),schema1:alternateName{Literal}[80]
+schema1:alternateName{Literal}[81],Wikitōria,schema1:alternateName{Literal}[81]
+schema1:alternateName{Literal}[82],Wiktoria,schema1:alternateName{Literal}[82]
+schema1:alternateName{Literal}[83],Wiktoria Hanowerska,schema1:alternateName{Literal}[83]
+schema1:alternateName{Literal}[84],Wiktorya,schema1:alternateName{Literal}[84]
+schema1:alternateName{Literal}[85],brenhines y Deyrnas Unedig Victoria,schema1:alternateName{Literal}[85]
+schema1:alternateName{Literal}[86],koningin van Groot-Brittannie͏̈ en Ierland Victoria,schema1:alternateName{Literal}[86]
+schema1:alternateName{Literal}[87],koningin van Groot-Brittannië en Ierland Victoria,schema1:alternateName{Literal}[87]
+schema1:alternateName{Literal}[88],kraljica Ujedinjenog Kraljevstva Viktorija,schema1:alternateName{Literal}[88]
+schema1:alternateName{Literal}[89],regina di Gran Bretagna e Irlanda Victoria,schema1:alternateName{Literal}[89]
+schema1:alternateName{Literal}[90],reine de Grande-Bretagne Victoria,schema1:alternateName{Literal}[90]
+schema1:alternateName{Literal}[91],Βασίλισσα Βικτωρία,schema1:alternateName{Literal}[91]
+schema1:alternateName{Literal}[92],Викториа,schema1:alternateName{Literal}[92]
+schema1:alternateName{Literal}[93],Виктория,schema1:alternateName{Literal}[93]
+schema1:alternateName{Literal}[94],Виктория (Споене кральовство),schema1:alternateName{Literal}[94]
+schema1:alternateName{Literal}[95],Викторија Хановерска,schema1:alternateName{Literal}[95]
+schema1:alternateName{Literal}[96],Вікторыя,schema1:alternateName{Literal}[96]
+schema1:alternateName{Literal}[97],Вікторія,schema1:alternateName{Literal}[97]
+schema1:alternateName{Literal}[98],Кралица Викторија,schema1:alternateName{Literal}[98]
+schema1:alternateName{Literal}[99],каралева брытанская Вікторыя,schema1:alternateName{Literal}[99]
+schema1:alternateName{Literal}[100],Վիկտորիա թագուհի,schema1:alternateName{Literal}[100]
+schema1:alternateName{Literal}[101],Վիկտորյա թագուհի,schema1:alternateName{Literal}[101]
+schema1:alternateName{Literal}[102],וויקטאריע,schema1:alternateName{Literal}[102]
+schema1:alternateName{Literal}[103],וויקטוריה,schema1:alternateName{Literal}[103]
+schema1:alternateName{Literal}[104],ויקטוריא,schema1:alternateName{Literal}[104]
+schema1:alternateName{Literal}[105],ויקטוריה,schema1:alternateName{Literal}[105]
+schema1:alternateName{Literal}[106],קעניגין וויקטאריע,schema1:alternateName{Literal}[106]
+schema1:alternateName{Literal}[107],الملكة فكتوريا،,schema1:alternateName{Literal}[107]
+schema1:alternateName{Literal}[108],راڻي وڪٽوريا (برطانيا),schema1:alternateName{Literal}[108]
+schema1:alternateName{Literal}[109],فيكتوريا ملكة المملكة المتحدة,schema1:alternateName{Literal}[109]
+schema1:alternateName{Literal}[110],فيكتوريا ملكة المملكه المتحده,schema1:alternateName{Literal}[110]
+schema1:alternateName{Literal}[111],فيكتوريا،,schema1:alternateName{Literal}[111]
+schema1:alternateName{Literal}[112],لملكة ڤيكطوريا,schema1:alternateName{Literal}[112]
+schema1:alternateName{Literal}[113],ملکه ویکتوریا,schema1:alternateName{Literal}[113]
+schema1:alternateName{Literal}[114],ملکه وېکټوريا,schema1:alternateName{Literal}[114]
+schema1:alternateName{Literal}[115],ملکہ وکٹوریہ,schema1:alternateName{Literal}[115]
+schema1:alternateName{Literal}[116],ویکتوریا خاتون,schema1:alternateName{Literal}[116]
+schema1:alternateName{Literal}[117],ویکتوریای پادشاهی متحده,schema1:alternateName{Literal}[117]
+schema1:alternateName{Literal}[118],ڤيكتوريا,schema1:alternateName{Literal}[118]
+schema1:alternateName{Literal}[119],ڤیکتۆریا,schema1:alternateName{Literal}[119]
+schema1:alternateName{Literal}[120],महारानी भिक्टोरिया,schema1:alternateName{Literal}[120]
+schema1:alternateName{Literal}[121],रानी भिक्टोरिया,schema1:alternateName{Literal}[121]
+schema1:alternateName{Literal}[122],रानी विक्टोरिया,schema1:alternateName{Literal}[122]
+schema1:alternateName{Literal}[123],विक्टोरिया,schema1:alternateName{Literal}[123]
+schema1:alternateName{Literal}[124],व्हिक्टोरिया राणी,schema1:alternateName{Literal}[124]
+schema1:alternateName{Literal}[125],রাণী ভিক্টোরিয়া,schema1:alternateName{Literal}[125]
+schema1:alternateName{Literal}[126],রানি ভিক্টোরিয়া,schema1:alternateName{Literal}[126]
+schema1:alternateName{Literal}[127],ஐக்கிய இராச்சியத்தின் விக்டோரியா,schema1:alternateName{Literal}[127]
+schema1:alternateName{Literal}[128],బ్రిటన్‌ రాణి విక్టోరియా,schema1:alternateName{Literal}[128]
+schema1:alternateName{Literal}[129],ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಂನ ವಿಕ್ಟೋರಿಯಾ,schema1:alternateName{Literal}[129]
+schema1:alternateName{Literal}[130],വിക്ടോറിയ രാജ്ഞി,schema1:alternateName{Literal}[130]
+schema1:alternateName{Literal}[131],වික්ටෝරියා රැජින - එක්සත් රාජධානිය,schema1:alternateName{Literal}[131]
+schema1:alternateName{Literal}[132],สมเด็จพระราชินีนาถวิกตอเรียแห่งสหราชอาณาจักร,schema1:alternateName{Literal}[132]
+schema1:alternateName{Literal}[133],ဝိတိုရိယ ဘုရင်မ,schema1:alternateName{Literal}[133]
+schema1:alternateName{Literal}[134],ვიქტორია,schema1:alternateName{Literal}[134]
+schema1:alternateName{Literal}[135],ንግሥት ቪክቶሪያ,schema1:alternateName{Literal}[135]
+schema1:alternateName{Literal}[136],ヴィクトリア,schema1:alternateName{Literal}[136]
+schema1:alternateName{Literal}[137],ヴィクトリア (イギリス女王),schema1:alternateName{Literal}[137]
+schema1:alternateName{Literal}[138],ヴィクトリア ジョオウ,schema1:alternateName{Literal}[138]
+schema1:alternateName{Literal}[139],ヴィクトリア女王,schema1:alternateName{Literal}[139]
+schema1:alternateName{Literal}[140],維多利亞女王,schema1:alternateName{Literal}[140]
+schema1:alternateName{Literal}[141],維多利亞女皇,schema1:alternateName{Literal}[141]
+schema1:alternateName{Literal}[142],维多利亚女王,schema1:alternateName{Literal}[142]
+schema1:alternateName{Literal}[143],英國維多利亞女皇,schema1:alternateName{Literal}[143]
+schema1:alternateName{Literal}[144],英王維多利亞,schema1:alternateName{Literal}[144]
+schema1:alternateName{Literal}[145],빅토리아,schema1:alternateName{Literal}[145]
+schema1:alternateName{Literal}[146],빅토리아 여왕,schema1:alternateName{Literal}[146]
+schema1:alternateName{Literal}[147],﻿ਮਲਿਕਾ ਵਿਕਟੋਰੀਆ,schema1:alternateName{Literal}[147]
+schema1:birthDate{Literal},1819-05-24,schema1:birthDate{Literal}
+schema1:deathDate{Literal},1901-01-22,schema1:deathDate{Literal}
+schema1:description{Literal}[0],(ملكة بريطانيا العظمى),schema1:description{Literal}[0]
+schema1:description{Literal}[1],"English queen and patron, 1819-1901",schema1:description{Literal}[1]
+schema1:description{Literal}[2],Queen of Great Britain,schema1:description{Literal}[2]
+schema1:description{Literal}[3],Βασίλισσα της Μεγάλης Βρετανίας,schema1:description{Literal}[3]
+schema1:description{Literal}[4],מלכת בריטניה הגדולה,schema1:description{Literal}[4]
+schema1:description{Literal}@ar-EG,ملكة بريطانيا العظمى،,schema1:description{Literal}@ar-EG
+schema1:description{Literal}@ca-ES,reina de la Gran Bretanya,schema1:description{Literal}@ca-ES
+schema1:description{Literal}@cs-CZ,britská královna,schema1:description{Literal}@cs-CZ
+schema1:description{Literal}@de-DE,"Großbritannien, Königin",schema1:description{Literal}@de-DE
+schema1:description{Literal}@en,Reina del Reino Unido,schema1:description{Literal}@en
+schema1:description{Literal}@en-AU,Queen of Great Britain,schema1:description{Literal}@en-AU
+schema1:description{Literal}@en-KR,Queen of Great Britain,schema1:description{Literal}@en-KR
+schema1:description{Literal}@en-US,Queen of Great Britain,schema1:description{Literal}@en-US
+schema1:description{Literal}@es-CL,Reina del Reino Unido,schema1:description{Literal}@es-CL
+schema1:description{Literal}@es-ES,Reina de Gran Bretaña,schema1:description{Literal}@es-ES
+schema1:description{Literal}@et-EE,Suurbritannia kuninganna,schema1:description{Literal}@et-EE
+schema1:description{Literal}@fr-CA,reine de Grande-Bretagne,schema1:description{Literal}@fr-CA
+schema1:description{Literal}@fr-CH,"Großbritannien, Königin",schema1:description{Literal}@fr-CH
+schema1:description{Literal}[0]@fr-FR,Reine,schema1:description{Literal}[0]@fr-FR
+schema1:description{Literal}[1]@fr-FR,reine de Grande-Bretagne,schema1:description{Literal}[1]@fr-FR
+schema1:description{Literal}@hr-HR,britanska kraljica,schema1:description{Literal}@hr-HR
+schema1:description{Literal}@it-IT,<regina di Gran Bretagna>,schema1:description{Literal}@it-IT
+schema1:description{Literal}@lt-LT,Didžiosios Britanijos karalienė,schema1:description{Literal}@lt-LT
+schema1:description{Literal}@lv-LV,Queen of Great Britain,schema1:description{Literal}@lv-LV
+schema1:description{Literal}@nl-NL,koningin van Groot-Brittannie͏̈ en Ierland,schema1:description{Literal}@nl-NL
+schema1:description{Literal}@no-NO,"keiserinne, gemalinne til Fredrik 3, tysk keiser",schema1:description{Literal}@no-NO
+schema1:description{Literal}@pl-PL,(królowa Wielkiej Brytanii ;,schema1:description{Literal}@pl-PL
+schema1:description{Literal}@ru-RU,королева английская,schema1:description{Literal}@ru-RU
+schema1:description{Literal}@sv-SE,drottning av Storbritannien,schema1:description{Literal}@sv-SE
+schema1:familyName{Literal}[0],Hannover,schema1:familyName{Literal}[0]
+schema1:familyName{Literal}[1],Kaiserin von Indien,schema1:familyName{Literal}[1]
+schema1:familyName{Literal}[2],Königin von Großbritannien und Irland,schema1:familyName{Literal}[2]
+schema1:familyName{Literal}[3],Queen of Great Britain and Ireland,schema1:familyName{Literal}[3]
+schema1:familyName{Literal}[4],Victoria,schema1:familyName{Literal}[4]
+schema1:familyName{Literal}[5],Victoria I,schema1:familyName{Literal}[5]
+schema1:familyName{Literal}[6],Viktoria Großbritannien,schema1:familyName{Literal}[6]
+schema1:familyName{Literal}[7],Viktorija,schema1:familyName{Literal}[7]
+schema1:familyName{Literal}[8],Вікторыя,schema1:familyName{Literal}[8]
+schema1:gender{URIRef},http://www.wikidata.org/entity/Q6581072,schema1:gender{URIRef}
+schema1:givenName{Literal}[0],Alexandrina,schema1:givenName{Literal}[0]
+schema1:givenName{Literal}[1],Chenigi vu Großbritannien un Irland,schema1:givenName{Literal}[1]
+schema1:givenName{Literal}[2],Königin,schema1:givenName{Literal}[2]
+schema1:givenName{Literal}[3],Queen,schema1:givenName{Literal}[3]
+schema1:givenName{Literal}[4],Queen of Great Britain,schema1:givenName{Literal}[4]
+schema1:givenName{Literal}[5],Queen of Great Britain and Empress of India,schema1:givenName{Literal}[5]
+schema1:givenName{Literal}[6],Queen of Great Britain and Ireland,schema1:givenName{Literal}[6]
+schema1:givenName{Literal}[7],"Queen of Great Britain,",schema1:givenName{Literal}[7]
+schema1:givenName{Literal}[8],Queen of the United Kingdom of Great Britain and Ireland,schema1:givenName{Literal}[8]
+schema1:givenName{Literal}[9],Reina de Gran Bretaña,schema1:givenName{Literal}[9]
+schema1:givenName{Literal}[10],brenhines y Deyrnas Unedig,schema1:givenName{Literal}[10]
+schema1:givenName{Literal}[11],koningin van Groot-Brittannie͏̈ en Ierland,schema1:givenName{Literal}[11]
+schema1:givenName{Literal}[12],koningin van Groot-Brittannië en Ierland,schema1:givenName{Literal}[12]
+schema1:givenName{Literal}[13],kraljica Ujedinjenog Kraljevstva,schema1:givenName{Literal}[13]
+schema1:givenName{Literal}[14],regina di Gran Bretagna e Irlanda,schema1:givenName{Literal}[14]
+schema1:givenName{Literal}[15],reine de Grande-Bretagne,schema1:givenName{Literal}[15]
+schema1:givenName{Literal}[16],каралева брытанская,schema1:givenName{Literal}[16]
+schema1:name{Literal}[0],Victoria,schema1:name{Literal}[0]
+schema1:name{Literal}[1],Βικτωρία,schema1:name{Literal}[1]
+schema1:name{Literal}[2],ויקטוריה,schema1:name{Literal}[2]
+schema1:name{Literal}[3],ڤيكتوريا,schema1:name{Literal}[3]
+schema1:name{Literal}@ar-EG,فكتوريا،,schema1:name{Literal}@ar-EG
+schema1:name{Literal}@ca-ES,Victòria,schema1:name{Literal}@ca-ES
+schema1:name{Literal}@cs-CZ,Viktorie,schema1:name{Literal}@cs-CZ
+schema1:name{Literal}[0]@de-DE,Queen of Great Britain and Ireland Victoria,schema1:name{Literal}[0]@de-DE
+schema1:name{Literal}[1]@de-DE,Viktoria,schema1:name{Literal}[1]@de-DE
+schema1:name{Literal}@en,Victoria I,schema1:name{Literal}@en
+schema1:name{Literal}@en-AU,Victoria,schema1:name{Literal}@en-AU
+schema1:name{Literal}@en-KR,Victoria,schema1:name{Literal}@en-KR
+schema1:name{Literal}[0]@en-US,Victoria,schema1:name{Literal}[0]@en-US
+schema1:name{Literal}[1]@en-US,"Victoria, Queen of Great Britain",schema1:name{Literal}[1]@en-US
+schema1:name{Literal}@es-CL,Victoria I,schema1:name{Literal}@es-CL
+schema1:name{Literal}@es-ES,Victoria,schema1:name{Literal}@es-ES
+schema1:name{Literal}@et-EE,Victoria,schema1:name{Literal}@et-EE
+schema1:name{Literal}@fr-CA,Victoria,schema1:name{Literal}@fr-CA
+schema1:name{Literal}@fr-CH,Viktoria,schema1:name{Literal}@fr-CH
+schema1:name{Literal}@fr-FR,Victoria,schema1:name{Literal}@fr-FR
+schema1:name{Literal}@hr-HR,Victoria,schema1:name{Literal}@hr-HR
+schema1:name{Literal}@it-IT,Victoria,schema1:name{Literal}@it-IT
+schema1:name{Literal}@ja-JP,Queen of Great Britain Victoria,schema1:name{Literal}@ja-JP
+schema1:name{Literal}@lt-LT,Victoria,schema1:name{Literal}@lt-LT
+schema1:name{Literal}@lv-LV,Victoria,schema1:name{Literal}@lv-LV
+schema1:name{Literal}@nl-NL,Victoria,schema1:name{Literal}@nl-NL
+schema1:name{Literal}@no-NO,Viktoria,schema1:name{Literal}@no-NO
+schema1:name{Literal}@pl-PL,Wiktoria,schema1:name{Literal}@pl-PL
+schema1:name{Literal}@ru-RU,Victoria,schema1:name{Literal}@ru-RU
+schema1:name{Literal}@sv-SE,Viktoria,schema1:name{Literal}@sv-SE
+schema1:sameAs{URIRef}[0],http://d-nb.info/gnd/118626876,schema1:sameAs{URIRef}[0]
+schema1:sameAs{URIRef}[1],http://data.bibsys.no/data/notrbib/authorityentry/x90733366,schema1:sameAs{URIRef}[1]
+schema1:sameAs{URIRef}[2],http://data.bnf.fr/ark:/12148/cb11928202f#foaf:Person,schema1:sameAs{URIRef}[2]
+schema1:sameAs{URIRef}[3],http://datos.bne.es/resource/XX979643,schema1:sameAs{URIRef}[3]
+schema1:sameAs{URIRef}[4],http://dbpedia.org/resource/Queen_Victoria,schema1:sameAs{URIRef}[4]
+schema1:sameAs{URIRef}[5],http://id.loc.gov/authorities/names/n79017983,schema1:sameAs{URIRef}[5]
+schema1:sameAs{URIRef}[6],http://id.ndl.go.jp/auth/entity/00621601,schema1:sameAs{URIRef}[6]
+schema1:sameAs{URIRef}[7],http://isni.org/isni/0000000121443562,schema1:sameAs{URIRef}[7]
+schema1:sameAs{URIRef}[8],http://libris.kb.se/resource/auth/205997,schema1:sameAs{URIRef}[8]
+schema1:sameAs{URIRef}[9],http://vocab.getty.edu/ulan/500022428-agent,schema1:sameAs{URIRef}[9]
+schema1:sameAs{URIRef}[10],http://www.idref.fr/250725258/id,schema1:sameAs{URIRef}[10]
+schema1:sameAs{URIRef}[11],http://www.wikidata.org/entity/Q9439,schema1:sameAs{URIRef}[11]
+rdf:value{Literal}[0](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""9810690096605606"">PLWABN|9810690096605606</ns1:source>",rdf:value{Literal}[0](rdf:XMLLiteral)
+rdf:value{Literal}[1](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""987007269588405171"">J9U|987007269588405171</ns1:source>",rdf:value{Literal}[1](rdf:XMLLiteral)
+rdf:value{Literal}[2](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""LNB:V*340191;=BE"">LIH|LNB:V-340191;=BE</ns1:source>",rdf:value{Literal}[2](rdf:XMLLiteral)
+rdf:value{Literal}[3](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""a11350684"">ERRR|a11350684</ns1:source>",rdf:value{Literal}[3](rdf:XMLLiteral)
+rdf:value{Literal}[4](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""ncf10042100"">CAOONL|ncf10042100</ns1:source>",rdf:value{Literal}[4](rdf:XMLLiteral)
+rdf:value{Literal}[5](rdf:XMLLiteral),"<ns1:source xmlns:ns1=""http://viaf.org/viaf/terms#"" nsid=""pe30026818"">DE663|pe30026818</ns1:source>",rdf:value{Literal}[5](rdf:XMLLiteral)
+rdfs:comment{Literal}[0],BCP47 tag for 'GRATEVE' is undetermined. Name is 'Βικτωρία'.,rdfs:comment{Literal}[0]
+rdfs:comment{Literal}[1],BCP47 tag for 'GRATEVE|44766' is undetermined. Name is 'Βικτωρία'.,rdfs:comment{Literal}[1]
+rdfs:comment{Literal}[2],BCP47 tag for 'J9U' is undetermined. Name is 'Victoria'.,rdfs:comment{Literal}[2]
+rdfs:comment{Literal}[3],BCP47 tag for 'J9U' is undetermined. Name is 'ויקטוריה'.,rdfs:comment{Literal}[3]
+rdfs:comment{Literal}[4],BCP47 tag for 'J9U' is undetermined. Name is 'ڤيكتوريا'.,rdfs:comment{Literal}[4]
+rdfs:comment{Literal}[5],BCP47 tag for 'J9U|987007269588405171' is undetermined. Name is 'Victoria'.,rdfs:comment{Literal}[5]
+rdfs:comment{Literal}[6],BCP47 tag for 'J9U|987007269588405171' is undetermined. Name is 'ויקטוריה'.,rdfs:comment{Literal}[6]
+rdfs:comment{Literal}[7],BCP47 tag for 'J9U|987007269588405171' is undetermined. Name is 'ڤيكتوريا'.,rdfs:comment{Literal}[7]
+rdfs:comment{Literal}[8],BCP47 tag for 'WKP' is undetermined. Name is 'Victoria'.,rdfs:comment{Literal}[8]
+rdfs:comment{Literal}[9],BCP47 tag for 'WKP|Q9439' is undetermined. Name is 'Victoria'.,rdfs:comment{Literal}[9]
+rdfs:comment{Literal}@en,Warning: skos:prefLabels are not ensured against change!,rdfs:comment{Literal}@en
+entity,http://viaf.org/viaf/95738652,entity

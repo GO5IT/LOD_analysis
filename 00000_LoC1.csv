@@ -1,0 +1,47 @@
+@id,http://id.loc.gov/authorities/names/n79017983,full_coverage
+rdf:type{URIRef}[0],madsrdf:Authority,rdf:type{URIRef}[0]
+rdf:type{URIRef}[1],madsrdf:PersonalName,rdf:type{URIRef}[1]
+rdf:type{URIRef}[2],skos:Concept,rdf:type{URIRef}[2]
+madsrdf:elementList{BNode},Nc9ca2acd1e464adbb4de7143934effba,madsrdf:elementList{BNode}
+identifiers:lccn{Literal},n 79017983,identifiers:lccn{Literal}
+identifiers:local{Literal},(OCoLC)oca00251838,identifiers:local{Literal}
+madsrdf:adminMetadata{BNode}[0],N353e3272404c47728303c3b293f5a1cd,madsrdf:adminMetadata{BNode}[0]
+madsrdf:adminMetadata{BNode}[1],Na635c78dbc59438bb03284f2255a62a9,madsrdf:adminMetadata{BNode}[1]
+madsrdf:authoritativeLabel{Literal},"Victoria, Queen of Great Britain, 1819-1901",madsrdf:authoritativeLabel{Literal}
+madsrdf:editorialNote{Literal}[0],[Machine-derived non-Latin script reference project.],madsrdf:editorialNote{Literal}[0]
+madsrdf:editorialNote{Literal}[1],[Non-Latin script reference not evaluated.],madsrdf:editorialNote{Literal}[1]
+madsrdf:fullerName{BNode},Na2a601680dba49f89c73e45499cca4e1,madsrdf:fullerName{BNode}
+madsrdf:hasCloseExternalAuthority{URIRef}[0],http://id.worldcat.org/fast/31183,madsrdf:hasCloseExternalAuthority{URIRef}[0]
+madsrdf:hasCloseExternalAuthority{URIRef}[1],http://vocab.getty.edu/ulan/500022428,madsrdf:hasCloseExternalAuthority{URIRef}[1]
+madsrdf:hasCloseExternalAuthority{URIRef}[2],http://www.wikidata.org/entity/Q9439,madsrdf:hasCloseExternalAuthority{URIRef}[2]
+madsrdf:hasExactExternalAuthority{URIRef},http://viaf.org/viaf/sourceID/LC%7Cn++79017983#skos:Concept,madsrdf:hasExactExternalAuthority{URIRef}
+madsrdf:hasRelatedAuthority{URIRef},http://id.loc.gov/authorities/names/n2005089306,madsrdf:hasRelatedAuthority{URIRef}
+madsrdf:hasSource{BNode}[0],N3d9ffd532822448ba9f802e8c513233e,madsrdf:hasSource{BNode}[0]
+madsrdf:hasSource{BNode}[1],N6bc838f4f76b4e09ad071c65b491f1cf,madsrdf:hasSource{BNode}[1]
+madsrdf:hasSource{BNode}[2],N765a0d53692e476c81261c70dc686697,madsrdf:hasSource{BNode}[2]
+madsrdf:hasSource{BNode}[3],N9c130dc2015244f6a73c14269f4ab123,madsrdf:hasSource{BNode}[3]
+madsrdf:hasVariant{BNode}[0],N45fa16c4b9ca4ec09f06818cc121be5e,madsrdf:hasVariant{BNode}[0]
+madsrdf:hasVariant{BNode}[1],N528272731fb7406d8b9a9ceb36269cae,madsrdf:hasVariant{BNode}[1]
+madsrdf:hasVariant{BNode}[2],N57f17bb374ac407a8dacc04d383df092,madsrdf:hasVariant{BNode}[2]
+madsrdf:identifiesRWO{URIRef},http://id.loc.gov/rwo/agents/n79017983,madsrdf:identifiesRWO{URIRef}
+madsrdf:isMemberOfMADSCollection{URIRef}[0],http://id.loc.gov/authorities/names/collection_LCNAF,madsrdf:isMemberOfMADSCollection{URIRef}[0]
+madsrdf:isMemberOfMADSCollection{URIRef}[1],http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings,madsrdf:isMemberOfMADSCollection{URIRef}[1]
+madsrdf:isMemberOfMADSScheme{URIRef},http://id.loc.gov/authorities/names,madsrdf:isMemberOfMADSScheme{URIRef}
+skos:altLabel{Literal}[0],"Alexandrina Victoria, Queen of Great Britain, 1819-1901",skos:altLabel{Literal}[0]
+skos:altLabel{Literal}[1],"Bhikṭoriẏā, Queen of Great Britain, 1819-1901",skos:altLabel{Literal}[1]
+skos:altLabel{Literal}[2],"ויקטוריא, מלכת ברטאניא, 1819-1901",skos:altLabel{Literal}[2]
+skos:changeNote{BNode}[0],N2fd8702c462948dab3f180b1b8edb9f0,skos:changeNote{BNode}[0]
+skos:changeNote{BNode}[1],N4d006cfdde9049d7ac5849751c1d78b4,skos:changeNote{BNode}[1]
+skos:closeMatch{URIRef}[0],http://id.worldcat.org/fast/31183,skos:closeMatch{URIRef}[0]
+skos:closeMatch{URIRef}[1],http://vocab.getty.edu/ulan/500022428,skos:closeMatch{URIRef}[1]
+skos:closeMatch{URIRef}[2],http://www.wikidata.org/entity/Q9439,skos:closeMatch{URIRef}[2]
+skos:editorial{Literal}[0],[Machine-derived non-Latin script reference project.],skos:editorial{Literal}[0]
+skos:editorial{Literal}[1],[Non-Latin script reference not evaluated.],skos:editorial{Literal}[1]
+skos:exactMatch{URIRef},http://viaf.org/viaf/sourceID/LC%7Cn++79017983#skos:Concept,skos:exactMatch{URIRef}
+skos:inScheme{URIRef},http://id.loc.gov/authorities/names,skos:inScheme{URIRef}
+skos:prefLabel{Literal},"Victoria, Queen of Great Britain, 1819-1901",skos:prefLabel{Literal}
+skos:semanticRelation{URIRef},http://id.loc.gov/authorities/names/n2005089306,skos:semanticRelation{URIRef}
+skosxl:altLabel{BNode}[0],N3b1b80db3c44449588260e3e572938be,skosxl:altLabel{BNode}[0]
+skosxl:altLabel{BNode}[1],Nb0b562a516a94a2087d00672cfe6d87d,skosxl:altLabel{BNode}[1]
+skosxl:altLabel{BNode}[2],Ncb674482522e407c869c91f60d79d5e6,skosxl:altLabel{BNode}[2]
+entity,http://id.loc.gov/authorities/names/n79017983,entity

@@ -1,0 +1,916 @@
+@id,wd:Q2648
+schema:description{Literal}@af,jaar
+schema:description{Literal}@an,anyo
+schema:description{Literal}@ar,سنة
+schema:description{Literal}@ast,añu
+schema:description{Literal}@az,İl
+schema:description{Literal}@bar,Joar
+schema:description{Literal}@be,год
+schema:description{Literal}@be-tarask,год
+schema:description{Literal}@bg,година
+schema:description{Literal}@bn,বছর
+schema:description{Literal}@br,bloavezh
+schema:description{Literal}@bs,godina
+schema:description{Literal}@ca,any
+schema:description{Literal}@ckb,ساڵ
+schema:description{Literal}@cs,rok
+schema:description{Literal}@cv,Çулталăк
+schema:description{Literal}@cy,blwyddyn
+schema:description{Literal}@da,år
+schema:description{Literal}@de,Jahr
+schema:description{Literal}@de-at,Jahr
+schema:description{Literal}@de-ch,Jahr
+schema:description{Literal}@dsb,lěto
+schema:description{Literal}@el,έτος
+schema:description{Literal}@en,year
+schema:description{Literal}@en-ca,year
+schema:description{Literal}@en-gb,year
+schema:description{Literal}@eo,jaro
+schema:description{Literal}@es,año
+schema:description{Literal}@et,aasta
+schema:description{Literal}@eu,urte
+schema:description{Literal}@fa,سال
+schema:description{Literal}@fi,vuosi
+schema:description{Literal}@fr,année du XXe siècle
+schema:description{Literal}@frr,Juar
+schema:description{Literal}@fy,jier
+schema:description{Literal}@ga,Bliain
+schema:description{Literal}@gcr,lannen
+schema:description{Literal}@gd,bliadhna
+schema:description{Literal}@gl,ano
+schema:description{Literal}@gsw,joor
+schema:description{Literal}@gu,વર્ષ
+schema:description{Literal}@gv,blein
+schema:description{Literal}@he,שנת יצירה
+schema:description{Literal}@hr,Godina
+schema:description{Literal}@hsb,lěto
+schema:description{Literal}@ht,Lane
+schema:description{Literal}@hu,év
+schema:description{Literal}@hy,տարեթիվ
+schema:description{Literal}@ia,anno
+schema:description{Literal}@id,tahun kalender
+schema:description{Literal}@ilo,tawen
+schema:description{Literal}@io,yaro
+schema:description{Literal}@is,ár
+schema:description{Literal}@it,anno
+schema:description{Literal}@ja,年
+schema:description{Literal}@ka,წელი
+schema:description{Literal}@ko,연도
+schema:description{Literal}@ku,Sal
+schema:description{Literal}@la,annus
+schema:description{Literal}@lfn,anio
+schema:description{Literal}@lij,ànno
+schema:description{Literal}@lt,Metai
+schema:description{Literal}@lv,gads
+schema:description{Literal}@mhr,Идалык
+schema:description{Literal}@mi,tau
+schema:description{Literal}@min,taun
+schema:description{Literal}@mk,година
+schema:description{Literal}@mr,इसवी सनाच्या दुसर्या सहस्रकातील एक वर्ष
+schema:description{Literal}@ms,Tahun
+schema:description{Literal}@my,ပြက္ခဒိန်နှစ်
+schema:description{Literal}@myv,Ие
+schema:description{Literal}@nan,nî
+schema:description{Literal}@nb,år
+schema:description{Literal}@nds,Johr
+schema:description{Literal}@nl,jaar
+schema:description{Literal}@nn,år
+schema:description{Literal}@or,ବର୍ଷ
+schema:description{Literal}@pl,rok
+schema:description{Literal}@pt,ano
+schema:description{Literal}@pt-br,ano
+schema:description{Literal}@ro,an
+schema:description{Literal}@ru,год XX века
+schema:description{Literal}@rw,umwaka
+schema:description{Literal}@sco,year
+schema:description{Literal}@sd,سال
+schema:description{Literal}@se,jahki
+schema:description{Literal}@sh,godina
+schema:description{Literal}@sje,jahke
+schema:description{Literal}@sk,Rok
+schema:description{Literal}@sl,Leto
+schema:description{Literal}@sma,jaepie
+schema:description{Literal}@smj,jahke
+schema:description{Literal}@smn,ihe
+schema:description{Literal}@sq,viti
+schema:description{Literal}@sr,година
+schema:description{Literal}@srn,Yari
+schema:description{Literal}@sv,år
+schema:description{Literal}@sw,mwaka
+schema:description{Literal}@th,ปี
+schema:description{Literal}@tl,taon
+schema:description{Literal}@tr,yıl
+schema:description{Literal}@uk,рік
+schema:description{Literal}@ur,سال
+schema:description{Literal}@vi,năm
+schema:description{Literal}@vo,yel
+schema:description{Literal}@wa,anêye
+schema:description{Literal}@war,Tuig
+schema:description{Literal}@wuu,年
+schema:description{Literal}@yi,יאר
+schema:description{Literal}@yue,年
+schema:description{Literal}@zh,年
+schema:description{Literal}@zh-cn,年份
+schema:description{Literal}@zh-hans,年份
+schema:description{Literal}@zh-hant,年份
+schema:description{Literal}@zh-hk,年份
+schema:description{Literal}@zh-mo,年份
+schema:description{Literal}@zh-sg,年份
+schema:description{Literal}@zh-tw,儒略曆或格里曆之年份
+schema:name{Literal}@ab,1967
+schema:name{Literal}@af,1967
+schema:name{Literal}@am,1967 እ.ኤ.አ.
+schema:name{Literal}@an,1967
+schema:name{Literal}@ar,1967
+schema:name{Literal}@arz,1967
+schema:name{Literal}@ast,1967
+schema:name{Literal}@av,1967
+schema:name{Literal}@ay,1967
+schema:name{Literal}@az,1967
+schema:name{Literal}@azb,۱۹۶۷ (میلادی)
+schema:name{Literal}@ba,1967 йыл
+schema:name{Literal}@ban,1967
+schema:name{Literal}@bar,1967
+schema:name{Literal}@bcl,1967
+schema:name{Literal}@be,1967
+schema:name{Literal}@be-tarask,1967
+schema:name{Literal}@bg,1967
+schema:name{Literal}@bho,1967
+schema:name{Literal}@bjn,1967
+schema:name{Literal}@bn,১৯৬৭
+schema:name{Literal}@bpy,মারি ১৯৬৭
+schema:name{Literal}@br,1967
+schema:name{Literal}@bs,1967
+schema:name{Literal}@ca,1967
+schema:name{Literal}@cbk-zam,1967
+schema:name{Literal}@cdo,1967 nièng
+schema:name{Literal}@ce,1967 шо
+schema:name{Literal}@ceb,1967
+schema:name{Literal}@ckb,١٩٦٧
+schema:name{Literal}@co,1967
+schema:name{Literal}@crh,1967
+schema:name{Literal}@crh-Latn,1967
+schema:name{Literal}@cs,1967
+schema:name{Literal}@csb,1967
+schema:name{Literal}@cv,1967
+schema:name{Literal}@cy,1967
+schema:name{Literal}@da,1967
+schema:name{Literal}@de,1967
+schema:name{Literal}@de-at,1967
+schema:name{Literal}@de-ch,1967
+schema:name{Literal}@diq,1967
+schema:name{Literal}@dsb,1967
+schema:name{Literal}@el,1967
+schema:name{Literal}@eml,1967
+schema:name{Literal}@en,1967
+schema:name{Literal}@en-ca,1967
+schema:name{Literal}@en-gb,1967
+schema:name{Literal}@eo,1967
+schema:name{Literal}@es,1967
+schema:name{Literal}@et,1967
+schema:name{Literal}@eu,1967
+schema:name{Literal}@fa,۱۹۶۷
+schema:name{Literal}@fi,1967
+schema:name{Literal}@fo,1967
+schema:name{Literal}@fr,1967
+schema:name{Literal}@frp,1967
+schema:name{Literal}@frr,1967
+schema:name{Literal}@fur,1967
+schema:name{Literal}@fy,1967
+schema:name{Literal}@ga,1967
+schema:name{Literal}@gag,1967
+schema:name{Literal}@gan,1967年
+schema:name{Literal}@gd,1967
+schema:name{Literal}@gl,1967
+schema:name{Literal}@gn,1967
+schema:name{Literal}@gsw,1967
+schema:name{Literal}@gv,1967
+schema:name{Literal}@hak,1967-ngièn
+schema:name{Literal}@he,1967
+schema:name{Literal}@hi,१९६७
+schema:name{Literal}@hif,1967
+schema:name{Literal}@hr,1967.
+schema:name{Literal}@hsb,1967
+schema:name{Literal}@ht,1967
+schema:name{Literal}@hu,1967
+schema:name{Literal}@hy,1967
+schema:name{Literal}@hyw,1967 թուական
+schema:name{Literal}@ia,1967
+schema:name{Literal}@id,1967
+schema:name{Literal}@ie,1967
+schema:name{Literal}@ig,1967
+schema:name{Literal}@ilo,1967
+schema:name{Literal}@inh,1967 шу
+schema:name{Literal}@io,1967
+schema:name{Literal}@is,1967
+schema:name{Literal}@it,1967
+schema:name{Literal}@ja,1967年
+schema:name{Literal}@jbo,1967moi
+schema:name{Literal}@jv,1967
+schema:name{Literal}@ka,1967
+schema:name{Literal}@kbp,1967
+schema:name{Literal}@kk,1967 жыл
+schema:name{Literal}@kn,೧೯೬೭
+schema:name{Literal}@ko,1967년
+schema:name{Literal}@krc,1967 джыл
+schema:name{Literal}@ksh,Joohr 1967
+schema:name{Literal}@ku,1967
+schema:name{Literal}@kv,1967 во
+schema:name{Literal}@kw,1967
+schema:name{Literal}@ky,1967
+schema:name{Literal}@la,1967
+schema:name{Literal}@lb,1967
+schema:name{Literal}@lez,1967 йис
+schema:name{Literal}@lfn,1967
+schema:name{Literal}@li,1967
+schema:name{Literal}@lij,1967
+schema:name{Literal}@lld,1967
+schema:name{Literal}@lmo,1967
+schema:name{Literal}@ln,1967
+schema:name{Literal}@lt,1967 m.
+schema:name{Literal}@lv,1967. gads
+schema:name{Literal}@lzh,一九六七年
+schema:name{Literal}@mai,१९६७
+schema:name{Literal}@map-bms,1967
+schema:name{Literal}@mdf,1967
+schema:name{Literal}@mg,1967
+schema:name{Literal}@mhr,1967
+schema:name{Literal}@mi,1967
+schema:name{Literal}@min,1967
+schema:name{Literal}@mk,1967
+schema:name{Literal}@ml,1967
+schema:name{Literal}@mn,1967 он
+schema:name{Literal}@mr,इ.स. १९६७
+schema:name{Literal}@mrj,1967 и
+schema:name{Literal}@ms,1967
+schema:name{Literal}@my,၁၉၆၇
+schema:name{Literal}@myv,1967 ие
+schema:name{Literal}@na,1967
+schema:name{Literal}@nah,1967
+schema:name{Literal}@nan,1967 nî
+schema:name{Literal}@nap,1967
+schema:name{Literal}@nb,1967
+schema:name{Literal}@nds,1967
+schema:name{Literal}@nds-NL,1967
+schema:name{Literal}@ne,सन् १९६७
+schema:name{Literal}@new,ई सं १९६७
+schema:name{Literal}@nl,1967
+schema:name{Literal}@nn,1967
+schema:name{Literal}@nov,1967
+schema:name{Literal}@nrm,1967
+schema:name{Literal}@nso,1967
+schema:name{Literal}@oc,1967
+schema:name{Literal}@olo,1967
+schema:name{Literal}@or,୧୯୬୭
+schema:name{Literal}@os,1967-æм аз
+schema:name{Literal}@pa,੧੯੬੭
+schema:name{Literal}@pam,1967
+schema:name{Literal}@pap,1967
+schema:name{Literal}@pi,१९६७
+schema:name{Literal}@pl,1967
+schema:name{Literal}@pnb,1967
+schema:name{Literal}@pt,1967
+schema:name{Literal}@pt-br,1967
+schema:name{Literal}@qu,1967
+schema:name{Literal}@ro,1967
+schema:name{Literal}@ru,1967 год
+schema:name{Literal}@rue,1967
+schema:name{Literal}@rup,1967
+schema:name{Literal}@sah,1967
+schema:name{Literal}@sc,1967
+schema:name{Literal}@scn,1967
+schema:name{Literal}@sco,1967
+schema:name{Literal}@sd,1967ع
+schema:name{Literal}@se,1967
+schema:name{Literal}@sgs,1967
+schema:name{Literal}@sh,1967
+schema:name{Literal}@shn,1967
+schema:name{Literal}@si,1967
+schema:name{Literal}@sje,1967
+schema:name{Literal}@sk,1967
+schema:name{Literal}@sl,1967
+schema:name{Literal}@sma,1967
+schema:name{Literal}@smj,1967
+schema:name{Literal}@smn,1967
+schema:name{Literal}@so,1967
+schema:name{Literal}@sq,1967
+schema:name{Literal}@sr,1967.
+schema:name{Literal}@srn,1967
+schema:name{Literal}@stq,1967
+schema:name{Literal}@su,1967
+schema:name{Literal}@sv,1967
+schema:name{Literal}@sw,1967
+schema:name{Literal}@szl,1967
+schema:name{Literal}@ta,1967
+schema:name{Literal}@te,1967
+schema:name{Literal}@tet,1967
+schema:name{Literal}@tg,Соли 1967
+schema:name{Literal}@th,พ.ศ. 2510
+schema:name{Literal}@tk,1967
+schema:name{Literal}@tl,1967
+schema:name{Literal}@tpi,1967
+schema:name{Literal}@tr,1967
+schema:name{Literal}@tt,1967 ел
+schema:name{Literal}@ty,1967
+schema:name{Literal}@udm,1967 ар
+schema:name{Literal}@uk,1967
+schema:name{Literal}@ur,1967ء
+schema:name{Literal}@uz,1967
+schema:name{Literal}@vec,1967
+schema:name{Literal}@vep,1967
+schema:name{Literal}@vi,1967
+schema:name{Literal}@vls,1967
+schema:name{Literal}@vo,1967
+schema:name{Literal}@vro,1967
+schema:name{Literal}@wa,1967
+schema:name{Literal}@war,1967
+schema:name{Literal}@wuu,1967年
+schema:name{Literal}@xal,1967 җил
+schema:name{Literal}@xmf,1967
+schema:name{Literal}@yi,1967
+schema:name{Literal}@yo,1967
+schema:name{Literal}@yue,1967年
+schema:name{Literal}@zea,1967
+schema:name{Literal}@zh,1967年
+schema:name{Literal}@zh-tw,1967年
+schema:name{Literal}@fr-x-nrm,
+schema:name{Literal}@jv-x-bms,
+schema:name{Literal}@cbk-x-zam,
+schema:name{Literal}@en-simple,
+schema:name{Literal}@egl,
+rdf:type{URIRef}[0],wikibase:Item
+rdf:type{URIRef}[1],
+rdfs:label{Literal}@ab,1967
+rdfs:label{Literal}@af,1967
+rdfs:label{Literal}@am,1967 እ.ኤ.አ.
+rdfs:label{Literal}@an,1967
+rdfs:label{Literal}@ar,1967
+rdfs:label{Literal}@arz,1967
+rdfs:label{Literal}@ast,1967
+rdfs:label{Literal}@av,1967
+rdfs:label{Literal}@ay,1967
+rdfs:label{Literal}@az,1967
+rdfs:label{Literal}@azb,۱۹۶۷ (میلادی)
+rdfs:label{Literal}@ba,1967 йыл
+rdfs:label{Literal}@ban,1967
+rdfs:label{Literal}@bar,1967
+rdfs:label{Literal}@bcl,1967
+rdfs:label{Literal}@be,1967
+rdfs:label{Literal}@be-tarask,1967
+rdfs:label{Literal}@bg,1967
+rdfs:label{Literal}@bho,1967
+rdfs:label{Literal}@bjn,1967
+rdfs:label{Literal}@bn,১৯৬৭
+rdfs:label{Literal}@bpy,মারি ১৯৬৭
+rdfs:label{Literal}@br,1967
+rdfs:label{Literal}@bs,1967
+rdfs:label{Literal}@ca,1967
+rdfs:label{Literal}@cbk-zam,1967
+rdfs:label{Literal}@cdo,1967 nièng
+rdfs:label{Literal}@ce,1967 шо
+rdfs:label{Literal}@ceb,1967
+rdfs:label{Literal}@ckb,١٩٦٧
+rdfs:label{Literal}@co,1967
+rdfs:label{Literal}@crh,1967
+rdfs:label{Literal}@crh-Latn,1967
+rdfs:label{Literal}@cs,1967
+rdfs:label{Literal}@csb,1967
+rdfs:label{Literal}@cv,1967
+rdfs:label{Literal}@cy,1967
+rdfs:label{Literal}@da,1967
+rdfs:label{Literal}@de,1967
+rdfs:label{Literal}@de-at,1967
+rdfs:label{Literal}@de-ch,1967
+rdfs:label{Literal}@diq,1967
+rdfs:label{Literal}@dsb,1967
+rdfs:label{Literal}@el,1967
+rdfs:label{Literal}@eml,1967
+rdfs:label{Literal}@en,1967
+rdfs:label{Literal}@en-ca,1967
+rdfs:label{Literal}@en-gb,1967
+rdfs:label{Literal}@eo,1967
+rdfs:label{Literal}@es,1967
+rdfs:label{Literal}@et,1967
+rdfs:label{Literal}@eu,1967
+rdfs:label{Literal}@fa,۱۹۶۷
+rdfs:label{Literal}@fi,1967
+rdfs:label{Literal}@fo,1967
+rdfs:label{Literal}@fr,1967
+rdfs:label{Literal}@frp,1967
+rdfs:label{Literal}@frr,1967
+rdfs:label{Literal}@fur,1967
+rdfs:label{Literal}@fy,1967
+rdfs:label{Literal}@ga,1967
+rdfs:label{Literal}@gag,1967
+rdfs:label{Literal}@gan,1967年
+rdfs:label{Literal}@gd,1967
+rdfs:label{Literal}@gl,1967
+rdfs:label{Literal}@gn,1967
+rdfs:label{Literal}@gsw,1967
+rdfs:label{Literal}@gv,1967
+rdfs:label{Literal}@hak,1967-ngièn
+rdfs:label{Literal}@he,1967
+rdfs:label{Literal}@hi,१९६७
+rdfs:label{Literal}@hif,1967
+rdfs:label{Literal}@hr,1967.
+rdfs:label{Literal}@hsb,1967
+rdfs:label{Literal}@ht,1967
+rdfs:label{Literal}@hu,1967
+rdfs:label{Literal}@hy,1967
+rdfs:label{Literal}@hyw,1967 թուական
+rdfs:label{Literal}@ia,1967
+rdfs:label{Literal}@id,1967
+rdfs:label{Literal}@ie,1967
+rdfs:label{Literal}@ig,1967
+rdfs:label{Literal}@ilo,1967
+rdfs:label{Literal}@inh,1967 шу
+rdfs:label{Literal}@io,1967
+rdfs:label{Literal}@is,1967
+rdfs:label{Literal}@it,1967
+rdfs:label{Literal}@ja,1967年
+rdfs:label{Literal}@jbo,1967moi
+rdfs:label{Literal}@jv,1967
+rdfs:label{Literal}@ka,1967
+rdfs:label{Literal}@kbp,1967
+rdfs:label{Literal}@kk,1967 жыл
+rdfs:label{Literal}@kn,೧೯೬೭
+rdfs:label{Literal}@ko,1967년
+rdfs:label{Literal}@krc,1967 джыл
+rdfs:label{Literal}@ksh,Joohr 1967
+rdfs:label{Literal}@ku,1967
+rdfs:label{Literal}@kv,1967 во
+rdfs:label{Literal}@kw,1967
+rdfs:label{Literal}@ky,1967
+rdfs:label{Literal}@la,1967
+rdfs:label{Literal}@lb,1967
+rdfs:label{Literal}@lez,1967 йис
+rdfs:label{Literal}@lfn,1967
+rdfs:label{Literal}@li,1967
+rdfs:label{Literal}@lij,1967
+rdfs:label{Literal}@lld,1967
+rdfs:label{Literal}@lmo,1967
+rdfs:label{Literal}@ln,1967
+rdfs:label{Literal}@lt,1967 m.
+rdfs:label{Literal}@lv,1967. gads
+rdfs:label{Literal}@lzh,一九六七年
+rdfs:label{Literal}@mai,१९६७
+rdfs:label{Literal}@map-bms,1967
+rdfs:label{Literal}@mdf,1967
+rdfs:label{Literal}@mg,1967
+rdfs:label{Literal}@mhr,1967
+rdfs:label{Literal}@mi,1967
+rdfs:label{Literal}@min,1967
+rdfs:label{Literal}@mk,1967
+rdfs:label{Literal}@ml,1967
+rdfs:label{Literal}@mn,1967 он
+rdfs:label{Literal}@mr,इ.स. १९६७
+rdfs:label{Literal}@mrj,1967 и
+rdfs:label{Literal}@ms,1967
+rdfs:label{Literal}@my,၁၉၆၇
+rdfs:label{Literal}@myv,1967 ие
+rdfs:label{Literal}@na,1967
+rdfs:label{Literal}@nah,1967
+rdfs:label{Literal}@nan,1967 nî
+rdfs:label{Literal}@nap,1967
+rdfs:label{Literal}@nb,1967
+rdfs:label{Literal}@nds,1967
+rdfs:label{Literal}@nds-NL,1967
+rdfs:label{Literal}@ne,सन् १९६७
+rdfs:label{Literal}@new,ई सं १९६७
+rdfs:label{Literal}@nl,1967
+rdfs:label{Literal}@nn,1967
+rdfs:label{Literal}@nov,1967
+rdfs:label{Literal}@nrm,1967
+rdfs:label{Literal}@nso,1967
+rdfs:label{Literal}@oc,1967
+rdfs:label{Literal}@olo,1967
+rdfs:label{Literal}@or,୧୯୬୭
+rdfs:label{Literal}@os,1967-æм аз
+rdfs:label{Literal}@pa,੧੯੬੭
+rdfs:label{Literal}@pam,1967
+rdfs:label{Literal}@pap,1967
+rdfs:label{Literal}@pi,१९६७
+rdfs:label{Literal}@pl,1967
+rdfs:label{Literal}@pnb,1967
+rdfs:label{Literal}@pt,1967
+rdfs:label{Literal}@pt-br,1967
+rdfs:label{Literal}@qu,1967
+rdfs:label{Literal}@ro,1967
+rdfs:label{Literal}@ru,1967 год
+rdfs:label{Literal}@rue,1967
+rdfs:label{Literal}@rup,1967
+rdfs:label{Literal}@sah,1967
+rdfs:label{Literal}@sc,1967
+rdfs:label{Literal}@scn,1967
+rdfs:label{Literal}@sco,1967
+rdfs:label{Literal}@sd,1967ع
+rdfs:label{Literal}@se,1967
+rdfs:label{Literal}@sgs,1967
+rdfs:label{Literal}@sh,1967
+rdfs:label{Literal}@shn,1967
+rdfs:label{Literal}@si,1967
+rdfs:label{Literal}@sje,1967
+rdfs:label{Literal}@sk,1967
+rdfs:label{Literal}@sl,1967
+rdfs:label{Literal}@sma,1967
+rdfs:label{Literal}@smj,1967
+rdfs:label{Literal}@smn,1967
+rdfs:label{Literal}@so,1967
+rdfs:label{Literal}@sq,1967
+rdfs:label{Literal}@sr,1967.
+rdfs:label{Literal}@srn,1967
+rdfs:label{Literal}@stq,1967
+rdfs:label{Literal}@su,1967
+rdfs:label{Literal}@sv,1967
+rdfs:label{Literal}@sw,1967
+rdfs:label{Literal}@szl,1967
+rdfs:label{Literal}@ta,1967
+rdfs:label{Literal}@te,1967
+rdfs:label{Literal}@tet,1967
+rdfs:label{Literal}@tg,Соли 1967
+rdfs:label{Literal}@th,พ.ศ. 2510
+rdfs:label{Literal}@tk,1967
+rdfs:label{Literal}@tl,1967
+rdfs:label{Literal}@tpi,1967
+rdfs:label{Literal}@tr,1967
+rdfs:label{Literal}@tt,1967 ел
+rdfs:label{Literal}@ty,1967
+rdfs:label{Literal}@udm,1967 ар
+rdfs:label{Literal}@uk,1967
+rdfs:label{Literal}@ur,1967ء
+rdfs:label{Literal}@uz,1967
+rdfs:label{Literal}@vec,1967
+rdfs:label{Literal}@vep,1967
+rdfs:label{Literal}@vi,1967
+rdfs:label{Literal}@vls,1967
+rdfs:label{Literal}@vo,1967
+rdfs:label{Literal}@vro,1967
+rdfs:label{Literal}@wa,1967
+rdfs:label{Literal}@war,1967
+rdfs:label{Literal}@wuu,1967年
+rdfs:label{Literal}@xal,1967 җил
+rdfs:label{Literal}@xmf,1967
+rdfs:label{Literal}@yi,1967
+rdfs:label{Literal}@yo,1967
+rdfs:label{Literal}@yue,1967年
+rdfs:label{Literal}@zea,1967
+rdfs:label{Literal}@zh,1967年
+rdfs:label{Literal}@zh-tw,1967年
+skos:altLabel{Literal}@ar,١٩٦٧
+skos:altLabel{Literal}@en,MCMLXVII
+skos:altLabel{Literal}[0]@es,MCMLXVII
+skos:altLabel{Literal}[1]@es,año 1967
+skos:prefLabel{Literal}@ab,1967
+skos:prefLabel{Literal}@af,1967
+skos:prefLabel{Literal}@am,1967 እ.ኤ.አ.
+skos:prefLabel{Literal}@an,1967
+skos:prefLabel{Literal}@ar,1967
+skos:prefLabel{Literal}@arz,1967
+skos:prefLabel{Literal}@ast,1967
+skos:prefLabel{Literal}@av,1967
+skos:prefLabel{Literal}@ay,1967
+skos:prefLabel{Literal}@az,1967
+skos:prefLabel{Literal}@azb,۱۹۶۷ (میلادی)
+skos:prefLabel{Literal}@ba,1967 йыл
+skos:prefLabel{Literal}@ban,1967
+skos:prefLabel{Literal}@bar,1967
+skos:prefLabel{Literal}@bcl,1967
+skos:prefLabel{Literal}@be,1967
+skos:prefLabel{Literal}@be-tarask,1967
+skos:prefLabel{Literal}@bg,1967
+skos:prefLabel{Literal}@bho,1967
+skos:prefLabel{Literal}@bjn,1967
+skos:prefLabel{Literal}@bn,১৯৬৭
+skos:prefLabel{Literal}@bpy,মারি ১৯৬৭
+skos:prefLabel{Literal}@br,1967
+skos:prefLabel{Literal}@bs,1967
+skos:prefLabel{Literal}@ca,1967
+skos:prefLabel{Literal}@cbk-zam,1967
+skos:prefLabel{Literal}@cdo,1967 nièng
+skos:prefLabel{Literal}@ce,1967 шо
+skos:prefLabel{Literal}@ceb,1967
+skos:prefLabel{Literal}@ckb,١٩٦٧
+skos:prefLabel{Literal}@co,1967
+skos:prefLabel{Literal}@crh,1967
+skos:prefLabel{Literal}@crh-Latn,1967
+skos:prefLabel{Literal}@cs,1967
+skos:prefLabel{Literal}@csb,1967
+skos:prefLabel{Literal}@cv,1967
+skos:prefLabel{Literal}@cy,1967
+skos:prefLabel{Literal}@da,1967
+skos:prefLabel{Literal}@de,1967
+skos:prefLabel{Literal}@de-at,1967
+skos:prefLabel{Literal}@de-ch,1967
+skos:prefLabel{Literal}@diq,1967
+skos:prefLabel{Literal}@dsb,1967
+skos:prefLabel{Literal}@el,1967
+skos:prefLabel{Literal}@eml,1967
+skos:prefLabel{Literal}@en,1967
+skos:prefLabel{Literal}@en-ca,1967
+skos:prefLabel{Literal}@en-gb,1967
+skos:prefLabel{Literal}@eo,1967
+skos:prefLabel{Literal}@es,1967
+skos:prefLabel{Literal}@et,1967
+skos:prefLabel{Literal}@eu,1967
+skos:prefLabel{Literal}@fa,۱۹۶۷
+skos:prefLabel{Literal}@fi,1967
+skos:prefLabel{Literal}@fo,1967
+skos:prefLabel{Literal}@fr,1967
+skos:prefLabel{Literal}@frp,1967
+skos:prefLabel{Literal}@frr,1967
+skos:prefLabel{Literal}@fur,1967
+skos:prefLabel{Literal}@fy,1967
+skos:prefLabel{Literal}@ga,1967
+skos:prefLabel{Literal}@gag,1967
+skos:prefLabel{Literal}@gan,1967年
+skos:prefLabel{Literal}@gd,1967
+skos:prefLabel{Literal}@gl,1967
+skos:prefLabel{Literal}@gn,1967
+skos:prefLabel{Literal}@gsw,1967
+skos:prefLabel{Literal}@gv,1967
+skos:prefLabel{Literal}@hak,1967-ngièn
+skos:prefLabel{Literal}@he,1967
+skos:prefLabel{Literal}@hi,१९६७
+skos:prefLabel{Literal}@hif,1967
+skos:prefLabel{Literal}@hr,1967.
+skos:prefLabel{Literal}@hsb,1967
+skos:prefLabel{Literal}@ht,1967
+skos:prefLabel{Literal}@hu,1967
+skos:prefLabel{Literal}@hy,1967
+skos:prefLabel{Literal}@hyw,1967 թուական
+skos:prefLabel{Literal}@ia,1967
+skos:prefLabel{Literal}@id,1967
+skos:prefLabel{Literal}@ie,1967
+skos:prefLabel{Literal}@ig,1967
+skos:prefLabel{Literal}@ilo,1967
+skos:prefLabel{Literal}@inh,1967 шу
+skos:prefLabel{Literal}@io,1967
+skos:prefLabel{Literal}@is,1967
+skos:prefLabel{Literal}@it,1967
+skos:prefLabel{Literal}@ja,1967年
+skos:prefLabel{Literal}@jbo,1967moi
+skos:prefLabel{Literal}@jv,1967
+skos:prefLabel{Literal}@ka,1967
+skos:prefLabel{Literal}@kbp,1967
+skos:prefLabel{Literal}@kk,1967 жыл
+skos:prefLabel{Literal}@kn,೧೯೬೭
+skos:prefLabel{Literal}@ko,1967년
+skos:prefLabel{Literal}@krc,1967 джыл
+skos:prefLabel{Literal}@ksh,Joohr 1967
+skos:prefLabel{Literal}@ku,1967
+skos:prefLabel{Literal}@kv,1967 во
+skos:prefLabel{Literal}@kw,1967
+skos:prefLabel{Literal}@ky,1967
+skos:prefLabel{Literal}@la,1967
+skos:prefLabel{Literal}@lb,1967
+skos:prefLabel{Literal}@lez,1967 йис
+skos:prefLabel{Literal}@lfn,1967
+skos:prefLabel{Literal}@li,1967
+skos:prefLabel{Literal}@lij,1967
+skos:prefLabel{Literal}@lld,1967
+skos:prefLabel{Literal}@lmo,1967
+skos:prefLabel{Literal}@ln,1967
+skos:prefLabel{Literal}@lt,1967 m.
+skos:prefLabel{Literal}@lv,1967. gads
+skos:prefLabel{Literal}@lzh,一九六七年
+skos:prefLabel{Literal}@mai,१९६७
+skos:prefLabel{Literal}@map-bms,1967
+skos:prefLabel{Literal}@mdf,1967
+skos:prefLabel{Literal}@mg,1967
+skos:prefLabel{Literal}@mhr,1967
+skos:prefLabel{Literal}@mi,1967
+skos:prefLabel{Literal}@min,1967
+skos:prefLabel{Literal}@mk,1967
+skos:prefLabel{Literal}@ml,1967
+skos:prefLabel{Literal}@mn,1967 он
+skos:prefLabel{Literal}@mr,इ.स. १९६७
+skos:prefLabel{Literal}@mrj,1967 и
+skos:prefLabel{Literal}@ms,1967
+skos:prefLabel{Literal}@my,၁၉၆၇
+skos:prefLabel{Literal}@myv,1967 ие
+skos:prefLabel{Literal}@na,1967
+skos:prefLabel{Literal}@nah,1967
+skos:prefLabel{Literal}@nan,1967 nî
+skos:prefLabel{Literal}@nap,1967
+skos:prefLabel{Literal}@nb,1967
+skos:prefLabel{Literal}@nds,1967
+skos:prefLabel{Literal}@nds-NL,1967
+skos:prefLabel{Literal}@ne,सन् १९६७
+skos:prefLabel{Literal}@new,ई सं १९६७
+skos:prefLabel{Literal}@nl,1967
+skos:prefLabel{Literal}@nn,1967
+skos:prefLabel{Literal}@nov,1967
+skos:prefLabel{Literal}@nrm,1967
+skos:prefLabel{Literal}@nso,1967
+skos:prefLabel{Literal}@oc,1967
+skos:prefLabel{Literal}@olo,1967
+skos:prefLabel{Literal}@or,୧୯୬୭
+skos:prefLabel{Literal}@os,1967-æм аз
+skos:prefLabel{Literal}@pa,੧੯੬੭
+skos:prefLabel{Literal}@pam,1967
+skos:prefLabel{Literal}@pap,1967
+skos:prefLabel{Literal}@pi,१९६७
+skos:prefLabel{Literal}@pl,1967
+skos:prefLabel{Literal}@pnb,1967
+skos:prefLabel{Literal}@pt,1967
+skos:prefLabel{Literal}@pt-br,1967
+skos:prefLabel{Literal}@qu,1967
+skos:prefLabel{Literal}@ro,1967
+skos:prefLabel{Literal}@ru,1967 год
+skos:prefLabel{Literal}@rue,1967
+skos:prefLabel{Literal}@rup,1967
+skos:prefLabel{Literal}@sah,1967
+skos:prefLabel{Literal}@sc,1967
+skos:prefLabel{Literal}@scn,1967
+skos:prefLabel{Literal}@sco,1967
+skos:prefLabel{Literal}@sd,1967ع
+skos:prefLabel{Literal}@se,1967
+skos:prefLabel{Literal}@sgs,1967
+skos:prefLabel{Literal}@sh,1967
+skos:prefLabel{Literal}@shn,1967
+skos:prefLabel{Literal}@si,1967
+skos:prefLabel{Literal}@sje,1967
+skos:prefLabel{Literal}@sk,1967
+skos:prefLabel{Literal}@sl,1967
+skos:prefLabel{Literal}@sma,1967
+skos:prefLabel{Literal}@smj,1967
+skos:prefLabel{Literal}@smn,1967
+skos:prefLabel{Literal}@so,1967
+skos:prefLabel{Literal}@sq,1967
+skos:prefLabel{Literal}@sr,1967.
+skos:prefLabel{Literal}@srn,1967
+skos:prefLabel{Literal}@stq,1967
+skos:prefLabel{Literal}@su,1967
+skos:prefLabel{Literal}@sv,1967
+skos:prefLabel{Literal}@sw,1967
+skos:prefLabel{Literal}@szl,1967
+skos:prefLabel{Literal}@ta,1967
+skos:prefLabel{Literal}@te,1967
+skos:prefLabel{Literal}@tet,1967
+skos:prefLabel{Literal}@tg,Соли 1967
+skos:prefLabel{Literal}@th,พ.ศ. 2510
+skos:prefLabel{Literal}@tk,1967
+skos:prefLabel{Literal}@tl,1967
+skos:prefLabel{Literal}@tpi,1967
+skos:prefLabel{Literal}@tr,1967
+skos:prefLabel{Literal}@tt,1967 ел
+skos:prefLabel{Literal}@ty,1967
+skos:prefLabel{Literal}@udm,1967 ар
+skos:prefLabel{Literal}@uk,1967
+skos:prefLabel{Literal}@ur,1967ء
+skos:prefLabel{Literal}@uz,1967
+skos:prefLabel{Literal}@vec,1967
+skos:prefLabel{Literal}@vep,1967
+skos:prefLabel{Literal}@vi,1967
+skos:prefLabel{Literal}@vls,1967
+skos:prefLabel{Literal}@vo,1967
+skos:prefLabel{Literal}@vro,1967
+skos:prefLabel{Literal}@wa,1967
+skos:prefLabel{Literal}@war,1967
+skos:prefLabel{Literal}@wuu,1967年
+skos:prefLabel{Literal}@xal,1967 җил
+skos:prefLabel{Literal}@xmf,1967
+skos:prefLabel{Literal}@yi,1967
+skos:prefLabel{Literal}@yo,1967
+skos:prefLabel{Literal}@yue,1967年
+skos:prefLabel{Literal}@zea,1967
+skos:prefLabel{Literal}@zh,1967年
+skos:prefLabel{Literal}@zh-tw,1967年
+p:P155{URIRef},s:q2648-0926A3B4-73C6-4981-8A09-3213D96B8B2B
+p:P156{URIRef},s:q2648-4B33FA23-E013-47CE-A72D-38E7674CCDDD
+p:P18{URIRef},s:Q2648-DC208A38-D1B1-4F91-B8FE-40EE40CC5D8B
+p:P1889{URIRef},s:Q2648-91CBBD16-6206-4667-83B5-A68EE26D2256
+p:P244{URIRef},s:Q2648-1B9D4DE6-A02D-4086-BEEE-6798695194B2
+p:P2959{URIRef},s:Q2648-D5073B89-C790-4EDE-AC03-F25602F1205C
+p:P31{URIRef}[0],s:Q2648-7ee9b733-b0ed-4ae7-bafa-4d47d78d207f
+p:P31{URIRef}[1],s:q2648-2CA702DE-D6F6-4941-81B6-E37CADC8B5E6
+p:P361{URIRef}[0],s:Q2648-957e958e-90a2-4171-b593-7ed72c9ab09a
+p:P361{URIRef}[1],s:q2648-2104C0DE-0CB0-40D0-959C-8E440EB71068
+p:P373{URIRef},s:q2648-00B8F300-04BF-4C62-BDB0-318C1ED132AF
+p:P460{URIRef}[0],s:Q2648-6af8c4f8-4fed-0747-cd30-05d845b4be70
+p:P460{URIRef}[1],s:Q2648-a24af157-4292-5edd-7ce8-3347d5ee66b5
+p:P527{URIRef}[0],s:Q2648-1D862DFB-9D0C-46D7-BC46-AB76801DFE92
+p:P527{URIRef}[1],s:Q2648-23AE3264-C056-4CB1-BF98-6CD99621E29C
+p:P527{URIRef}[2],s:Q2648-3178E8D9-0650-4C85-9A1F-F03B1F5A48AC
+p:P527{URIRef}[3],s:Q2648-40F1434F-CD6D-45A7-8ADC-8F165FFA40CE
+p:P527{URIRef}[4],s:Q2648-44314436-0E88-4AF0-9B41-AB75272109E6
+p:P527{URIRef}[5],s:Q2648-8199E22A-C138-4443-92B8-822230472024
+p:P527{URIRef}[6],s:Q2648-8A4DE8BE-3DA0-42AC-B735-5814CA484FF9
+p:P527{URIRef}[7],s:Q2648-B2BA0726-8525-4031-82A3-F3876140A0EE
+p:P527{URIRef}[8],s:Q2648-B33E24D0-D095-4B72-9971-0B9DCCA2A206
+p:P527{URIRef}[9],s:Q2648-D8B24195-099E-475E-9596-E8CA58E56FE0
+p:P527{URIRef}[10],s:Q2648-E7DFE7D4-BAA6-40F0-899B-21CE51A6394B
+p:P527{URIRef}[11],s:Q2648-F6A99D76-CF99-4828-AE3A-2C2DEDDC454C
+p:P585{URIRef},s:Q2648-E608F47B-E77A-4AED-8AC8-A24E31DD562E
+p:P6228{URIRef},s:Q2648-86E61279-25A6-4D9C-B42C-499FE86FB43A
+p:P6262{URIRef},s:Q2648-9bc8bbee-4db9-71f3-f3cb-b75c030d6e7d
+p:P8189{URIRef},s:Q2648-0BFB82F8-8BA3-442F-8B36-9CD7FCDC67B3
+p:P910{URIRef},s:Q2648-13C52691-E354-4FB0-BDC5-54DF8D82D641
+p:P935{URIRef},s:Q2648-4C837A7F-C864-43AA-AB69-DF29EACBF5B0
+wdtn:P244{URIRef},https://id.loc.gov/authorities/names/sh97003090
+wdt:P155{URIRef},wd:Q2649
+wdt:P156{URIRef},wd:Q2644
+wdt:P18{URIRef},http://commons.wikimedia.org/wiki/Special:FilePath/Vietnamdem.jpg
+wdt:P1889{URIRef},wd:Q13143063
+wdt:P244{Literal},sh97003090
+wdt:P2959{URIRef},wd:Q31802939
+wdt:P31{URIRef}[0],wd:Q235670
+wdt:P31{URIRef}[1],wd:Q3186692
+wdt:P361{URIRef}[0],wd:Q12138
+wdt:P361{URIRef}[1],wd:Q35724
+wdt:P373{Literal},1967
+wdt:P460{URIRef}[0],wd:Q109528302
+wdt:P460{URIRef}[1],wd:Q109529970
+wdt:P527{URIRef}[0],wd:Q13065773
+wdt:P527{URIRef}[1],wd:Q13066032
+wdt:P527{URIRef}[2],wd:Q13066132
+wdt:P527{URIRef}[3],wd:Q13067905
+wdt:P527{URIRef}[4],wd:Q13068506
+wdt:P527{URIRef}[5],wd:Q13070107
+wdt:P527{URIRef}[6],wd:Q13071475
+wdt:P527{URIRef}[7],wd:Q13072276
+wdt:P527{URIRef}[8],wd:Q13080419
+wdt:P527{URIRef}[9],wd:Q13080492
+wdt:P527{URIRef}[10],wd:Q16667759
+wdt:P527{URIRef}[11],wd:Q16676388
+wdt:P585{Literal}(xsd:dateTime),1967-01-01T00:00:00+00:00
+wdt:P6228{Literal},15455
+wdt:P6262{Literal},1960s:1967
+wdt:P8189{Literal},987007561359205171
+wdt:P910{URIRef},wd:Q6937527
+wdt:P935{Literal},1967
+wikibase:claim{URIRef},
+wikibase:directClaim{URIRef},
+wikibase:novalue{URIRef},
+wikibase:propertyType{URIRef},
+wikibase:qualifier{URIRef},
+wikibase:qualifierValue{URIRef},
+wikibase:reference{URIRef},
+wikibase:referenceValue{URIRef},
+wikibase:statementProperty{URIRef},
+wikibase:statementValue{URIRef},
+schema:about{URIRef},
+schema:inLanguage{Literal},
+schema:isPartOf{URIRef},
+wikibase:rank{URIRef},
+ps:P527{URIRef},
+owl:onProperty{URIRef},
+owl:someValuesFrom{URIRef},
+wikibase:wikiGroup{Literal},
+wikibase:directClaimNormalized{URIRef},
+wikibase:qualifierValueNormalized{URIRef},
+wikibase:referenceValueNormalized{URIRef},
+wikibase:statementValueNormalized{URIRef},
+owl:complementOf{BNode},
+prov:wasDerivedFrom{URIRef},
+ps:P361{URIRef},
+pq:P1810{Literal},
+ps:P6228{Literal},
+ps:P585{Literal}(xsd:dateTime),
+psv:P585{URIRef},
+ps:P31{URIRef},
+ps:P910{URIRef},
+cc:license{URIRef},
+schema:dateModified{Literal}(xsd:dateTime),
+schema:softwareVersion{Literal},
+schema:version{Literal}(xsd:integer),
+wikibase:identifiers{Literal}(xsd:integer),
+wikibase:sitelinks{Literal}(xsd:integer),
+wikibase:statements{Literal}(xsd:integer),
+wikibase:timeCalendarModel{URIRef},
+wikibase:timePrecision{Literal}(xsd:integer),
+wikibase:timeTimezone{Literal}(xsd:integer),
+wikibase:timeValue{Literal}(xsd:dateTime),
+pr:P248{URIRef},
+owl:sameAs{URIRef},
+ps:P8189{Literal},
+ps:P155{URIRef},
+ps:P244{Literal},
+psn:P244{URIRef},
+pr:P813{Literal}(xsd:dateTime),
+pr:P854{URIRef},
+prv:P813{URIRef},
+ps:P935{Literal},
+ps:P156{URIRef},
+ps:P2959{URIRef},
+ps:P1889{URIRef},
+ps:P460{URIRef},
+pq:P407{URIRef},
+pq:P9675{Literal},
+ps:P6262{Literal},
+ps:P18{URIRef},
+pr:P3452{URIRef},
+ps:P373{Literal},
+pr:P143{URIRef},
+entity,"Index(['schema:description{Literal}@af', 'schema:description{Literal}@an',
+       'schema:description{Literal}@ar', 'schema:description{Literal}@ast',
+       'schema:description{Literal}@az', 'schema:description{Literal}@bar',
+       'schema:description{Literal}@be',
+       'schema:description{Literal}@be-tarask',
+       'schema:description{Literal}@bg', 'schema:description{Literal}@bn',
+       ...
+       'ps:P2959{URIRef}', 'ps:P1889{URIRef}', 'ps:P460{URIRef}',
+       'pq:P407{URIRef}', 'pq:P9675{Literal}', 'ps:P6262{Literal}',
+       'ps:P18{URIRef}', 'pr:P3452{URIRef}', 'ps:P373{Literal}',
+       'pr:P143{URIRef}'],
+      dtype='object', length=903)"

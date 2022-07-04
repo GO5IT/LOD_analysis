@@ -1,0 +1,49 @@
+@id,http://id.loc.gov/authorities/subjects/sh93008322,full_coverage
+bflc:subjectOf{URIRef}[0],http://id.loc.gov/resources/works/11865217,bflc:subjectOf{URIRef}[0]
+bflc:subjectOf{URIRef}[1],http://id.loc.gov/resources/works/15484168,bflc:subjectOf{URIRef}[1]
+bflc:subjectOf{URIRef}[2],http://id.loc.gov/resources/works/15719944,bflc:subjectOf{URIRef}[2]
+bflc:subjectOf{URIRef}[3],http://id.loc.gov/resources/works/15811916,bflc:subjectOf{URIRef}[3]
+bflc:subjectOf{URIRef}[4],http://id.loc.gov/resources/works/16036405,bflc:subjectOf{URIRef}[4]
+bflc:subjectOf{URIRef}[5],http://id.loc.gov/resources/works/16264044,bflc:subjectOf{URIRef}[5]
+bflc:subjectOf{URIRef}[6],http://id.loc.gov/resources/works/18471247,bflc:subjectOf{URIRef}[6]
+bflc:subjectOf{URIRef}[7],http://id.loc.gov/resources/works/20779164,bflc:subjectOf{URIRef}[7]
+bflc:subjectOf{URIRef}[8],http://id.loc.gov/resources/works/20941125,bflc:subjectOf{URIRef}[8]
+bflc:subjectOf{URIRef}[9],http://id.loc.gov/resources/works/21559498,bflc:subjectOf{URIRef}[9]
+bflc:subjectOf{URIRef}[10],http://id.loc.gov/resources/works/22246390,bflc:subjectOf{URIRef}[10]
+bflc:subjectOf{URIRef}[11],http://id.loc.gov/resources/works/7594633,bflc:subjectOf{URIRef}[11]
+identifiers:lccn{Literal},sh 93008322,identifiers:lccn{Literal}
+madsrdf:adminMetadata{BNode}[0],N66e0d726297a4a12b39c31a059a3d863,madsrdf:adminMetadata{BNode}[0]
+madsrdf:adminMetadata{BNode}[1],Nd760f514ce1140fbb25ee554b2a929e5,madsrdf:adminMetadata{BNode}[1]
+madsrdf:authoritativeLabel{Literal}@en,"Nineteen sixty-nine, A.D.",madsrdf:authoritativeLabel{Literal}@en
+madsrdf:elementList{BNode},N5f51d6e6bdb94f12b054e4a3f59ef49f,madsrdf:elementList{BNode}
+madsrdf:hasBroaderAuthority{URIRef},http://id.loc.gov/authorities/subjects/sh96005475,madsrdf:hasBroaderAuthority{URIRef}
+madsrdf:hasCloseExternalAuthority{URIRef}[0],http://data.bnf.fr/ark:/12148/cb13331811t,madsrdf:hasCloseExternalAuthority{URIRef}[0]
+madsrdf:hasCloseExternalAuthority{URIRef}[1],http://id.worldcat.org/fast/1037823,madsrdf:hasCloseExternalAuthority{URIRef}[1]
+madsrdf:hasCloseExternalAuthority{URIRef}[2],http://www.wikidata.org/entity/Q2485,madsrdf:hasCloseExternalAuthority{URIRef}[2]
+madsrdf:hasSource{BNode},N948c65312113436faf46e0248bd58bda,madsrdf:hasSource{BNode}
+madsrdf:hasVariant{BNode}[0],Na002676df7e64447949e8809f7199627,madsrdf:hasVariant{BNode}[0]
+madsrdf:hasVariant{BNode}[1],Nda7e793ad7f14327862b5075f3bb89ec,madsrdf:hasVariant{BNode}[1]
+madsrdf:hasVariant{BNode}[2],Nfd00d168daab4553838d50b37d831839,madsrdf:hasVariant{BNode}[2]
+madsrdf:isMemberOfMADSCollection{URIRef}[0],http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings,madsrdf:isMemberOfMADSCollection{URIRef}[0]
+madsrdf:isMemberOfMADSCollection{URIRef}[1],http://id.loc.gov/authorities/subjects/collection_LCSH_General,madsrdf:isMemberOfMADSCollection{URIRef}[1]
+madsrdf:isMemberOfMADSScheme{URIRef},http://id.loc.gov/authorities/subjects,madsrdf:isMemberOfMADSScheme{URIRef}
+rdf:type{URIRef}[0],madsrdf:Authority,rdf:type{URIRef}[0]
+rdf:type{URIRef}[1],madsrdf:Topic,rdf:type{URIRef}[1]
+rdf:type{URIRef}[2],skos:Concept,rdf:type{URIRef}[2]
+owl:sameAs{URIRef}[0],http://id.loc.gov/authorities/sh93008322#concept,owl:sameAs{URIRef}[0]
+owl:sameAs{URIRef}[1],info:lc/authorities/sh93008322,owl:sameAs{URIRef}[1]
+skos:altLabel{Literal}[0]@en,1969 A.D.,skos:altLabel{Literal}[0]@en
+skos:altLabel{Literal}[1]@en,"Nineteen hundred sixty-nine, A.D.",skos:altLabel{Literal}[1]@en
+skos:altLabel{Literal}[2]@en,"Year nineteen sixty-nine, A.D.",skos:altLabel{Literal}[2]@en
+skos:broader{URIRef},http://id.loc.gov/authorities/subjects/sh96005475,skos:broader{URIRef}
+skos:changeNote{BNode}[0],N64aa25e0c24b4b0e97b757f3de35acc1,skos:changeNote{BNode}[0]
+skos:changeNote{BNode}[1],Ndb87d3c47cdf45d1a38591aab1b39d98,skos:changeNote{BNode}[1]
+skos:closeMatch{URIRef}[0],http://data.bnf.fr/ark:/12148/cb13331811t,skos:closeMatch{URIRef}[0]
+skos:closeMatch{URIRef}[1],http://id.worldcat.org/fast/1037823,skos:closeMatch{URIRef}[1]
+skos:closeMatch{URIRef}[2],http://www.wikidata.org/entity/Q2485,skos:closeMatch{URIRef}[2]
+skos:inScheme{URIRef},http://id.loc.gov/authorities/subjects,skos:inScheme{URIRef}
+skos:prefLabel{Literal}@en,"Nineteen sixty-nine, A.D.",skos:prefLabel{Literal}@en
+skosxl:altLabel{BNode}[0],N385fa20f143f47699f52eda5d095df23,skosxl:altLabel{BNode}[0]
+skosxl:altLabel{BNode}[1],N95704d968bc94e0aa232211c22752589,skosxl:altLabel{BNode}[1]
+skosxl:altLabel{BNode}[2],Nfeaf4302a01b4bc29ef1c9d09a826762,skosxl:altLabel{BNode}[2]
+entity,http://id.loc.gov/authorities/subjects/sh93008322,entity
