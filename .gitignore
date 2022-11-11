@@ -7,6 +7,8 @@
 *.ttl
 ##### Folders
 archive/
+#### Mac Finder metadata
+.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
